@@ -1,0 +1,165 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Executive summary}{3}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Climate change is settled science}{9}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}From the U of T divestment policy}{9}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}It is not properly the subject of ongoing academic debate that}{9}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}The University of Toronto is already taking action on climate change}{12}{subsection.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Fossil fuel companies acknowledge the reality and danger of climate change}{13}{subsection.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}The activities of fossil fuel companies are socially injurious, and this social injury cannot be reasonably remedied through shareholder voice}{15}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}From the U of T divestment policy}{15}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Social injury}{15}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Pricing the social cost of carbon}{17}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Impacts on agriculture}{17}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{The inundation of coastal areas}{20}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Storms, droughts, and other extreme weather}{22}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Wildfires}{24}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Increased risks to human health}{24}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Ecosystem collapse}{26}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Threats to First Nations groups and indigenous cultures}{29}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Threats to the infrastructure of cities, including Toronto}{30}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Abrupt and non-linear adverse climate impacts}{33}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Security implications}{34}{Item.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}The harm caused is inherent to the primary business of fossil fuel companies}{36}{subsection.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}The business activities of these companies frustrate the enforcement of the rules of domestic and international law intended to protect individuals against deprivation of health, safety, and basic freedoms}{37}{subsection.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Canadian domestic law}{37}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{U.S. domestic law}{39}{Item.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Domestic law in other jurisdictions}{40}{Item.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{International law}{41}{Item.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Why fossil fuels are like tobacco}{42}{subsection.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Divestment is compatible with the university's fiduciary duties}{45}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}From the U of T divestment policy}{45}{subsection.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Fossil fuel divestment is financially responsible}{45}{subsection.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}There is no evidence of a divestment penalty for investors}{46}{subsection.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}Market capitalization and value at risk}{47}{subsection.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Stated policy objectives are incompatible with the current valuation of fossil fuel reserves}{48}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Regulatory risk is not adequately priced}{48}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{There is a strong potential for malinvestment in capital-intensive, long-term projects}{49}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Fossil fuel reserves as stranded assets}{51}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Volatility of investor sentiment}{52}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5}Fossil fuels represent a risk to the university's other investments}{52}{subsection.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.6}Attractive substitutes exist for divested equities}{53}{subsection.4.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.7}Pensions and climate change}{54}{subsection.4.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.8}The significance of U of T's investments}{56}{subsection.4.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.9}Towards divestment}{56}{subsection.4.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Actions have been taken by the Canadian government and international bodies on this issue}{57}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}From the U of T divestment policy}{57}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Canadian federal government}{57}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Government of Ontario}{58}{subsection.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}City of Toronto}{58}{subsection.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Actions taken by other national bodies}{60}{subsection.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{United States}{60}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{United Kingdom}{64}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Germany}{65}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{China}{67}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{India}{68}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{France}{68}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6}Actions taken by international bodies}{71}{subsection.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Why start with Royal Dutch Shell?}{73}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Shell's ongoing history of social injury}{73}{subsection.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Legal offences in Nigeria}{74}{Item.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Infringements on governmental regulations and international health and environmental standards with respect to operations in Nigeria}{77}{Item.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Legal offences in Alberta}{77}{Item.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Continued threats to human rights, environmental well-being and international law}{79}{Item.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Shell represents financial risk}{80}{subsection.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Poor reputation for social responsibility lowers shareholder confidence}{80}{Item.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Fossil fuel extraction in the arctic represent particularly high-risk and unpredictable endeavours}{80}{Item.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Divestment from Shell would not hurt the university financially}{83}{subsection.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Short answers to common questions}{85}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Why should the university `take sides' in this matter? Is it appropriate for the university to take stances on social and political issues?}{85}{subsection.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2}Isn't shareholder activism a better option?}{86}{subsection.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3}Other people will buy the stocks we sell, so how does this make a difference?}{86}{subsection.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4}What are the University of Toronto's peer schools doing?}{86}{subsection.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5}But don't fossil fuel companies also invest in renewable energy?}{88}{subsection.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.6}In what cases have courts found that fossil fuel companies caused injury?}{89}{subsection.7.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.7}Isn't the energy sector, including oil and gas extraction, production and distribution, highly regulated by government at all levels?}{89}{subsection.7.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.8}Can humanity manage without fossil fuels?}{90}{subsection.7.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.9}Won't divestment hurt the endowment, including U of T's ability to provide scholarships?}{91}{subsection.7.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.10}Shouldn't U of T fight climate change through research and education?}{91}{subsection.7.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.11}Won't carbon capture and storage (CCS) save us?}{91}{subsection.7.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Sources cited}{94}{section.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Appendix I: Issues with respect to university divestment}{111}{section.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1}Policy on Social and Political Issues With Respect to University Divestment}{111}{subsection.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2}Procedures for Responding to Social and Political Issues with Respect to University Divestment}{112}{subsection.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Appendix II: The 200 companies with the largest fossil fuel reserves}{115}{section.10}

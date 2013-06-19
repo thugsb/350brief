@@ -1,0 +1,249 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+
+
+% This document is a brief prepared by Toronto350.org to encourage the University of Toronto to divest from fossil fuel stocks.
+% This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/3.0/
+% Toronto350.org does not require attribution by those making non-commercial use of this material.
+
+
+
+% This file provides the structure and formatting for the document - make sure section and image filenames agree and are in the same directory
+% last modified by Milan Ilnyckyj - 2013-06-14
+
+
+
+\documentclass[10pt]{article}
+
+% Set double spacing
+\usepackage{setspace}
+\doublespacing
+
+\usepackage{anysize} % lets us set the papersize and the margins
+
+% Define colours for use in this document
+\usepackage{color}
+\definecolor{dkred}{rgb}{0.9,0.05,0.05}
+\definecolor{navy}{rgb}{0.1,0.1,0.4}
+\definecolor{gray75}{gray}{0.75}
+
+\usepackage{enumitem} % lets us customize the three basic list environments: enumerate, itemize and description
+\setlist{nolistsep}
+
+
+% Set up custom fonts
+\usepackage{fontspec}
+\defaultfontfeatures{Scale=MatchLowercase,Mapping=tex-text} % should make all tex commands regarding double quotes, dashes etc. available
+\setmainfont{Charis SIL}
+\setsansfont{Luxi Sans}
+\setmonofont{DejaVu Sans Mono}
+\setcounter{secnumdepth}{2} % this sets how deep in the section/subsection tree the numbering goes
+
+% Packages for internal and external hyperlinks
+\usepackage{url}
+\usepackage[colorlinks=true,allcolors=navy]{hyperref} 
+
+\usepackage[version=3]{mhchem} % allows \ce{*formula*} for chemical notation. CO2 should be written \ce{CO2}
+
+% Code for fancy section headings
+\usepackage{titlesec, blindtext, color}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\section}[hang]{\Huge\bfseries}{\thesection\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+
+\author{Toronto350.org} 
+\title{The Fossil Fuel Industry and the Case for Divestment}
+
+\renewcommand\UrlFont{\ttfamily\itshape\scriptsize} % What does this do? -Milan
+
+% define 'vcom' for visible comments
+\newenvironment{vcom}{\fontspec{Komika Text}\color{dkred}}{}
+
+% define 'sansluxi' and 'describe' for small sans serif paragraphs and described lists respectively
+\newenvironment{sansluxi}{\small \fontspec{Luxi Sans}}{}
+\newenvironment{describe}{\small \begin{description}[font=\sffamily] \sffamily}{\end{description}}
+
+% define 'itquote' for italic block quotes - use this style for quoting the university's divestment policy
+\newenvironment{itquote}{%
+  \quote
+  \itshape
+}{%
+  \endquote
+}
+
+% define 'slquote' for sansluxi block quotes - use this style for blockquotes from supporting material?
+% Note from Milan 2013-06-14 - we are not using this
+\newenvironment{slquote}{%
+  \quote
+  \sansluxi
+}{%
+  \endquote
+}
+
+% Code for references
+\usepackage[backend=bibtex,style=authortitle-icomp,natbib=true,sortcites=true,block=space]{biblatex}
+\bibliography{briefbib-2-1-milan.bib}
+
+
+
+\begin{document}
+
+
+
+\marginsize{1in}{1in}{1in}{1in}
+
+
+
+\maketitle
+
+\vspace{5cm}
+
+{\small This is a \textbf{working draft} intended for review by members of Toronto350.org and outside experts.}
+
+\vspace{5cm}
+
+{\small This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 Unported License. To view a copy of this license, visit \url{http://creativecommons.org/licenses/by-nc/3.0/}.
+Toronto350.org does not require attribution by those making non-commercial use of this material.}
+
+
+
+\clearpage
+
+% Vertical alignment, height, content position, width
+\fbox{
+\begin{minipage}[c][0.7\linewidth][c]{\linewidth}
+\textbf{How to use this brief}
+
+
+
+This brief explains in detail why divestment from fossil fuel companies is in keeping with the values of the university and why it is feasible and financially prudent.
+This document is laid out to do three things:
+\begin{itemize}
+	\item respond directly to the University of Toronto's \nameref{PolicySocialPolitical} and \nameref{ProceduresResponding}, 
+	\item provide a comprehensive and well-documented case supporting each major claim, 
+	\item and give people the opportunity to understand the main elements of the argument quickly.
+\end{itemize}
+Those seeking a relatively quick overview should examine the \nameref{sec:ExecutiveSummary}, the table of contents, and the \nameref{sec:FAQ} provided.
+Those seeking detailed information should read the entirety of the relevant section.
+
+
+
+The petitioners who are supporting this proposal have affirmed that they have read and agree with this brief as a whole.
+\end{minipage}
+}
+
+
+
+\clearpage
+
+
+
+% SECTIONS AND WORK ALLOCATIONS
+% 1 - EXECUTIVE SUMMARY - MILAN
+% 2 - SUBJECT OF ONGOING ACADEMIC DEBATE - MILAN
+% 3 - SOCIAL INJURY - TAMARA AND MIE
+% 4 - FIDUCIARY DUTY - STUART
+% 5 - GOVERNMENT ACTIONS - MILAN
+% 6 - SHELL - MONICA
+% 7 - FAQ - MILAN
+% 8 - BIBLIOGRAPHY
+% 9 - DIVESTMENT POLICY
+% 10 - LIST OF COMPANIES
+
+
+
+% BEGIN SECTION 1 - MILAN
+% EXECUTIVE SUMMARY
+
+\include{s1-0-9-milan}
+
+% END SECTION 1 - MILAN
+
+
+
+\tableofcontents
+
+
+
+% BEGIN SECTION 2 - MILAN
+% CLIMATE CHANGE IS SETTLED SCIENCE
+
+\include{s2-1-8-milan}
+
+% END SECTION 2 - MILAN
+
+
+
+% BEGIN SECTION 3 - TAMARA AND MIE
+% SOCIAL INJURY
+
+\include{s3-1-1-milan}
+
+% END SECTION 3 - TAMARA AND MIE
+
+
+
+% BEGIN SECTION 4 - STUART
+% FIDUCIARY DUTIES
+
+\include{s4-2-9-milan}
+
+% END SECTION 4 - STUART
+
+
+
+% BEGIN SECTION 5 - MILAN
+% GOVERNMENT ACTIONS
+
+\include{s5-1-7-milan}
+
+% END SECTION 5 - MILAN
+
+
+
+% BEGIN SECTION 6 - MONICA
+% WHY SHELL
+
+\include{s6-1-0-milan}
+
+% END SECTION 6 - MONICA
+
+
+
+% BEGIN SECTION 7
+% FAQ
+
+\include{s7-0-5-milan}
+
+% END SECTION 7
+
+
+
+% BEGIN SECTION 8
+% BIBLIOGRAPHY
+
+\include{s8-0-4-milan}
+
+% END SECTION 8
+
+
+
+% BEGIN SECTION 9
+% DIVESTMENT POLICY
+
+\include{s9-0-2-milan}
+
+% END SECTION 9
+
+
+
+% BEGIN SECTION 10
+% LIST OF COMPANIES
+
+\include{s10-0-3-milan}
+
+% END SECTION 10
+
+
+
+\end{document}

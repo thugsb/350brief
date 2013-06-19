@@ -1,0 +1,6479 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{G8plusJointStatement}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Academia Brasileira de Ciencias, Brazil; Royal Society of Canada,
+  Canada; Chinese Academy of Sciences, CHina, Academie des Sciences, France;
+  Deutsche Akademie der Naturforsher Leopoldina, Germany; Indian National
+  Science Academy, India; Accademia Nazionale dei Lincei, Italy; Science
+  Council of Japan, Japan; Academia Mexicana de Ciencias, Mexico; Russian
+  Academy of Sciences, Russia; Academy of Science of South Africa, South
+  Africa; Royal Society, United Kingdom; National Academy of Sciences, United
+  States of America}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A1}
+  \strng{fullhash}{A1}
+  \field{sortinit}{A}
+  \field{title}{G8+5 Academies' joint statement: Climate change and the
+  transformation of energy technologies for a low carbon future}
+  \verb{url}
+  \verb http://www.nationalacademies.org/includes/G8+5energy-climate09.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{Stern2008}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Adam}{A.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AD1}
+  \strng{fullhash}{AD1}
+  \field{sortinit}{A}
+  \field{title}{I underestimated the threat, says Stern}
+  \verb{url}
+  \verb http://www.guardian.co.uk/environment/2008/apr/18/climatechange.carbone
+  \verb missions
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{TobaccoReport_2007}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Advisory Board on Tobacco Investment, University of Toronto}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A2}
+  \strng{fullhash}{A2}
+  \field{sortinit}{A}
+  \field{title}{Report of the Advisory Board on Tobacco Investment}
+  \field{year}{2007}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{FEMAFlood}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {AECOM}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A3}
+  \strng{fullhash}{A3}
+  \field{sortinit}{A}
+  \field{title}{The Impact of Climate Change and Population Growth on the
+  National Flood Insurance Program through 2100}
+  \verb{url}
+  \verb http://www.aecom.com/deployedfiles/Internet/News/Sustainability/FEMA%20
+  \verb Climate%20Change%20Report/Climate_Change_Report_AECOM_2013-06-11.pdf
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{RedrawingClimateEnergy}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Agency}{A.}%
+     {International~Energy}{I.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AIE1}
+  \strng{fullhash}{AIE1}
+  \field{sortinit}{A}
+  \field{title}{Redrawing the Energy-Climate Map}
+  \verb{url}
+  \verb http://www.slideshare.net/internationalenergyagency/redrawing-theeenrgy
+  \verb climatemappresentation
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{IEA2012}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Agency}{A.}%
+     {International~Energy}{I.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {Organization for Economic Cooperation}%
+    {Development}%
+  }
+  \strng{namehash}{AIE1}
+  \strng{fullhash}{AIE1}
+  \field{sortinit}{A}
+  \verb{doi}
+  \verb 10.1787/weo-2012-en
+  \endverb
+  \field{isbn}{9789264180840}
+  \field{title}{World Energy Outlook: 2012}
+  \verb{url}
+  \verb http://www.oecd-ilibrary.org/energy/world-energy-outlook-2012_weo-2012-
+  \verb en
+  \endverb
+  \verb{file}
+  \verb :Sources\\IEA 2012 - World Energy Outlook.pdf:PDF
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{IEA2012factsheet}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Agency}{A.}%
+     {International~Energy}{I.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AIE1}
+  \strng{fullhash}{AIE1}
+  \field{sortinit}{A}
+  \field{title}{World Energy Outlook 2012 Factsheet}
+  \verb{url}
+  \verb http://www.worldenergyoutlook.org/media/weowebsite/2012/factsheets.pdf
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{IEA2012press}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Agency}{A.}%
+     {International~Energy}{I.~E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AIE1}
+  \strng{fullhash}{AIE1}
+  \field{sortinit}{A}
+  \field{title}{World Energy Outlook 2012: Presentation to the press}
+  \verb{url}
+  \verb http://www.worldenergyoutlook.org/pressmedia/recentpresentations/Presen
+  \verb tationWEO2012launch.pdf
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{RealisticCostsCarbonCapture}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Al-Juaied}{A.-J.}%
+     {Mohammed}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Whitmore}{W.}%
+     {Adam}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AJMWA1}
+  \strng{fullhash}{AJMWA1}
+  \field{sortinit}{A}
+  \field{title}{Realistic Costs of Carbon Capture}
+  \verb{url}
+  \verb http://belfercenter.ksg.harvard.edu/publication/19185/realistic_costs_o
+  \verb f_carbon_capture.html?breadcrumb=%2Fproject%2F43%2Fenvironment_and_natu
+  \verb ral_resources
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{AlbertaEnergy}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{AlbertaEnergy}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A4}
+  \strng{fullhash}{A4}
+  \field{sortinit}{A}
+  \field{title}{Facts and Statistics}
+  \verb{url}
+  \verb http://www.energy.alberta.ca/oilsands/791.asp
+  \endverb
+\endentry
+
+\entry{OntarioPledge}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Algoma University, Brock University, Carleton University, the University
+  of Guelph, Lakehead University, Laurentian University, McMaster University,
+  Nipissing University, the University of Ontario Institute of Technology, the
+  University of Ottawa, Queen's University, Ryerson University, the University
+  of Toronto (President David Naylor), Trent University, the University of
+  Waterloo, the University of Western Ontario, Wildred Laurier University, the
+  University of Windsor, York University, the Ontario College of Art \& Design,
+  and the Royal Military College of Canada}}{A.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{A5}
+  \strng{fullhash}{A5}
+  \field{sortinit}{A}
+  \field{title}{Ontario Universities Committed to a Greener World}
+  \verb{url}
+  \verb http://sustainability.utoronto.ca/Assets/Sustainability+Digital+Assets/
+  \verb commitment.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{Alley2000}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Alley}{A.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Princeton University Press}%
+  }
+  \strng{namehash}{AR1}
+  \strng{fullhash}{AR1}
+  \field{sortinit}{A}
+  \field{title}{The Two Mile Time Machine: Ice Cores, Abrupt Climate Change,
+  and Our Future}
+  \field{year}{2000}
+\endentry
+
+\entry{Amiraslany2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Amiraslany}{A.}%
+     {Afshin}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AA1}
+  \strng{fullhash}{AA1}
+  \field{sortinit}{A}
+  \field{title}{The impact of climate change on Canadian agriculture : a
+  Ricardian approach}
+  \verb{url}
+  \verb http://ecommons.usask.ca/handle/10388/etd-05252010-102012
+  \endverb
+  \field{year}{{2010}}
+\endentry
+
+\entry{RiskingRuin_2012}{misc}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Amuna}{A.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bassey}{B.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Deranger}{D.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gemmill}{G.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Laboucon-Massimo}{L.-M.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Plain}{P.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vassey}{V.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AB+1}
+  \strng{fullhash}{ABBNDEGFLMMPRVD1}
+  \field{sortinit}{A}
+  \field{title}{Risking Ruin: Shell’s Dangerous Developments in the Tar
+  Sands, Arctic, and Nigeria}
+  \verb{url}
+  \verb http://platformlondon.org/wp-content/uploads/2012/06/Shell-Risking-Ruin
+  \verb .pdf
+  \endverb
+  \list{institution}{1}{%
+    {Indigenous Environmental Network \& The Athabasca Chipewyan First Nation}%
+  }
+  \field{year}{2012}
+\endentry
+
+\entry{ArcticUnsafe}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Beinecke}{B.}%
+     {Frances}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BF1}
+  \strng{fullhash}{BF1}
+  \field{sortinit}{B}
+  \field{title}{Six Reasons Arctic Offshore Drilling Cannot Be Done Safely}
+  \verb{url}
+  \verb http://theenergycollective.com/francesbeinecke/236171/six-reasons-why-o
+  \verb ffshore-drilling-arctic-cannot-be-done-safely
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{PacificChiefWorry}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bender}{B.}%
+     {Bryan}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BB1}
+  \strng{fullhash}{BB1}
+  \field{sortinit}{B}
+  \field{title}{Chief of US Pacific forces calls climate biggest worry}
+  \verb{url}
+  \verb http://www.bostonglobe.com/news/nation/2013/03/09/admiral-samuel-lockle
+  \verb ar-commander-pacific-forces-warns-that-climate-change-top-threat/BHdPVC
+  \verb LrWEMxRe9IXJZcHL/story.html
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{EndPermian}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Benton}{B.}%
+     {Michael~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Twitchett}{T.}%
+     {Richard~J.}{R.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BMJTRJ1}
+  \strng{fullhash}{BMJTRJ1}
+  \field{sortinit}{B}
+  \field{number}{7}
+  \field{title}{How to kill (almost) all life: the end-Permian extinction
+  event}
+  \verb{url}
+  \verb http://palaeo.gly.bris.ac.uk/Benton/reprints/2003TREEPTr.pdf
+  \endverb
+  \field{volume}{18}
+  \field{journaltitle}{TRENDS in Ecology and Evolution}
+  \field{year}{{2003}}
+\endentry
+
+\entry{BusinessWeekOvervalued}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Bloomberg Businessweek}}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{B1}
+  \strng{fullhash}{B1}
+  \field{sortinit}{B}
+  \field{title}{Economist: Energy reserves overvalued by global markets}
+  \verb{url}
+  \verb http://investing.businessweek.com/research/markets/news/article.asp?doc
+  \verb Key=600-201304201443UPI_____TOPITRAK_130454_7316-1
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{BlombergAussieWind}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Bloomberg New Energy Finance}}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{B2}
+  \strng{fullhash}{B2}
+  \field{sortinit}{B}
+  \field{title}{Renewable Energy Now Cheaper Than New Fossil Fuels in
+  Australia}
+  \verb{url}
+  \verb http://about.bnef.com/press-releases/renewable-energy-now-cheaper-than-
+  \verb new-fossil-fuels-in-australia/
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{HarvardTrustees}{misc}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Borowsky}{B.}%
+     {Hannah}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maxmin}{M.}%
+     {Chloe}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Franta}{F.}%
+     {Ben}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BHMCFB1}
+  \strng{fullhash}{BHMCFB1}
+  \field{sortinit}{B}
+  \field{title}{Harvard Students Meet With Trustees To Discuss Divestment}
+  \verb{url}
+  \verb http://divestharvard.com/harvard-students-meet-with-trustees-to-discuss
+  \verb -divestment/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BPClimateChange}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {BP}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{B3}
+  \strng{fullhash}{B3}
+  \field{sortinit}{B}
+  \field{title}{Climate change: Addressing the global challenge of climate
+  change will require the efforts of governments, industry and individuals}
+  \verb{url}
+  \verb http://www.bp.com/en/global/corporate/sustainability/the-energy-future/
+  \verb climate-change.html
+  \endverb
+\endentry
+
+\entry{ShellSuspends}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Broder}{B.}%
+     {John~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BJM1}
+  \strng{fullhash}{BJM1}
+  \field{sortinit}{B}
+  \field{title}{With 2 Ships Damaged, Shell Suspends Arctic Drilling}
+  \verb{url}
+  \verb http://www.nytimes.com/2013/02/28/business/energy-environment/shell-sus
+  \verb pends-arctic-drilling-for-2013.html?_r=0
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BullisonCCS}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Bullis}{B.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BK1}
+  \strng{fullhash}{BK1}
+  \field{sortinit}{B}
+  \field{title}{What Carbon Capture Can't Do}
+  \verb{url}
+  \verb http://www.technologyreview.com/view/516166/what-carbon-capture-cant-do
+  \verb /
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{CERACrossing}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Cambridge Energy Research Associates}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C1}
+  \strng{fullhash}{C1}
+  \field{sortinit}{C}
+  \field{title}{Crossing the Divide: The Future of Clean Energy}
+  \verb{url}
+  \verb http://www.precaution.org/lib/crossing_the_divide_brochure.080105.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{HardToScrub}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Canadian Broadcasting Corporation}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C2}
+  \strng{fullhash}{C2}
+  \field{sortinit}{C}
+  \field{title}{Secret advice to politicians: oilsands emissions hard to scrub}
+  \verb{url}
+  \verb http://www.cbc.ca/news/canada/story/2008/11/24/sands-trap.html
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{carbontracker}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Carbon Tracker Initiative}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C3}
+  \strng{fullhash}{C3}
+  \field{sortinit}{C}
+  \field{title}{Carbon Tracker Initiative}
+  \verb{url}
+  \verb http://www.carbontracker.org
+  \endverb
+\endentry
+
+\entry{CTI2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Carbon Tracker Institute}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C4}
+  \strng{fullhash}{C4}
+  \field{sortinit}{C}
+  \field{title}{Unburnable Carbon 2013: Wasted capital and stranded assets}
+  \verb{url}
+  \verb http://carbontracker.live.kiln.it/Unburnable-Carbon-2-Web-Version.pdf
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{CTI2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Carbon Tracker Institute}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C4}
+  \strng{fullhash}{C4}
+  \field{sortinit}{C}
+  \field{title}{Unburnable Carbon: Are the world's financial markets carrying a
+  carbon bubble}
+  \verb{url}
+  \verb http://www.carbontracker.org/wp-content/uploads/downloads/2012/08/Unbur
+  \verb nable-Carbon-Full1.pdf
+  \endverb
+  \verb{file}
+  \verb :Sources\\CarbonTracker 2012 Unburnable-Carbon-Full-rev2.pdf:PDF
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{TrusteesGuide}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Carbon Trust}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C5}
+  \strng{fullhash}{C5}
+  \field{sortinit}{C}
+  \field{title}{A Climate for Change: A Trustee’s Guide to Understanding and
+  Addressing Climate Risk}
+  \verb{url}
+  \verb http://www.iigcc.org/__data/assets/pdf_file/0010/262/A_climate_for_chan
+  \verb ge.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{NEPACases}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Center for Climate and Energy Solutions}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C6}
+  \strng{fullhash}{C6}
+  \field{sortinit}{C}
+  \field{title}{National Environmental Policy Act Cases}
+  \verb{url}
+  \verb http://www.c2es.org/federal/courts/national-environmental-policy-act-ca
+  \verb ses
+  \endverb
+\endentry
+
+\entry{NationalSecurityCC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Center for Naval Analyses}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C7}
+  \strng{fullhash}{C7}
+  \field{sortinit}{C}
+  \field{title}{National Security and the Threat of Climate Change}
+  \verb{url}
+  \verb http://www.cna.org/sites/default/files/news/FlipBooks/Climate%20Change%
+  \verb 20web/flipviewerxpress.html
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{AgeOfConsequences}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Center for Strategic and International Studies and the Center for a New
+  American Security}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C8}
+  \strng{fullhash}{C8}
+  \field{sortinit}{C}
+  \field{title}{The Age of Consequences: The Foreign Policy and National
+  Security Implications of Global Climate Change}
+  \verb{url}
+  \verb http://csis.org/files/media/csis/pubs/071105_ageofconsequences.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{CCESinitiatives}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Centre for Climate and Energy Solutions}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C9}
+  \strng{fullhash}{C9}
+  \field{sortinit}{C}
+  \field{title}{Multi-State Climate Initiatives}
+  \verb{url}
+  \verb http://www.c2es.org/us-states-regions/regional-climate-initiatives
+  \endverb
+\endentry
+
+\entry{KiobelShell}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Centre for Constitutional Rights}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C10}
+  \strng{fullhash}{C10}
+  \field{sortinit}{C}
+  \field{title}{Kiobel v. Royal Dutch Petroleum Co.}
+  \verb{url}
+  \verb http://ccrjustice.org/ourcases/current-cases/kiobel
+  \endverb
+\endentry
+
+\entry{MITContraints}{misc}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Chan}{C.}%
+     {Gabriel}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Reilly}{R.}%
+     {John~M.}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Paltsev}{P.}%
+     {Sergey}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chen}{C.}%
+     {Y.-H.~Henry}{Y.-H.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CG+1}
+  \strng{fullhash}{CGRJMPSCYHH1}
+  \field{sortinit}{C}
+  \field{title}{Canada’s Bitumen Industry Under \ce{CO2} Constraints}
+  \verb{url}
+  \verb http://globalchange.mit.edu/files/document/MITJPSPGC_Rpt183.pdf
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{OrderedFarmer}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chazan}{C.}%
+     {Guy}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CG1}
+  \strng{fullhash}{CG1}
+  \field{sortinit}{C}
+  \field{title}{Shell ordered to pay Niger Delta farmer}
+  \verb{url}
+  \verb http://www.ft.com/intl/cms/s/0/d30ad810-6acc-11e2-9670-00144feab49a.htm
+  \verb l
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{FFcorpsPlanning}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Cheeseman}{C.}%
+     {Gina-Marie}{G.-M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CGM1}
+  \strng{fullhash}{CGM1}
+  \field{sortinit}{C}
+  \field{title}{Oil Companies are Actually Planning for Climate Change}
+  \verb{url}
+  \verb http://www.triplepundit.com/2012/01/oil-companies-actually-planning-cli
+  \verb mate-change/
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{FreezingRain2007}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Cheng}{C.}%
+     {C.~S.}{C.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Auld}{A.}%
+     {H.}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klaassen}{K.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Li}{L.}%
+     {Q.}{Q.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CCS+1}
+  \strng{fullhash}{CCSAHLGKJLQ1}
+  \field{sortinit}{C}
+  \field{number}{7}
+  \field{title}{Possible impacts of climate change on freezing rain in
+  south-central Canada using downscaled future climate scenarios}
+  \verb{url}
+  \verb http://www.nat-hazards-earth-syst-sci.net/7/71/2007/nhess-7-71-2007.htm
+  \verb l
+  \endverb
+  \field{journaltitle}{{Natural Hazards and Earth System Sciences}}
+  \field{year}{{2007}}
+\endentry
+
+\entry{Toronto2013GHGmemo}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{City of Toronto}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C11}
+  \strng{fullhash}{C11}
+  \field{sortinit}{C}
+  \field{title}{Summary of Toronto's 2011 Greenhouse Gas and Air Quality
+  Pollutant Emissions Inventory}
+  \verb{url}
+  \verb http://www.toronto.ca/legdocs/mmis/2013/pe/bgrd/backgroundfile-57187.pd
+  \verb f
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{TorontoAQandCC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{City of Toronto}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C11}
+  \strng{fullhash}{C11}
+  \field{sortinit}{C}
+  \field{title}{Toronto Atmospheric Fund - Emission reduction}
+  \verb{url}
+  \verb http://www.toronto.ca/taf/emission_reduction.htm
+  \endverb
+\endentry
+
+\entry{LowIncomeProfile}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{City of Toronto Social Development, Finance and Administration
+  Division}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C12}
+  \strng{fullhash}{C12}
+  \field{sortinit}{C}
+  \field{title}{Profile of Low Income in the City of Toronto}
+  \verb{url}
+  \verb http://www.toronto.ca/demographics/pdf/poverty_profile_2010.pdf
+  \endverb
+  \field{year}{{2010}}
+\endentry
+
+\entry{SeniorsDemographicSnapshot}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{City of Toronto Social Development, Finance and Administration
+  Division}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C12}
+  \strng{fullhash}{C12}
+  \field{sortinit}{C}
+  \field{title}{Toronto Seniors Demographic Snapshot 2006}
+  \verb{url}
+  \verb http://www.toronto.ca/demographics/pdf/seniors_pres_2006_census_nov08.p
+  \verb df
+  \endverb
+  \field{year}{{2006}}
+\endentry
+
+\entry{RigFindings}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Cockerham}{C.}%
+     {Sean}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CS1}
+  \strng{fullhash}{CS1}
+  \field{sortinit}{C}
+  \field{title}{Coast Guard: Shell Arctic rig findings turned over to Justice
+  Dept.}
+  \verb{url}
+  \verb http://www.adn.com/2013/02/22/2798607/coast-guard-finds-violations-on.h
+  \verb tml
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{ConocoPhillipsCC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {ConocoPhillips}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C13}
+  \strng{fullhash}{C13}
+  \field{sortinit}{C}
+  \field{title}{Climate Change Position}
+  \verb{url}
+  \verb http://www.conocophillips.com/sustainable-development/our-approach/livi
+  \verb ng-by-our-principles/positions/Pages/climate-change.aspx
+  \endverb
+\endentry
+
+\entry{QuantConsensus}{article}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Cook}{C.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nuccitelli}{N.}%
+     {Dana}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Green}{G.}%
+     {Sarah~A}{S.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Richardson}{R.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Winkler}{W.}%
+     {Barbel}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Painting}{P.}%
+     {Rob}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Way}{W.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jacobs}{J.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Skuce}{S.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CJ+1}
+  \strng{fullhash}{CJNDGSARMWBPRWRJPSA1}
+  \field{sortinit}{C}
+  \field{number}{2}
+  \field{title}{Quantifying the consensus on anthropogenic global warming in
+  the scientific literature}
+  \verb{url}
+  \verb http://iopscience.iop.org/1748-9326/8/2/024024/
+  \endverb
+  \field{volume}{8}
+  \field{journaltitle}{Environmental Research Letters}
+  \field{year}{{2013}}
+\endentry
+
+\entry{Costello2009}{article}{}
+  \name{author}{28}{}{%
+    {{}%
+     {Costello}{C.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Abbas}{A.}%
+     {Mustafa}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Allen}{A.}%
+     {Adriana}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ball}{B.}%
+     {Sarah}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bell}{B.}%
+     {Sarah}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bellamy}{B.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Friel}{F.}%
+     {Sharon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Groce}{G.}%
+     {Nora}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Johnson}{J.}%
+     {Anne}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kett}{K.}%
+     {Maria}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lee}{L.}%
+     {Maria}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Levy}{L.}%
+     {Caren}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maslin}{M.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McCoy}{M.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McGuire}{M.}%
+     {Bill}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Montgomery}{M.}%
+     {Hugh}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Napier}{N.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pagel}{P.}%
+     {Christina}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Patel}{P.}%
+     {Jinesh}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oliveira}{O.}%
+     {Jose Antonio~Puppim}{J.~A.~P.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Redclift}{R.}%
+     {Nanneke}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rees}{R.}%
+     {Hannah}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rogger}{R.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scott}{S.}%
+     {Joanne}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stephenson}{S.}%
+     {Judith}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Twigg}{T.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wolff}{W.}%
+     {Jonathan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Patterson}{P.}%
+     {Craig}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CA+1}
+  \strng{fullhash}{CAAMAABSBSBRFSGNJAKMLMLCMMMDMBMHNDPCPJOJAPdRNRHRDSJSJTJWJPC1}
+  \field{sortinit}{C}
+  \field{title}{Managing the health effects of climate change}
+  \verb{url}
+  \verb http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2809%296
+  \verb 0935-1/fulltext
+  \endverb
+  \field{journaltitle}{{The Lancet}}
+  \field{year}{{2009}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Craven}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Craven}{C.}%
+     {Greg}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Perigee Trade}%
+  }
+  \strng{namehash}{CG2}
+  \strng{fullhash}{CG2}
+  \field{sortinit}{C}
+  \field{title}{What's the Worst That Could Happen?: A Rational Response to the
+  Climate Change Debate}
+  \field{year}{{2009}}
+\endentry
+
+\entry{FNSues}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{CTV Calgary}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C14}
+  \strng{fullhash}{C14}
+  \field{sortinit}{C}
+  \field{title}{First Nation sues Shell}
+  \verb{url}
+  \verb http://calgary.ctvnews.ca/first-nation-sues-shell-1.733736
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{DARACVM}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{DARA International}}{D.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{2}{%
+    {DARA}%
+    {the Climate Vulnerable Forum}%
+  }
+  \strng{namehash}{D1}
+  \strng{fullhash}{D1}
+  \field{sortinit}{D}
+  \field{edition}{2nd edition}
+  \field{title}{Climate Vulnerability Monitor: A Guide to the Cold Calculus of
+  A Hot Planet}
+  \verb{url}
+  \verb http://www.daraint.org/wp-content/uploads/2012/10/CVM2-Low.pdf
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{ThreatenGrowth}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {De~Souza}{D.~S.}%
+     {Mike}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DSM1}
+  \strng{fullhash}{DSM1}
+  \field{sortinit}{D}
+  \field{title}{Global climate efforts threaten oilsands growth, memo told
+  Natural Resources Minister Joe Oliver}
+  \verb{url}
+  \verb http://www.canada.com/business/Global+climate+efforts+threaten+oilsands
+  \verb +growth+memo+told+Natural+Resources+Minister+Oliver/8202635/story.html
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{TailingsLeaking}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {De~Souza}{D.~S.}%
+     {Mike}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DSM1}
+  \strng{fullhash}{DSM1}
+  \field{sortinit}{D}
+  \field{title}{Oilsands tailings leaking into groundwater, Joe Oliver told in
+  memo}
+  \verb{url}
+  \verb http://o.canada.com/2013/02/17/oilsands-tailings-leaking-into-groundwat
+  \verb er-joe-oliver-told-in-memo/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BureaucratsUrged}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {De~Soza}{D.~S.}%
+     {Mike}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DSM2}
+  \strng{fullhash}{DSM2}
+  \field{sortinit}{D}
+  \field{title}{Bureaucrats urged Kent to take global warming seriously}
+  \verb{url}
+  \verb http://www.sierraclub.ca/en/climate-change/in-the-news/bureaucrats-urge
+  \verb d-kent-take-global-warming-seriously
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{27declinecoral}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {De'ath}{D.}%
+     {Glenn}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fabricius}{F.}%
+     {Katharina~E.}{K.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sweatman}{S.}%
+     {Hugh}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Puotinen}{P.}%
+     {Marji}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DG+1}
+  \strng{fullhash}{DGFKESHPM1}
+  \field{sortinit}{D}
+  \field{title}{The 27–year decline of coral cover on the Great Barrier Reef
+  and its causes}
+  \verb{url}
+  \verb http://www.pnas.org/content/early/2012/09/25/1208909109
+  \endverb
+  \field{journaltitle}{Proceedings of the National Academy of Sciences}
+  \field{year}{{2012}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{HarvardPetition}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Divest Harvard}}{D.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{D2}
+  \strng{fullhash}{D2}
+  \field{sortinit}{D}
+  \field{title}{150 People Gather For Divest Harvard Petition Delivery}
+  \verb{url}
+  \verb http://divestharvard.com/15-people-gather-for-divest-harvard-petition-d
+  \verb elivery/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{HarvardMeeting}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Divest Harvard}}{D.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{D2}
+  \strng{fullhash}{D2}
+  \field{sortinit}{D}
+  \field{title}{Divest Harvard Meeting With Administration 2/1/13}
+  \verb{url}
+  \verb http://divestharvard.com/divest-harvard-meeting-with-administration-211
+  \verb 3/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{McGillStudentExecs}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Divest McGill}}{D.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{D3}
+  \strng{fullhash}{D3}
+  \field{sortinit}{D}
+  \field{title}{Letters from All Major Student Execs (2012-13, 2013-14) Call
+  for Divestment Today}
+  \verb{url}
+  \verb http://divestmcgill.com/264/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{DoreDisaster}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Dore}{D.}%
+     {Mohammed}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DM1}
+  \strng{fullhash}{DM1}
+  \field{sortinit}{D}
+  \field{title}{Forecasting the Conditional Probabilities of Natural Disasters
+  in Canada as a Guide for Disaster Preparedness}
+  \verb{url}
+  \verb http://link.springer.com/article/10.1023%2FA%3A1022978024522
+  \endverb
+  \field{volume}{28}
+  \field{journaltitle}{{Natural Hazards}}
+  \field{year}{{2003}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{CaribbeanCorals}{article}{}
+  \name{author}{67}{}{%
+    {{}%
+     {Eakin}{E.}%
+     {C.~Mark}{C.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morgan}{M.}%
+     {Jessica~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heron}{H.}%
+     {Scott~F.}{S.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smith}{S.}%
+     {Tyler~B.}{T.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liu}{L.}%
+     {Gang}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alvarez-Filip}{A.-F.}%
+     {Lorenzo}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Baca}{B.}%
+     {Bart}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bartels}{B.}%
+     {Erich}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bastidas}{B.}%
+     {Carolina}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bouchon}{B.}%
+     {Claude}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brandt}{B.}%
+     {Marilyn}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bruckner}{B.}%
+     {Andrew~W.}{A.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bunkley-Williams}{B.-W.}%
+     {Lucy}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cameron}{C.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Causey}{C.}%
+     {Billy~D.}{B.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chiappone}{C.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Christensen}{C.}%
+     {Tyler R.~L.}{T.~R.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Crabbe}{C.}%
+     {M.~James~C}{M.~J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Day}{D.}%
+     {Owen}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guardia}{G.}%
+     {Elena}{E.}%
+     {de~la}{d.~l.}%
+     {}{}}%
+    {{}%
+     {Diaz-Pulido}{D.-P.}%
+     {Guillermo}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {DiResta}{D.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gil-Agudelo}{G.-A.}%
+     {Diego~L.}{D.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gilliam}{G.}%
+     {David~S.}{D.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ginsburg}{G.}%
+     {Robert~N.}{R.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gore}{G.}%
+     {Shannon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Guzman}{G.}%
+     {Hector~M.}{H.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hendee}{H.}%
+     {James~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hernandez-Delgado}{H.-D.}%
+     {Edwin~A.}{E.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Husain}{H.}%
+     {Ellen}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jeffrey}{J.}%
+     {Christopher F.~G.}{C.~F.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jones}{J.}%
+     {Ross~J.}{R.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jordan-Dahlgren}{J.-D.}%
+     {Eric}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kaufman}{K.}%
+     {Les~S.}{L.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kline}{K.}%
+     {David~I.}{D.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kramer}{K.}%
+     {Philip~A.}{P.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lang}{L.}%
+     {Judith~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lirman}{L.}%
+     {Diego}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mallela}{M.}%
+     {Jennie}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Manfrino}{M.}%
+     {Carrie}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marechal}{M.}%
+     {Jean-Philippe}{J.-P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marks}{M.}%
+     {Ken}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mihaly}{M.}%
+     {Jennifer}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Miller}{M.}%
+     {W.~Jeff}{W.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mueller}{M.}%
+     {Erich~M.}{E.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Muller}{M.}%
+     {Erinn~M.}{E.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Toro}{T.}%
+     {Carlos A.~Orozco}{C.~A.~O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oxenford}{O.}%
+     {Hazel~A.}{H.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ponce-Taylor}{P.-T.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Quinn}{Q.}%
+     {Norman}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ritchie}{R.}%
+     {Kim~B.}{K.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rodriguez}{R.}%
+     {Sebastian}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ramirez}{R.}%
+     {Alberto~Rodriguez}{A.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Romano}{R.}%
+     {Sandra}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Samhouri}{S.}%
+     {Jameal~F.}{J.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sanchez}{S.}%
+     {Juan~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schmahl}{S.}%
+     {George~P.}{G.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shank}{S.}%
+     {Burton~V.}{B.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Skirving}{S.}%
+     {William~J.}{W.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steiner}{S.}%
+     {Sascha C.~C.}{S.~C.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Villamizar}{V.}%
+     {Estrella}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Walsh}{W.}%
+     {Sheila~M.}{S.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Walter}{W.}%
+     {Cory}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Weil}{W.}%
+     {Ernesto}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Williams}{W.}%
+     {Ernest~H.}{E.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Roberson}{R.}%
+     {Kimberly~Woody}{K.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yusuf}{Y.}%
+     {Yusri}{Y.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ECM+1}
+  \strng{fullhash}{ECMMJAHSFSTBLGAFLBBBEBCBCBMBAWBWLCACBDCMCTRLCMJCDOGEdlDPGDDGADLGDSGRNGSGHMHJCHDEAHEJCFGJRJJDEKLSKDIKPALJCLDMJMCMJPMKMJMWJMEMMEMTCAOOHAPTDQNRKBRSRARRSSJFSJASGPSBVSWJSSCCVEWSMWCWEWEHRKWYY1}
+  \field{sortinit}{E}
+  \field{title}{Caribbean Corals in Crisis: Record Thermal Stress, Bleaching,
+  and Mortality in 2005}
+  \verb{url}
+  \verb http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0013
+  \verb 969
+  \endverb
+  \field{journaltitle}{PLOS One}
+  \field{year}{{2010}}
+\endentry
+
+\entry{BoliviaGives}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Eaton}{E.}%
+     {Janet}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EJ1}
+  \strng{fullhash}{EJ1}
+  \field{sortinit}{E}
+  \field{title}{Bolivia Gives Legal Rights To Mother Earth}
+  \verb{url}
+  \verb http://www.sierraclub.ca/en/main-page/bolivia-gives-legal-rights-mother
+  \verb -earth
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{EbiHealthJustice}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ebi}{E.}%
+     {Kristie}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EK1}
+  \strng{fullhash}{EK1}
+  \field{sortinit}{E}
+  \field{issue}{4}
+  \field{title}{Facilitating Climate Justice through Community-Based Adaptation
+  in the Health Sector}
+  \verb{url}
+  \verb http://online.liebertpub.com/doi/abs/10.1089/env.2009.0031
+  \endverb
+  \field{volume}{2}
+  \field{journaltitle}{{Environmental Justice}}
+  \field{year}{{2009}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{CCLatinAmerica}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Economic Commission for Latin America and the Caribbean}}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E1}
+  \strng{fullhash}{E1}
+  \field{sortinit}{E}
+  \field{title}{Economics of Climate Change in Latin America and the Caribbean}
+  \verb{url}
+  \verb http://www.eclac.cl/publicaciones/xml/3/38133/2009-851-Summary-Economic
+  \verb s_climate_change-WEB.pdf
+  \endverb
+  \field{year}{2009}
+\endentry
+
+\entry{UTEnvResDB}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Environment}{E.}%
+     {University}{U.}%
+     {of~Toronto School of~the}{o.~T. S. o.~t.}%
+     {}{}}%
+  }
+  \strng{namehash}{EUoTSot1}
+  \strng{fullhash}{EUoTSot1}
+  \field{sortinit}{E}
+  \field{title}{Environmental Research Database}
+  \verb{url}
+  \verb http://app1.environment.utoronto.ca/EnvironmentalResearchDatabase/
+  \endverb
+\endentry
+
+\entry{ECCoalFired}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Environment Canada}}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E2}
+  \strng{fullhash}{E2}
+  \field{sortinit}{E}
+  \field{title}{Harper Government Moves Forward on Tough Rules for Coal-Fired
+  Electricity Sector}
+  \verb{url}
+  \verb http://www.ec.gc.ca/default.asp?lang=En&n=714D9AAE-1&news=4D34AE9B-1768
+  \verb -415D-A546-8CCF09010A23
+  \endverb
+\endentry
+
+\entry{ECImpactsOfCC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Environment Canada}}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E2}
+  \strng{fullhash}{E2}
+  \field{sortinit}{E}
+  \field{title}{Impacts of Climate Change}
+  \verb{url}
+  \verb http://www.climatechange.gc.ca/default.asp?lang=En&n=036D9756-1
+  \endverb
+\endentry
+
+\entry{ECReducing}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Environment Canada}}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E2}
+  \strng{fullhash}{E2}
+  \field{sortinit}{E}
+  \field{title}{Reducing Greenhouse Gases}
+  \verb{url}
+  \verb http://climatechange.gc.ca/default.asp?lang=En&n=4FE85A4C-1
+  \endverb
+\endentry
+
+\entry{ExpertPanelAdapting2009}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Expert Panel on Climate Change Adaptation}}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E3}
+  \strng{fullhash}{E3}
+  \field{sortinit}{E}
+  \field{title}{Adapting to Climate Change in Ontario}
+  \verb{url}
+  \verb http://www.ene.gov.on.ca/stdprodconsume/groups/lr/@ene/@resources/docum
+  \verb ents/resource/std01_079212.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{ExxonCDP2011}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {ExxonMobil}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E4}
+  \strng{fullhash}{E4}
+  \field{sortinit}{E}
+  \field{title}{Carbon Disclosure Project: CDP 2011 Investor CDP 2011
+  Information Request}
+  \verb{url}
+  \verb http://www.exxonmobil.com/Corporate/Files/cdp_investor_2011.pdf
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{ExxonWhatWeDo}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {ExxonMobil}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E4}
+  \strng{fullhash}{E4}
+  \field{sortinit}{E}
+  \field{title}{Exxon: What We Do}
+  \verb{url}
+  \verb http://www.exxonmobil.com/Corporate/about_what.aspx
+  \endverb
+\endentry
+
+\entry{AdaptPrioritiesCanada}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Feltmate}{F.}%
+     {Blair}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thistlewaite}{T.}%
+     {Jason}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FBTJ1}
+  \strng{fullhash}{FBTJ1}
+  \field{sortinit}{F}
+  \field{title}{Climate Change Adaptation: A Priorities Plan for Canada}
+  \verb{url}
+  \verb https://uwaterloo.ca/environment/sites/ca.environment/files/uploads/fil
+  \verb es/CCAP-Report-30May-Final.pdf
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{McGillDelivers}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fenton}{F.}%
+     {Cam}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FC1}
+  \strng{fullhash}{FC1}
+  \field{sortinit}{F}
+  \field{title}{Divest McGill Delivers Social Injury Briefs}
+  \verb{url}
+  \verb http://gofossilfree.ca/divest-mcgill-delivers-social-injury-briefs/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{GCBLX}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Fidelity Investments}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F1}
+  \strng{fullhash}{F1}
+  \field{sortinit}{F}
+  \field{title}{GCBLX Summary - Green Century Balanced Fund}
+  \verb{url}
+  \verb https://fundresearch.fidelity.com/mutual-funds/summary/392768107
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{NEXTX}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Fidelity Investments}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F1}
+  \strng{fullhash}{F1}
+  \field{sortinit}{F}
+  \field{title}{NEXTX Summary - Shelton Green Alpha}
+  \verb{url}
+  \verb https://fundresearch.fidelity.com/mutual-funds/summary/82301Q692
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{PORTX}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Fidelity Investments}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F1}
+  \strng{fullhash}{F1}
+  \field{sortinit}{F}
+  \field{title}{PORTX Summary - Portfolio 21 Global Equity Fund Class R}
+  \verb{url}
+  \verb https://fundresearch.fidelity.com/mutual-funds/summary/742935588
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{SmartPlanetSolar100}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fleischfresser}{F.}%
+     {Channtal}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FC2}
+  \strng{fullhash}{FC2}
+  \field{sortinit}{F}
+  \field{title}{Solar power produced 100\% of new energy on U.S. grid in March}
+  \verb{url}
+  \verb http://www.smartplanet.com/blog/bulletin/solar-power-produced-100-of-ne
+  \verb w-energy-on-us-grid-in-march/18083
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{9thcircuitHighway}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fletcher}{F.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FB1}
+  \strng{fullhash}{FB1}
+  \field{sortinit}{F}
+  \field{title}{Center for Biological Diversity vs. National Highway Traffic
+  Safety Administration}
+  \verb{url}
+  \verb http://www.climatelaw.org/cases/country/us/case-documents/us/CBDvNHTSA
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{VulnerableSpecies}{article}{}
+  \name{author}{19}{}{%
+    {{}%
+     {Foden}{F.}%
+     {Wendy~B.}{W.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Butchart}{B.}%
+     {Stuart H.~M.}{S.~H.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stuart}{S.}%
+     {Simon~N.}{S.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vie}{V.}%
+     {Jean-Christophe}{J.-C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Akcakaya}{A.}%
+     {H.~Resit}{H.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Angulo}{A.}%
+     {Ariadne}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {DeVantier}{D.}%
+     {Lyndon~M.}{L.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gutsche}{G.}%
+     {Alexander}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Turak}{T.}%
+     {Emre}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cao}{C.}%
+     {Long}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Donner}{D.}%
+     {Simon~D.}{S.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Katariya}{K.}%
+     {Vineet}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bernard}{B.}%
+     {Rodolphe}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Holland}{H.}%
+     {Robert~A.}{R.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hughes}{H.}%
+     {Adrian~F.}{A.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {O'Hanlon}{O.}%
+     {Susannah~E.}{S.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Garnett}{G.}%
+     {Stephen~T.}{S.~T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sekercioglu}{S.}%
+     {Cagan~H.}{C.~H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mace}{M.}%
+     {Georgina~M.}{G.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FWB+1}
+  \strng{fullhash}{FWBBSHMSSNVJCAHRAADLMGATECLDSDKVBRHRAHAFOSEGSTSCHMGM1}
+  \field{sortinit}{F}
+  \field{issue}{6}
+  \field{title}{Identifying the World's Most Climate Change Vulnerable Species:
+  A Systematic Trait-Based Assessment of all Birds, Amphibians and Corals}
+  \verb{url}
+  \verb http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0065
+  \verb 427
+  \endverb
+  \field{volume}{8}
+  \field{journaltitle}{PLOS One}
+  \field{year}{{2013}}
+\endentry
+
+\entry{VulAborig2009}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Ford}{F.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Berrang-Ford}{B.-F.}%
+     {Lea}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {King}{K.}%
+     {Malcolm}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Furgal}{F.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FJ+1}
+  \strng{fullhash}{FJBFLKMFC1}
+  \field{sortinit}{F}
+  \field{title}{Vulnerability of Aboriginal health systems in Canada to climate
+  change}
+  \verb{url}
+  \verb http://www.jamesford.ca/wp-content/uploads/2010/06/in-press-version.pdf
+  \endverb
+  \field{journaltitle}{{Global Environmental Change}}
+  \field{year}{{2010}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{CCInuitCommunities}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Ford}{F.}%
+     {James~D.}{J.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Smit}{S.}%
+     {Barry}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wandel}{W.}%
+     {Johanna}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Allurut}{A.}%
+     {Mishak}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shappa}{S.}%
+     {Kik}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Itusarjuat}{I.}%
+     {Harry}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Qrunnut}{Q.}%
+     {Kegin}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FJD+1}
+  \strng{fullhash}{FJDSBWJAMSKIHQK1}
+  \field{sortinit}{F}
+  \field{number}{1}
+  \field{title}{Climate change in the Arctic: current and future vulnerability
+  in two Inuit communities in Canada}
+  \verb{url}
+  \verb http://www.uoguelph.ca/gecg/images/userimages/Ford%20et%20al.%20(2008)_
+  \verb The%20Geographic%20Journal.pdf
+  \endverb
+  \field{volume}{174}
+  \field{journaltitle}{{The Geographical Journal}}
+  \field{year}{{2008}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{RobbingCarbonBank}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{ForestEthics}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F2}
+  \strng{fullhash}{F2}
+  \field{sortinit}{F}
+  \field{title}{Robbing the Carbon Bank: Global Warming \& Ontario's Boreal
+  Forest}
+  \verb{url}
+  \verb http://www.borealbirds.org/resources/report-fe-robbingthecarbonbank.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{GFFMyMoney}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Fossil Free}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F3}
+  \strng{fullhash}{F3}
+  \field{sortinit}{F}
+  \field{title}{Move My Money}
+  \verb{url}
+  \verb http://gofossilfree.org/mymoney/
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{UNBPetition}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Fossil Free UNB}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F4}
+  \strng{fullhash}{F4}
+  \field{sortinit}{F}
+  \field{title}{Petition signature count: 306!}
+  \verb{url}
+  \verb http://fossilfreeunb.tumblr.com/post/46956124327/petition-signature-cou
+  \verb nt-306
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{UNBStudentUnion}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Fossil Free UNB}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F4}
+  \strng{fullhash}{F4}
+  \field{sortinit}{F}
+  \field{title}{Today, our Fossil Free UNB team is presenting our project and a
+  resolution of support to the UNB Student Union.}
+  \verb{url}
+  \verb http://fossilfreeunb.tumblr.com/post/47385670362/today-our-fossil-free-
+  \verb unb-team-is-presenting-our
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BigChoice}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Fullerton}{F.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FJ1}
+  \strng{fullhash}{FJ1}
+  \field{sortinit}{F}
+  \field{title}{The big choice: money or planet?}
+  \verb{url}
+  \verb http://www.guardian.co.uk/sustainable-business/blog/carbon-reduction-co
+  \verb mmitment-finance
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{Aperio2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Geddes}{G.}%
+     {Patrick}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GP1}
+  \strng{fullhash}{GP1}
+  \field{sortinit}{G}
+  \field{howpublished}{Electronic - Aperio Group}
+  \field{title}{Do the Investment Math: Building a Carbon-Free Portfolio}
+  \verb{url}
+  \verb http://www.aperiogroup.com/system/files/documents/building_a_carbon_fre
+  \verb e_portfolio.pdf
+  \endverb
+  \verb{file}
+  \verb :Sources\\aperio 2013 - building_a_carbon_free_portfolio.pdf:PDF
+  \endverb
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{ShellArcticOilRush}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gemmill}{G.}%
+     {Faith}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GF1}
+  \strng{fullhash}{GF1}
+  \field{sortinit}{G}
+  \field{title}{Shell and the Arctic Oil Rush}
+  \verb{url}
+  \verb http://climate-connections.org/2013/05/24/shell-and-the-arctic-oil-rush
+  \verb /
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{TStarSellOff}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Girard}{G.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GD1}
+  \strng{fullhash}{GD1}
+  \field{sortinit}{G}
+  \field{title}{U of T to sell off its tobacco holdings}
+  \verb{url}
+  \verb http://www.thestar.com/news/2007/04/10/u_of_t_to_sell_off_its_tobacco_h
+  \verb oldings.html
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{GlobalDataSolar}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {GlobalData}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{G1}
+  \strng{fullhash}{G1}
+  \field{sortinit}{G}
+  \field{title}{Grid Parity for Wind and Solar Power - Future Outlook and
+  Impact Analysis}
+  \verb{url}
+  \verb http://store.globaldata.com/market-reports/alternative-energy/Grid-Pari
+  \verb ty-for-Wind-and-Solar-Power-Future-Outlook-and-Impact-Analysis
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{CriticalDecade2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Government of Australia Climate Commission}}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{G2}
+  \strng{fullhash}{G2}
+  \field{sortinit}{G}
+  \field{title}{The Critical Decade 2013}
+  \verb{url}
+  \verb http://climatecommission.gov.au/wp-content/uploads/The-Critical-Decade-
+  \verb 2013_medres_web.pdf
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{20082009ActionPlan}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Government of Ontario}}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{G3}
+  \strng{fullhash}{G3}
+  \field{sortinit}{G}
+  \field{title}{Annual Report 2008-09: Climate Change Action Plan}
+  \verb{url}
+  \verb http://www.ene.gov.on.ca/stdprodconsume/groups/lr/@ene/@resources/docum
+  \verb ents/resource/std01_079210.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{EPACessation}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Government of Ontario}}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{G3}
+  \strng{fullhash}{G3}
+  \field{sortinit}{G}
+  \field{title}{Ontario Regulation 496/07: Cessation of Coal Use – Atikokan,
+  Lambtom, Nantcoke and Thunder Bay Generating Stations}
+  \verb{url}
+  \verb http://www.e-laws.gov.on.ca/html/regs/english/elaws_regs_070496_e.htm
+  \endverb
+\endentry
+
+\entry{EPAhaspower}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Greenhouse}{G.}%
+     {Linda}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GL1}
+  \strng{fullhash}{GL1}
+  \field{sortinit}{G}
+  \field{title}{Justices Say E.P.A. Has Power to Act on Harmful Gases}
+  \verb{url}
+  \verb http://www.nytimes.com/2007/04/03/washington/03scotus.html
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{GPCCS}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Greenpeace}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{G4}
+  \strng{fullhash}{G4}
+  \field{sortinit}{G}
+  \field{title}{False Hope: Why carbon capture and storage won’t save the
+  climate}
+  \verb{url}
+  \verb http://www.greenpeace.org/usa/Global/usa/report/2008/5/false-hope-why-c
+  \verb arbon-capture.pdf
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{OutInTheCold_2012}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Greenpeace}{G.}%
+     {Platform}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {FairPensions}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GPF1}
+  \strng{fullhash}{GPF1}
+  \field{sortinit}{G}
+  \field{title}{Out in the Cold: Investor Risk in Shell’s Arctic Exploration}
+  \verb{url}
+  \verb http://www.greenpeace.de/fileadmin/gpd/user_upload/themen/oel/20120521-
+  \verb Risiken-Oelbohrungen-Arktis-Investoren-englisch.pdf
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{DeutscheBankSI}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Group}{G.}%
+     {Deutsche~Bank}{D.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GDB1}
+  \strng{fullhash}{GDB1}
+  \field{sortinit}{G}
+  \field{title}{Sustainable Investing: Establishing Long-term Value and
+  Performance}
+  \verb{url}
+  \verb https://www.dbadvisors.com/content/_media/Sustainable_Investing_2012.pd
+  \verb f
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{ShiftToClimatePreparedness}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gunther}{G.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{GM1}
+  \strng{fullhash}{GM1}
+  \field{sortinit}{G}
+  \field{title}{The Coming Shift to `Climate Preparedness'}
+  \verb{url}
+  \verb http://www.greenbiz.com/blog/2012/01/23/coming-shift-climate-preparedne
+  \verb ss
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{HansenVenusThreat}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hansen}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ1}
+  \field{sortinit}{H}
+  \field{title}{Climate Threat to the Planet: Implications for Energy Policy
+  and Intergenerational Justice}
+  \verb{url}
+  \verb http://www.columbia.edu/~jeh1/2008/AGUBjerknes_20081217.pdf
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{Hansen2010}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hansen}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Bloomsbury USA}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ1}
+  \field{sortinit}{H}
+  \field{title}{Storms of My Grandchildren}
+  \field{year}{{2010}}
+\endentry
+
+\entry{FaustianGrowth}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hansen}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kharecha}{K.}%
+     {Pushker}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sato}{S.}%
+     {Makiko}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJKPSM1}
+  \strng{fullhash}{HJKPSM1}
+  \field{sortinit}{H}
+  \field{number}{1}
+  \field{title}{Climate forcing growth rates: doubling down on our Faustian
+  bargain}
+  \verb{url}
+  \verb http://iopscience.iop.org/1748-9326/8/1/011006
+  \endverb
+  \field{volume}{8}
+  \field{journaltitle}{Environmental Research Letters}
+  \field{year}{{2013}}
+\endentry
+
+\entry{HansenPaleo}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hansen}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sato}{S.}%
+     {Makiko}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJSM1}
+  \strng{fullhash}{HJSM1}
+  \field{sortinit}{H}
+  \field{title}{Paleoclimate Implications for Human-Made Climate Change}
+  \verb{url}
+  \verb http://www.columbia.edu/~jeh1/mailings/2011/20110118_MilankovicPaper.pd
+  \verb f
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{TargetAtmosphere}{misc}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Hansen}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sato}{S.}%
+     {Makiko}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kharecha}{K.}%
+     {Pushker}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Beerling}{B.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Masson-Delmotte}{M.-D.}%
+     {Valerie}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pagani}{P.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raymo}{R.}%
+     {Maureen}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Royer}{R.}%
+     {Dana~L.}{D.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zachos}{Z.}%
+     {James~C.}{J.~C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJ+1}
+  \strng{fullhash}{HJSMKPBDMDVPMRMRDLZJC1}
+  \field{sortinit}{H}
+  \field{title}{Target Atmospheric \ce{CO2}: Where Should Humanity Aim?}
+  \verb{url}
+  \verb http://www.columbia.edu/~jeh1/2008/TargetCO2_20080407.pdf
+  \endverb
+  \field{year}{2008}
+\endentry
+
+\entry{HealthCanadaPreparingImpacts}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Health Canada}}{H.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{H1}
+  \strng{fullhash}{H1}
+  \field{sortinit}{H}
+  \field{title}{Climate Change: Preparing for the Health Impacts}
+  \verb{url}
+  \verb http://www.hc-sc.gc.ca/sr-sr/pubs/hpr-rpms/bull/2005-climat/index-eng.p
+  \verb hp
+  \endverb
+  \field{year}{{2005}}
+\endentry
+
+\entry{HHInACC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Health Canada}}{H.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{H1}
+  \strng{fullhash}{H1}
+  \field{sortinit}{H}
+  \field{title}{Human Health in a Changing Climate: A Canadian Assessment of
+  Vulnerabilities and Adaptive Capacity}
+  \verb{url}
+  \verb http://www.2degreesc.com/Files/CCandHealth.pdf
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{WHStrengthened}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Henn}{H.}%
+     {Jamie}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ2}
+  \field{sortinit}{H}
+  \field{title}{The White House Just Strengthened the Case for Fossil Fuel
+  Divestment}
+  \verb{url}
+  \verb http://www.huffingtonpost.com/jamie-henn/fossil-fuel-divestment_b_33941
+  \verb 42.html
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{TuftsDivest}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Henn}{H.}%
+     {Jamie}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJ1}
+  \strng{fullhash}{HJ2}
+  \field{sortinit}{H}
+  \field{title}{Tufts Administration Forms Working Group to Study Divestment}
+  \verb{url}
+  \verb http://gofossilfree.org/tufts-administration-forms-working-group-to-stu
+  \verb dy-divestment/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{JeremyGrantham}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Hickman}{H.}%
+     {Leo}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HL1}
+  \strng{fullhash}{HL1}
+  \field{sortinit}{H}
+  \field{title}{Jeremy Grantham, environmental philanthropist: 'We're trying to
+  buy time for the world to wake up'}
+  \verb{url}
+  \verb http://www.guardian.co.uk/environment/2013/apr/12/jeremy-grantham-envir
+  \verb onmental-philanthropist-interview
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{ResPortFFPensions}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{HIP Investor}}{H.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{H2}
+  \strng{fullhash}{H2}
+  \field{sortinit}{H}
+  \field{title}{Resilient Portfolios \& Fossil-Free Pensions}
+  \verb{url}
+  \verb http://gofossilfree.org/files/2013/05/Resilient-Portfolios-and-Fossil-F
+  \verb ree-Pensions.pdf
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{ClimateCoverUp}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hoggan}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Littlemore}{L.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Greystone Books}%
+  }
+  \strng{namehash}{HJLR1}
+  \strng{fullhash}{HJLR1}
+  \field{sortinit}{H}
+  \field{title}{Climate Cover-Up: The Crusade to Deny Global Warming}
+  \field{year}{{2009}}
+\endentry
+
+\entry{Holland-BartelsPierce_2011}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Holland-Bartels}{H.-B.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Pierce}{P.}%
+     {B.}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HBLPB1}
+  \strng{fullhash}{HBLPB1}
+  \field{sortinit}{H}
+  \field{title}{An Evaluation of the Science Needs to Inform Decisions on Outer
+  Continental Shelf energy Development in the Chukchi and Beaufort Seas,
+  Alaska}
+  \verb{url}
+  \verb http://pubs.usgs.gov/fs/2011/3048/pdf/fs20113048.pdf
+  \endverb
+  \list{institution}{1}{%
+    {US Geological Survey}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{OilIndustryVanDenHove}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Hove}{H.}%
+     {Sybille}{S.}%
+     {van~den}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Le~Menestrel}{L.~M.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bettignies}{B.}%
+     {Henri-Claude}{H.-C.}%
+     {de}{d.}%
+     {}{}}%
+  }
+  \strng{namehash}{HSvdLMMBHCd1}
+  \strng{fullhash}{HSvdLMMBHCd1}
+  \field{sortinit}{H}
+  \field{issue}{1}
+  \field{title}{The oil industry and climate change: strategies and ethical
+  dilemmas}
+  \verb{url}
+  \verb https://www.sciencedirect.com/science/article/pii/S1469306202000086
+  \endverb
+  \field{volume}{2}
+  \field{journaltitle}{{Climate Policy}}
+  \field{year}{{2002}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{FossilFreeInvesting}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Humphreys}{H.}%
+     {Joshua}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HJ2}
+  \strng{fullhash}{HJ3}
+  \field{sortinit}{H}
+  \field{title}{Institutional Pathways to Fossil-Free Investing}
+  \verb{url}
+  \verb http://gofossilfree.org/files/2013/05/Institutional-Pathways-to-Fossil-
+  \verb Free-Investing1.pdf
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{GHGPollutionToronto}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{ICF International}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I1}
+  \strng{fullhash}{I1}
+  \field{sortinit}{I}
+  \field{title}{Greenhouse Gases and Air Pollutants in the City of Toronto:
+  Toward a Harmonized Strategy for Reducing Emissions}
+  \verb{url}
+  \verb http://www.toronto.ca/taf/pdf/ghginventory_jun07.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{IPCCar4_syr}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{Climate Change 2007: Synthesis Report}
+  \verb{url}
+  \verb http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{IPCC4ARdrivers}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{Climate Change 2007: Working Group I: The Physical Science
+  Basis, TS.2 Changes in Human and Natural Drivers of Climate}
+  \verb{url}
+  \verb https://www.ipcc.ch/publications_and_data/ar4/wg1/en/tssts-2.html
+  \endverb
+\endentry
+
+\entry{IPCC1990}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{First Assessment Report}
+  \verb{url}
+  \verb https://www.ipcc.ch/ipccreports/1992%20IPCC%20Supplement/IPCC_1990_and_
+  \verb 1992_Assessments/English/ipcc_90_92_assessments_far_overview.pdf
+  \endverb
+\endentry
+
+\entry{IPCC2007}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{Fourth Assessment Report: Climate Change 2007}
+  \verb{url}
+  \verb https://www.ipcc.ch/publications_and_data/ar4/syr/en/contents.html
+  \endverb
+\endentry
+
+\entry{IPCCHurricane}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{Has there been a Change in Extreme Events like Heat Waves,
+  Droughts, Floods and Hurricanes?}
+  \verb{url}
+  \verb https://www.ipcc.ch/publications_and_data/ar4/wg1/en/faq-3-3.html
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{IPCC1995}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{Second Assessment Report: Climate Change 1995}
+  \verb{url}
+  \verb https://www.ipcc.ch/pdf/climate-changes-1995/ipcc-2nd-assessment/2nd-as
+  \verb sessment-en.pdf
+  \endverb
+\endentry
+
+\entry{IPCCThermohaline}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{Thermohaline circulation changes in the North Atlantic:
+  possible impacts for Europe}
+  \verb{url}
+  \verb https://www.ipcc.ch/publications_and_data/ar4/wg2/en/ch12s12-6-2.html
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{IPCC2001}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Intergovernmental Panel on Climate Change}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I2}
+  \strng{fullhash}{I2}
+  \field{sortinit}{I}
+  \field{title}{Third Assessment Report: Climate Change 2001}
+  \verb{url}
+  \verb http://www.grida.no/publications/other/ipcc_tar/
+  \endverb
+\endentry
+
+\entry{ACIA2004}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{International Arctic Science Committee}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I3}
+  \strng{fullhash}{I3}
+  \field{sortinit}{I}
+  \field{title}{Arctic Climate Impact Assessment}
+  \verb{url}
+  \verb http://amap.no/acia/
+  \endverb
+  \field{year}{{2004}}
+\endentry
+
+\entry{ILOConv169}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{International Labout Organization}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I4}
+  \strng{fullhash}{I4}
+  \field{sortinit}{I}
+  \field{title}{Convention No. 169}
+  \verb{url}
+  \verb http://www.ilo.org/indigenous/Conventions/no169/lang--en/index.htm
+  \endverb
+  \field{year}{{1989}}
+\endentry
+
+\entry{IUCNSalmon}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{International Union for Conservation of Nature}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I5}
+  \strng{fullhash}{I5}
+  \field{sortinit}{I}
+  \field{title}{Salmon and Climate Change: Fish in Hot Water}
+  \verb{url}
+  \verb http://www.wildsalmoncenter.org/pdf/salmon_and_climate_change.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{IUCNMorePolarBear}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{International Union for Conservation of Nature}}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I5}
+  \strng{fullhash}{I5}
+  \field{sortinit}{I}
+  \field{title}{Species and Climate Change: More than Just the Polar Bear}
+  \verb{url}
+  \verb http://cmsdata.iucn.org/downloads/species_and_climate_change.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{IsikDevadoss2006}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Isik}{I.}%
+     {Murat}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Devadoss}{D.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{IMDS1}
+  \strng{fullhash}{IMDS1}
+  \field{sortinit}{I}
+  \field{issue}{7}
+  \field{pages}{835\bibrangedash 44}
+  \field{title}{An analysis of the impact of climate change on crop yields and
+  yield variability}
+  \verb{url}
+  \verb http://www.tandfonline.com/doi/abs/10.1080/00036840500193682#.UaFBDWT72
+  \verb 84
+  \endverb
+  \field{volume}{38}
+  \field{journaltitle}{{Applied Economics}}
+  \field{year}{2006}
+\endentry
+
+\entry{UBCDivest}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Katic}{K.}%
+     {Gordon}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KG1}
+  \strng{fullhash}{KG1}
+  \field{sortinit}{K}
+  \field{title}{Why we’re asking UBC to divest from oil and gas}
+  \verb{url}
+  \verb http://ubyssey.ca/opinion/katic-why-were-asking-ubc-to-divest-from-oil-
+  \verb and-gas/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{ShellTrialDelayed}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Kearney}{K.}%
+     {Christine}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KC1}
+  \strng{fullhash}{KC1}
+  \field{sortinit}{K}
+  \field{title}{New York trial delayed for Nigerians suing Shell}
+  \verb{url}
+  \verb http://uk.reuters.com/article/2009/04/06/shell-nigeria-idUKN06415228200
+  \verb 90406?sp=true
+  \endverb
+  \field{year}{2009}
+\endentry
+
+\entry{Knutson2004}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Knutson}{K.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tuleya}{T.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KTTR1}
+  \strng{fullhash}{KTTR1}
+  \field{sortinit}{K}
+  \field{number}{18}
+  \field{title}{Impact of \ce{CO2} - Induced Warming on Simulated Hurricane
+  Intensity and Precipitation: Sensitivity to the Choice of Climate Model and
+  Convective Parameterization}
+  \verb{url}
+  \verb http://www.gfdl.noaa.gov/bibliography/related_files/tk0401.pdf
+  \endverb
+  \field{volume}{17}
+  \field{journaltitle}{Journal of Climate}
+  \field{year}{{2004}}
+\endentry
+
+\entry{KochanGoodYear_2011}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kochan}{K.}%
+     {Nick}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Goodyear}{G.}%
+     {Robin}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Palgrave MacMillan}%
+  }
+  \strng{namehash}{KNGR1}
+  \strng{fullhash}{KNGR1}
+  \field{sortinit}{K}
+  \field{title}{Corruption: The New Corporate Challenge}
+  \field{year}{2011}
+\endentry
+
+\entry{OilCosFearFI}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Koronowski}{K.}%
+     {Ryan}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KR1}
+  \strng{fullhash}{KR1}
+  \field{sortinit}{K}
+  \field{title}{Oil companies that caused climate change now fear its financial
+  impacts}
+  \verb{url}
+  \verb http://climaterealityproject.org/2012/06/12/oil-companies-that-caused-c
+  \verb limate-change/
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{Koshida2005}{incollection}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Koshida}{K.}%
+     {Grace}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alden}{A.}%
+     {Marianne}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cohen}{C.}%
+     {Stuart}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Halliday}{H.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mortsch}{M.}%
+     {Linda}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wittrock}{W.}%
+     {Virginia}{V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Maarouf}{M.}%
+     {Abdel}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{1}{}{%
+    {{}%
+     {Wilhite}{W.}%
+     {Donald~A.}{D.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {CRC Press}%
+  }
+  \strng{namehash}{KG+1}
+  \strng{fullhash}{KGAMCSHRMLWVMA1}
+  \field{sortinit}{K}
+  \field{booktitle}{Drought and Water Crises: Science, Technology, and
+  Management Issues}
+  \field{title}{Drought Risk Management in Canada-U.S. Transboundary
+  Watersheds: Now and in the Future. Drought and Water Crises: Science,
+  Technology, and Management Issues}
+  \field{year}{{2005}}
+\endentry
+
+\entry{CanadaCarbonLiabilities}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Lee}{L.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ellis}{E.}%
+     {Brock}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LMEB1}
+  \strng{fullhash}{LMEB1}
+  \field{sortinit}{L}
+  \field{title}{Canada's Carbon Liabilities: The Implications of Stranded
+  Fossil Fuel Assets for Financial Markets and Pension Funds}
+  \verb{url}
+  \verb http://www.policyalternatives.ca/publications/reports/canadas-carbon-li
+  \verb abilities
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{Guardian6Trillion}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Leggett, J. and McKibben, Bill}}{L.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{L1}
+  \strng{fullhash}{L1}
+  \field{sortinit}{L}
+  \field{title}{How your pension is being used in a \$6 trillion climate
+  gamble}
+  \verb{url}
+  \verb http://www.guardian.co.uk/environment/blog/2013/apr/19/pension-6-trilli
+  \verb on-climate-gamble
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{Lemmen2010}{misc}{}
+  \name{editor}{2}{}{%
+    {{}%
+     {Lemmen}{L.}%
+     {Donald~S.}{D.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Warren}{W.}%
+     {Fiona~J.}{F.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LDSWFJ1}
+  \strng{fullhash}{LDSWFJ1}
+  \field{sortinit}{L}
+  \field{title}{Climate Change Impacts and Adaptation: A Canadian Perspective}
+  \verb{url}
+  \verb http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca.earth-sciences/files/pdf/p
+  \verb erspective/pdf/report_e.pdf
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{ClimateRiskInsurers}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Leurig}{L.}%
+     {Sharlene}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LS1}
+  \strng{fullhash}{LS1}
+  \field{sortinit}{L}
+  \field{title}{Climate Risk Disclosure By Insurers: Evaluating Insurer
+  Responses to the NAIC Climate Disclosure Survey}
+  \verb{url}
+  \verb http://www.ceres.org/resources/reports/naic-climate-disclosure
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{PovertyMakingSick}{misc}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Lightman}{L.}%
+     {Ernie}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mitchell}{M.}%
+     {Andrew}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilson}{W.}%
+     {Beth}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LEMAWB1}
+  \strng{fullhash}{LEMAWB1}
+  \field{sortinit}{L}
+  \field{title}{Poverty is making us sick: A comprehensive survey of income and
+  health in Canada}
+  \verb{url}
+  \verb http://wellesleyinstitute.com/files/povertyismakingussick.pdf
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{MacKay2009}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {MacKay}{M.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MD1}
+  \strng{fullhash}{MD1}
+  \field{sortinit}{M}
+  \field{title}{Sustainable Energy – without the hot air}
+  \verb{url}
+  \verb http://withouthotair.com/
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{MacLeodAdaptation}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {MacLeod}{M.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MD2}
+  \strng{fullhash}{MD2}
+  \field{sortinit}{M}
+  \field{title}{Adaptation to a Changing Climate: City Infrastructure
+  Preparedness}
+  \verb{url}
+  \verb http://www.fcm.ca/Documents/presentations/2011/webinars/Adaptation_to_a
+  \verb _Changing_Climate_EN.pdf
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{Malcolm2012}{misc}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Malcolm}{M.}%
+     {Scott}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Marshall}{M.}%
+     {Elizabeth}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Aillery}{A.}%
+     {Marcel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Heisey}{H.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Livingston}{L.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Day-Rubenstein}{D.-R.}%
+     {Kelly}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MS+1}
+  \strng{fullhash}{MSMEAMHPLMDRK1}
+  \field{sortinit}{M}
+  \field{title}{Agricultural Adaptation to a Changing Climate: Economic and
+  Environmental Implications Vary by U.S. Region}
+  \verb{url}
+  \verb http://www.ers.usda.gov/media/848748/err136.pdf
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{MarmotHealthOutcomes}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Marmot}{M.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MM1}
+  \strng{fullhash}{MM1}
+  \field{sortinit}{M}
+  \field{issue}{9593}
+  \field{title}{Achieving health equity: from root causes to fair outcomes}
+  \verb{url}
+  \verb http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(07)61385
+  \verb -3/abstract
+  \endverb
+  \field{volume}{370}
+  \field{journaltitle}{{The Lancet}}
+  \field{year}{{2007}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Mathiason_2005}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mathiason}{M.}%
+     {Nick}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MN1}
+  \strng{fullhash}{MN1}
+  \field{sortinit}{M}
+  \field{title}{EBRD freezes Shell Sakhalin loan}
+  \verb{url}
+  \verb http://www.guardian.co.uk/business/2005/jun/19/oilandpetrol.observerbus
+  \verb iness
+  \endverb
+  \field{year}{2005}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{JuryDecides}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {McCarthy}{M.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MM2}
+  \strng{fullhash}{MM2}
+  \field{sortinit}{M}
+  \field{title}{Jury Decides That Threat of Global Warming Justifies Breaking
+  The Law}
+  \verb{url}
+  \verb https://www.commondreams.org/headline/2008/09/11-6
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{OffshoreLiability}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {McCarthy}{M.}%
+     {Shawn}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MS1}
+  \strng{fullhash}{MS1}
+  \field{sortinit}{M}
+  \field{title}{Canada raises liability for offshore oil spills to $1-billion}
+  \verb{url}
+  \verb http://m.theglobeandmail.com/report-on-business/canada-raises-liability
+  \verb -for-offshore-oil-spills-to-1-billion/article12647765/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{NoSilverBullet}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {McCarthy}{M.}%
+     {Shawn}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MS1}
+  \strng{fullhash}{MS1}
+  \field{sortinit}{M}
+  \field{title}{Carbon capture no 'silver bullet'}
+  \verb{url}
+  \verb http://www.theglobeandmail.com/report-on-business/carbon-capture-no-sil
+  \verb ver-bullet/article1170007/
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{HotWeatherResponse2006}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {McKeown}{M.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MD3}
+  \strng{fullhash}{MD3}
+  \field{sortinit}{M}
+  \field{title}{Hot Weather Response Plan - Update}
+  \verb{url}
+  \verb http://www.toronto.ca/health/hphe/pdf/boh_hot_weather.pdf
+  \endverb
+  \field{year}{{2006}}
+\endentry
+
+\entry{TerrifyingNewMath}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {McKibben}{M.}%
+     {Bill}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MB1}
+  \strng{fullhash}{MB1}
+  \field{sortinit}{M}
+  \field{title}{Global Warming's Terrifying New Math}
+  \verb{url}
+  \verb http://www.rollingstone.com/politics/news/global-warmings-terrifying-ne
+  \verb w-math-20120719
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{CaseForDivestment}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {McKibben}{M.}%
+     {Bill}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MB1}
+  \strng{fullhash}{MB1}
+  \field{sortinit}{M}
+  \field{title}{The Case for Fossil-Fuel Divestment}
+  \verb{url}
+  \verb http://www.rollingstone.com/politics/news/the-case-for-fossil-fuel-dive
+  \verb stment-20130222
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{McKinseyCurve}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{McKinsey \& Company}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{M1}
+  \strng{fullhash}{M1}
+  \field{sortinit}{M}
+  \field{title}{Impact of the Financial Crisis on Carbon Economics: Version 2.1
+  of the Global Greenhouse Gas Abatement Cost Curve}
+  \verb{url}
+  \verb http://www.mckinsey.com/client_service/sustainability/latest_thinking/g
+  \verb reenhouse_gas_abatement_cost_curves
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{ExistingLaw}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Meltz}{M.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MR1}
+  \strng{fullhash}{MR1}
+  \field{sortinit}{M}
+  \field{title}{Climate Change and Existing Law: A Survey of Legal Issues Past,
+  Present, and Future}
+  \verb{url}
+  \verb https://www.fas.org/sgp/crs/misc/R42613.pdf
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{MercerRI}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mercer}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{M2}
+  \strng{fullhash}{M2}
+  \field{sortinit}{M}
+  \field{title}{Shedding Light on Responsible Investment: Approaches, Returns
+  and Impacts}
+  \verb{url}
+  \verb http://www.mercer.com/articles/1423880
+  \endverb
+  \field{year}{2011}
+\endentry
+
+\entry{Syria_2011}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Minio-Paluello}{M.-P.}%
+     {Mika}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MPM1}
+  \strng{fullhash}{MPM1}
+  \field{sortinit}{M}
+  \field{title}{Shell supports Syrian regime with \$55 million during
+  crackdown; one out of six Syrian tanks runs on Shell oil.}
+  \verb{url}
+  \verb http://platformlondon.org/2011/05/29/shell-supports-syrian-regime-with-
+  \verb 55-million-during-crackdown-one-out-of-six-syrian-tanks-runs-on-shell-o
+  \verb il/
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{Shell15Million}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mouawad}{M.}%
+     {Jad}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MJ1}
+  \strng{fullhash}{MJ1}
+  \field{sortinit}{M}
+  \field{title}{Shell to Pay \$15.5 Million to Settle Nigerian Case}
+  \verb{url}
+  \verb http://www.nytimes.com/2009/06/09/business/global/09shell.html
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{MunichRECatast}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Munich RE}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{M3}
+  \strng{fullhash}{M3}
+  \field{sortinit}{M}
+  \field{title}{Overall picture of natural catastrophes in 2010 – Very severe
+  earthquakes and many severe weather events}
+  \verb{url}
+  \verb http://www.munichre.com/en/media_relations/press_releases/2011/2011_01_
+  \verb 03_press_release.aspx
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{Naidoo_2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Naidoo}{N.}%
+     {Kumi}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NK1}
+  \strng{fullhash}{NK1}
+  \field{sortinit}{N}
+  \field{title}{Drilling for oil in the Arctic: the risks are too great for
+  companies to take on}
+  \verb{url}
+  \verb http://www.guardian.co.uk/sustainable-business/blog/drilling-oil-arctic
+  \verb -risks-too-great-companies
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{NOAACoral}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{National Oceanic and Atmospheric Administration}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N1}
+  \strng{fullhash}{N1}
+  \field{sortinit}{N}
+  \field{title}{Heat Stress to Caribbean Corals in 2005 Worst on Record}
+  \verb{url}
+  \verb http://www.noaanews.noaa.gov/stories2010/20101115_coralbleaching.html
+  \endverb
+  \field{year}{{2010}}
+\endentry
+
+\entry{NOAAteleconf2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{National Oceanic and Atmospheric Administration}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N1}
+  \strng{fullhash}{N1}
+  \field{sortinit}{N}
+  \field{title}{NOAA Monthly Climate Teleconference: February 2013}
+  \verb{url}
+  \verb http://www.noaanews.noaa.gov/advisories/20130219-advisory-climatewebina
+  \verb r.html
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{NOAATrends}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{National Oceanic and Atmospheric Administration}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N1}
+  \strng{fullhash}{N1}
+  \field{sortinit}{N}
+  \field{title}{Trends in Atmospheric Carbon Dioxide}
+  \verb{url}
+  \verb http://www.esrl.noaa.gov/gmd/ccgg/trends/
+  \endverb
+\endentry
+
+\entry{FramingFuture}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{National Round Table on Energy and the Environment}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N2}
+  \strng{fullhash}{N2}
+  \field{sortinit}{N}
+  \field{title}{Framing the Future: Embracing the Low-Carbon Economy}
+  \verb{url}
+  \verb http://collectionscanada.gc.ca/webarchives2/20130322185857/http://nrtee
+  \verb -trnee.ca/wp-content/uploads/2012/10/framing-the-future-report-eng.pdf
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{NRTEEPrice}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{National Round Table on Energy and the Environment}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N2}
+  \strng{fullhash}{N2}
+  \field{sortinit}{N}
+  \field{title}{Paying the Price: The Economic Impacts of Climate Change for
+  Canada}
+  \verb{url}
+  \verb http://collectionscanada.gc.ca/webarchives2/20130322143132/http://nrtee
+  \verb -trnee.ca/wp-content/uploads/2011/09/paying-the-price.pdf
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{NRCANImpactsAdapt}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Natural Resources Canada}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
+  \field{sortinit}{N}
+  \field{title}{Climate Change Impacts and Adaptation: A Canadian Perspective}
+  \verb{url}
+  \verb http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca.earth-sciences/files/pdf/p
+  \verb erspective/pdf/report_e.pdf
+  \endverb
+  \field{year}{{2004}}
+\endentry
+
+\entry{ImpToAda}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Natural Resources Canada}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
+  \field{sortinit}{N}
+  \field{title}{From Impacts to Adaptation: Canada in a Changing Climate 2007}
+  \verb{url}
+  \verb http://www.nrcan.gc.ca/sites/www.nrcan.gc.ca.earth-sciences/files/pdf/a
+  \verb ssess/2007/pdf/full-complet_e.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{Memorandum_2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Natural Resources Canada}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
+  \field{sortinit}{N}
+  \field{title}{Memorandum to the Minister: Pending Release by Natural
+  Resources Canada of Reports on Natural vs. Human-Caused Contamination in the
+  Oil Sands Region of the Athabasca River, Alberta}
+  \verb{url}
+  \verb http://www.scribd.com/doc/125689533/Oilsands-groundwater-contamination
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{NewsWire_2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{NBC News Wire}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N4}
+  \strng{fullhash}{N4}
+  \field{sortinit}{N}
+  \field{title}{Environmental risk of drilling in Arctic too high, CEO of oil
+  giant Total says}
+  \verb{url}
+  \verb http://worldnews.nbcnews.com/_news/2012/09/26/14107150-environmental-ri
+  \verb sk-of-drilling-in-arctic-too-high-ceo-of-oil-giant-total-says
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{SmartPlanetCCS}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nelder}{N.}%
+     {Chris}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NC1}
+  \strng{fullhash}{NC1}
+  \field{sortinit}{N}
+  \field{title}{Why carbon capture and storage will never pay off}
+  \verb{url}
+  \verb http://www.smartplanet.com/blog/take/why-carbon-capture-and-storage-wil
+  \verb l-never-pay-off/534
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{Farming2050}{misc}{}
+  \name{author}{12}{}{%
+    {{}%
+     {Nelson}{N.}%
+     {Gerald~C.}{G.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rosegrant}{R.}%
+     {Mark~W.}{M.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Palazzo}{P.}%
+     {Amanda}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gray}{G.}%
+     {Ian}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ingersoll}{I.}%
+     {Christina}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robertson}{R.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tokgoz}{T.}%
+     {Simla}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {Tingju}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sulser}{S.}%
+     {Timothy~B.}{T.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ringler}{R.}%
+     {Claudia}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Msangi}{M.}%
+     {Siwa}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {You}{Y.}%
+     {Liangzhi}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NGC+1}
+  \strng{fullhash}{NGCRMWPAGIICRRTSZTSTBRCMSYL1}
+  \field{sortinit}{N}
+  \field{title}{Food Security, Farming, and Climate Change to 2050: Scenarios,
+  Results, Policy Options}
+  \verb{url}
+  \verb http://www.ifpri.org/sites/default/files/publications/rr172.pdf
+  \endverb
+  \field{year}{2010}
+\endentry
+
+\entry{HoldTheirOwn}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nelson}{N.}%
+     {Jacqueline}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NJ1}
+  \strng{fullhash}{NJ1}
+  \field{sortinit}{N}
+  \field{title}{Socially responsible investment funds hold their own}
+  \verb{url}
+  \verb http://www.theglobeandmail.com/globe-investor/investment-ideas/number-c
+  \verb runcher/socially-responsible-investment-funds-hold-their-own/article984
+  \verb 5687/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{NigerDeltaReport_2006}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Nigeria Conservation Foundation and IUCN/CEESP}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N5}
+  \strng{fullhash}{N5}
+  \field{sortinit}{N}
+  \field{title}{Niger Delta Natural Resource Damage Assessment and Restoration
+  Project – Phase I Scoping Report}
+  \verb{url}
+  \verb http://cmsdata.iucn.org/downloads/niger_delta_natural_resource_damage_a
+  \verb ssessment_and_restoration_project_recommendation.doc
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{OntarioCCandAg}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Ontario Ministry of Agriculture and Food}}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{O1}
+  \strng{fullhash}{O1}
+  \field{sortinit}{O}
+  \field{title}{Climate Change and Agriculture}
+  \verb{url}
+  \verb http://www.omafra.gov.on.ca/english/engineer/facts/climatechange.htm
+  \endverb
+\endentry
+
+\entry{DemoProjections2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Ontario Ministry of Finance}}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{O2}
+  \strng{fullhash}{O2}
+  \field{sortinit}{O}
+  \field{title}{Ontario Population Projections Update: 2011 – 2036}
+  \verb{url}
+  \verb http://www.fin.gov.on.ca/en/economy/demographics/projections/
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{OMEGreening}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Ontario Ministry of the Environment}}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{O3}
+  \strng{fullhash}{O3}
+  \field{sortinit}{O}
+  \field{title}{Climate Change - Greening Our Ways}
+  \verb{url}
+  \verb http://www.ene.gov.on.ca/environment/en/category/climate_change/STDPROD
+  \verb _078897.html
+  \endverb
+\endentry
+
+\entry{OMEGreen}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Ontario Ministry of the Environment}}{O.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{O3}
+  \strng{fullhash}{O3}
+  \field{sortinit}{O}
+  \field{title}{Green Energy Act}
+  \verb{url}
+  \verb http://www.ene.gov.on.ca/environment/en/legislation/green_energy_act/in
+  \verb dex.htm
+  \endverb
+\endentry
+
+\entry{Oreskes2004}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Oreskes}{O.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ON1}
+  \strng{fullhash}{ON1}
+  \field{sortinit}{O}
+  \field{number}{5702}
+  \field{title}{Beyond the Ivory Tower: The Scientific Consensus on Climate
+  Change}
+  \verb{url}
+  \verb https://www.sciencemag.org/content/306/5702/1686.short
+  \endverb
+  \field{volume}{306}
+  \field{journaltitle}{Science}
+  \field{year}{{2004}}
+\endentry
+
+\entry{MerchantsDoubt}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Oreskes}{O.}%
+     {Naomi}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Conway}{C.}%
+     {Erik}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Bloomsbury US}%
+  }
+  \strng{namehash}{ONCE1}
+  \strng{fullhash}{ONCE1}
+  \field{sortinit}{O}
+  \field{title}{Merchants Of Doubt}
+  \field{year}{{2011}}
+\endentry
+
+\entry{GreenwashBP}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Pearce}{P.}%
+     {Fred}{F.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PF1}
+  \strng{fullhash}{PF1}
+  \field{sortinit}{P}
+  \field{title}{Greenwash: BP and the myth of a world 'Beyond Petroleum'}
+  \verb{url}
+  \verb http://www.guardian.co.uk/environment/2008/nov/20/fossilfuels-energy
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{PercyRisingTide}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Percy}{P.}%
+     {Jon}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PJ1}
+  \strng{fullhash}{PJ1}
+  \field{sortinit}{P}
+  \field{title}{A Rising Tide of Change}
+  \verb{url}
+  \verb http://www.elements.nb.ca/theme/climate07/jon/jon.htm
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{DOE22to36}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Plumer}{P.}%
+     {Brad}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PB1}
+  \strng{fullhash}{PB1}
+  \field{sortinit}{P}
+  \field{title}{An obscure new rule on microwaves can tell us a lot about
+  Obama’s climate policies}
+  \verb{url}
+  \verb http://www.washingtonpost.com/blogs/wonkblog/wp/2013/06/05/what-an-obsc
+  \verb ure-microwave-rule-says-about-obamas-climate-plans/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BoliviaConstitution}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Plurinational State of Bolivia}}{P.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{P1}
+  \strng{fullhash}{P1}
+  \field{sortinit}{P}
+  \field{title}{Constitucion Politica del Estado}
+  \verb{url}
+  \verb http://www.presidencia.gob.bo/documentos/publicaciones/constitucion.pdf
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{DEFRAShadowCost}{misc}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Price}{P.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thornton}{T.}%
+     {Simeon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nelson}{N.}%
+     {Stephen}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PRTSNS1}
+  \strng{fullhash}{PRTSNS1}
+  \field{sortinit}{P}
+  \field{title}{The Social Cost of Carbon and the Shadow Price of Carbon: What
+  they are, and how to use them in economic appraisal in the UK}
+  \verb{url}
+  \verb http://archive.defra.gov.uk/evidence/series/documents/shadowpriceofcarb
+  \verb ondec-0712.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{CoalWillBeLeft}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Priest}{P.}%
+     {Marcus}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PM1}
+  \strng{fullhash}{PM1}
+  \field{sortinit}{P}
+  \field{title}{Climate Commission warns coal will be left in ground}
+  \verb{url}
+  \verb http://www.afr.com/p/national/climate_commission_warns_coal_will_Os3K60
+  \verb MAR9LJPTDd2nGTDO
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{ReducingHealthDisparities}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Public Health Agency of Canada}}{P.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{P2}
+  \strng{fullhash}{P2}
+  \field{sortinit}{P}
+  \field{title}{Reducing Health Disparities - Roles of the Health Sector:
+  Discussion Paper}
+  \verb{url}
+  \verb http://www.phac-aspc.gc.ca/ph-sp/disparities/ddp-eng.php
+  \endverb
+  \field{year}{{2004}}
+\endentry
+
+\entry{TortureComplicity}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Radio France Internationale}}{R.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{R1}
+  \strng{fullhash}{R1}
+  \field{sortinit}{R}
+  \field{title}{Shell could face trial in US for alleged complicity in torture
+  in Nigeria}
+  \verb{url}
+  \verb http://www.english.rfi.fr/node/138583
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{PovertyInequalityHealth}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Raphael}{R.}%
+     {Dennis}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RD1}
+  \strng{fullhash}{RD1}
+  \field{sortinit}{R}
+  \field{title}{Poverty, Income Inequality, and Health in Canada}
+  \verb{url}
+  \verb http://www.povertyandhumanrights.org/docs/incomeHealth.pdf
+  \endverb
+  \field{year}{{2002}}
+\endentry
+
+\entry{VenusRunaway}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Rasool}{R.}%
+     {S.~I.}{S.~I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {De~Bergh}{D.~B.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RSIDBC1}
+  \strng{fullhash}{RSIDBC1}
+  \field{sortinit}{R}
+  \field{title}{The Runway Greenhouse and the Accumulation of \ce{CO2} in the
+  Venus Atmosphere}
+  \verb{url}
+  \verb http://pubs.giss.nasa.gov/docs/1970/1970_Rasool_DeBergh.pdf
+  \endverb
+  \field{volume}{226}
+  \field{journaltitle}{Nature}
+  \field{year}{{1970}}
+\endentry
+
+\entry{SandPConstrained}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Redmond}{R.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wilkins}{W.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RSWM1}
+  \strng{fullhash}{RSWM1}
+  \field{sortinit}{R}
+  \field{title}{What A Carbon-Constrained Future Could Mean For Oil Companies'
+  Creditworthiness}
+  \verb{url}
+  \verb http://www.carbontracker.org/wp-content/uploads/downloads/2013/03/SnPCT
+  \verb -report-on-oil-sector-carbon-constraints_Mar0420133.pdf
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{EcuadorConstitution}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Republic of Ecuador}}{R.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{R2}
+  \strng{fullhash}{R2}
+  \field{sortinit}{R}
+  \field{title}{Constitution of the Republic of Ecuador}
+  \verb{url}
+  \verb http://pdba.georgetown.edu/Constitutions/Ecuador/english08.html
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{ShellIndex}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Reuters}{R.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{R3}
+  \strng{fullhash}{R3}
+  \field{sortinit}{R}
+  \field{title}{Shell to scrap bonus link to sustainability index}
+  \verb{url}
+  \verb http://www.reuters.com/article/2011/03/07/shell-idAFLDE7261PQ20110307
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{Richardson_2008}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Richardson}{R.}%
+     {Benjamin}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{RB1}
+  \strng{fullhash}{RB1}
+  \field{sortinit}{R}
+  \field{title}{Socially Responsible Investment Law: Regulating the Unseen
+  Polluters}
+  \field{year}{2008}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{NorwayPetition_2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Right Livelihood Award Foundation}}{R.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{R4}
+  \strng{fullhash}{R4}
+  \field{sortinit}{R}
+  \field{title}{Petition for Norway Pension Fund. The Right Livelihood Award}
+  \verb{url}
+  \verb http://www.rightlivelihood.org/petition_norway_shell.html
+  \endverb
+  \field{year}{2012}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{SafeOperatingSpace}{article}{}
+  \name{author}{29}{}{%
+    {{}%
+     {Rockstrom}{R.}%
+     {Johan}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Steffen}{S.}%
+     {Will}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Noone}{N.}%
+     {Kevin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Persson}{P.}%
+     {Asa}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chapin}{C.}%
+     {F.~Stuart}{F.~S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lambin}{L.}%
+     {Eric~F.}{E.~F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lenton}{L.}%
+     {Timothy~M.}{T.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scheffer}{S.}%
+     {Marten}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Folke}{F.}%
+     {Carl}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schellnhuber}{S.}%
+     {Hans~Joachim}{H.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nykvist}{N.}%
+     {Bjorn}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wit}{W.}%
+     {Cynthia~A.}{C.~A.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Hughes}{H.}%
+     {Terry}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Leeuw}{L.}%
+     {Sander}{S.}%
+     {van~der}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Rodhe}{R.}%
+     {Henning}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sorlin}{S.}%
+     {Sverker}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Snyder}{S.}%
+     {Peter~K.}{P.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Costanza}{C.}%
+     {Robert}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Svedin}{S.}%
+     {Uno}{U.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Falkenmark}{F.}%
+     {Malin}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Karlberg}{K.}%
+     {Louise}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Corell}{C.}%
+     {Robert~W.}{R.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Fabry}{F.}%
+     {Victoria~J.}{V.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hansen}{H.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Walker}{W.}%
+     {Brian}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Liverman}{L.}%
+     {Diana}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Richardson}{R.}%
+     {Katherine}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Crutzen}{C.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Foley}{F.}%
+     {Jonathan~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RJ+1}
+  \strng{fullhash}{RJSWNKPACFSLEFLTMSMFCSHJNBWCAdHTLSvdRHSSSPKCRSUFMKLCRWFVJHJWBLDRKCPFJA1}
+  \field{sortinit}{R}
+  \field{title}{A safe operating space for humanity}
+  \verb{url}
+  \verb http://www.nature.com/nature/journal/v461/n7263/full/461472a.html
+  \endverb
+  \field{volume}{461}
+  \field{journaltitle}{Nature}
+  \field{year}{{2009}}
+\endentry
+
+\entry{Shell_2011}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Royal Dutch Shell}}{R.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{R5}
+  \strng{fullhash}{R5}
+  \field{sortinit}{R}
+  \field{title}{Building an Energy Future: Annual Report}
+  \verb{url}
+  \verb http://reports.shell.com/annual-report/2012/servicepages/downloads/file
+  \verb s/entire_shell_ar12.pdf
+  \endverb
+  \field{year}{2011}
+\endentry
+
+\entry{PTRecovery}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Sahney}{S.}%
+     {Sarda}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Benton}{B.}%
+     {Michael~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SSBMJ1}
+  \strng{fullhash}{SSBMJ1}
+  \field{sortinit}{S}
+  \field{number}{1636}
+  \field{title}{Recovery from the most profound mass extinction of all time}
+  \field{volume}{275}
+  \field{journaltitle}{Proceedings of the Royal Society}
+  \field{year}{{2008}}
+\endentry
+
+\entry{ClimateInteractivePersist}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sawin}{S.}%
+     {Elizabeth}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SE1}
+  \strng{fullhash}{SE1}
+  \field{sortinit}{S}
+  \field{title}{Carbon Dioxide Will Persist in the Atmosphere Long After
+  Current Decision Makers Have Left Their Roles: On Ethical Grounds, Young
+  People Should Have a Say}
+  \verb{url}
+  \verb https://climateinteractive.wordpress.com/2012/12/05/carbon-dioxide-will
+  \verb -persist-in-the-atmosphere-long-after-current-decision-makers-have-left
+  \verb -their-roles-on-ethical-grounds-young-people-should-have-a-say/
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{Bribery_2010}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Scannell}{S.}%
+     {Kara}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Catan}{C.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SKCT1}
+  \strng{fullhash}{SKCT1}
+  \field{sortinit}{S}
+  \field{title}{Settlements Near In Bribery Case}
+  \verb{url}
+  \verb http://online.wsj.com/article/SB100014240527487036317045755524104202076
+  \verb 30.html?mod=djem_jiewr_BE_domainid
+  \endverb
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{WoesReverse}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Schuetze}{S.}%
+     {Christopher}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SC1}
+  \strng{fullhash}{SC1}
+  \field{sortinit}{S}
+  \field{title}{Environmental Woes Could Reverse Global Development}
+  \verb{url}
+  \verb http://rendezvous.blogs.nytimes.com/2013/03/18/environmental-woes-could
+  \verb -reverse-global-development/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{AbruptCCScenario}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Schwartz}{S.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Randall}{R.}%
+     {Doug}{D.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SPRD1}
+  \strng{fullhash}{SPRD1}
+  \field{sortinit}{S}
+  \field{title}{An Abrupt Climate Change Scenario and Its Implications for
+  United States National Security}
+  \verb{url}
+  \verb http://www.climate.org/PDF/clim_change_scenario.pdf
+  \endverb
+  \field{year}{{2003}}
+\endentry
+
+\entry{DutchResponsible}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Sekularac}{S.}%
+     {Ivana}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Deutsch}{D.}%
+     {Anthony}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SIDA1}
+  \strng{fullhash}{SIDA1}
+  \field{sortinit}{S}
+  \field{title}{Dutch court says Shell responsible for Nigeria spills}
+  \verb{url}
+  \verb http://www.reuters.com/article/2013/01/30/us-shell-nigeria-lawsuit-idUS
+  \verb BRE90S16X20130130
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{ShellClimateChange}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Shell}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{sortinit}{S}
+  \field{title}{Climate change}
+  \verb{url}
+  \verb http://www.shell.com/global/environment-society/environment/climate-cha
+  \verb nge.html
+  \endverb
+\endentry
+
+\entry{ShellAtAGlance}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Shell Canada}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S2}
+  \strng{fullhash}{S2}
+  \field{sortinit}{S}
+  \field{title}{Shell At a Glance}
+  \verb{url}
+  \verb http://www.shell.ca/en/aboutshell/at-a-glance-tpkg.html
+  \endverb
+\endentry
+
+\entry{DoTheOpposite}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sheppard}{S.}%
+     {Kate}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SK1}
+  \strng{fullhash}{SK1}
+  \field{sortinit}{S}
+  \field{title}{Energy Companies Say One Thing, Do the Opposite on Climate
+  Change}
+  \verb{url}
+  \verb http://www.motherjones.com/blue-marble/2012/05/corporate-hypocrisy-clim
+  \verb ate-change
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{MJFlood}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Sheppard}{S.}%
+     {Kate}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {West}{W.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SKWJ1}
+  \strng{fullhash}{SKWJ1}
+  \field{sortinit}{S}
+  \field{title}{FEMA Report: Climate Change Could Increase Areas at Risk of
+  Flood by 45 Percent}
+  \verb{url}
+  \verb http://www.motherjones.com/environment/2013/06/climate-change-could-dou
+  \verb ble-number-americans-federal-flood-insurance
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{AFPonCCS}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sheridan}{S.}%
+     {Kerry}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SK2}
+  \strng{fullhash}{SK2}
+  \field{sortinit}{S}
+  \field{title}{'Carbon capture' too risky, earthquake prone: US study}
+  \verb{url}
+  \verb http://www.google.com/hostednews/afp/article/ALeqM5hgEyHrcoMyK34_ZT-sde
+  \verb eyiC4ADw?docId=CNG.6e8cb246738bfc1e0c48f4ac564e68fa.471
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{DemiseOfCrudeDenial}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Skuce}{S.}%
+     {Andy}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SA1}
+  \strng{fullhash}{SA1}
+  \field{sortinit}{S}
+  \field{title}{Big Oil and the Demise of Crude Climate Change Denial}
+  \verb{url}
+  \verb http://www.skepticalscience.com/bigoil.html
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{RisksForInvestors}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Smith}{S.}%
+     {Michael~H.}{M.~H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SMH1}
+  \strng{fullhash}{SMH1}
+  \field{sortinit}{S}
+  \field{title}{Assessing Climate Change Risks and Opportunities for Investors:
+  Oil and Gas Sector}
+  \verb{url}
+  \verb http://www.igcc.org.au/Resources/Documents/oil_gas_assessing_climate_ch
+  \verb ange_risks_for_investors.pdf
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{Sosa_2011}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Sosa}{S.}%
+     {Irene}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SI1}
+  \strng{fullhash}{SI1}
+  \field{sortinit}{S}
+  \field{title}{License to Operate: Indigenous Relations and Free Prior and
+  Informed Consent in the Mining Industry}
+  \verb{url}
+  \verb http://www.sustainalytics.com/sites/default/files/indigenouspeople_fpic
+  \verb _final.pdf
+  \endverb
+  \list{institution}{1}{%
+    {Sustainalytics}%
+  }
+  \field{year}{2011}
+\endentry
+
+\entry{HSBC_2013}{misc}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Spedding}{S.}%
+     {P.}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mehta}{M.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Robins}{R.}%
+     {N.}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SPMKRN1}
+  \strng{fullhash}{SPMKRN1}
+  \field{sortinit}{S}
+  \field{title}{Oil and carbon revisited: Value at risk from `unburnable'
+  reserves}
+  \list{institution}{1}{%
+    {HSBC Global Research}%
+  }
+  \field{year}{2013}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{2006TorontoProfile}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Statistics Canada}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S3}
+  \strng{fullhash}{S3}
+  \field{sortinit}{S}
+  \field{title}{Aboriginal Profile for the City of Toronto}
+  \verb{url}
+  \verb http://www.toronto.ca/children/bs/aboriginal_profile.pdf
+  \endverb
+  \field{year}{{2006}}
+\endentry
+
+\entry{SocialStress}{misc}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Steinbruner}{S.}%
+     {John~D.}{J.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stern}{S.}%
+     {Paul~C.}{P.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Husbands}{H.}%
+     {Jo~L.}{J.~L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SJDSPCHJL1}
+  \strng{fullhash}{SJDSPCHJL1}
+  \field{sortinit}{S}
+  \field{title}{Climate and Social Stress: Implications for Security Analysis}
+  \verb{url}
+  \verb http://www.nap.edu/catalog.php?record_id=14682
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{Steiner_2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steiner}{S.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{sortinit}{S}
+  \field{title}{Double standard: Shell practices in Nigeria compared with
+  international standards to prevent and control pipeline oil spills and the
+  Deepwater Horizon oil spill}
+  \verb{url}
+  \verb http://www.milieudefensie.nl/publicaties/rapporten/double-standard
+  \endverb
+  \list{institution}{1}{%
+    {Milieu Defense}%
+  }
+  \field{year}{2010}
+\endentry
+
+\entry{Steiner_2008}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Steiner}{S.}%
+     {Richard}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SR1}
+  \strng{fullhash}{SR1}
+  \field{sortinit}{S}
+  \field{title}{International Standards to Prevent and Control Pipeline Oil
+  Spills, Compared with Shell Practices in Nigeria}
+  \list{institution}{1}{%
+    {Milieu Defense}%
+  }
+  \field{year}{2008}
+\endentry
+
+\entry{FTOvervalued}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stern}{S.}%
+     {Nicholas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SN1}
+  \strng{fullhash}{SN1}
+  \field{sortinit}{S}
+  \field{title}{A profound contradiction at the heart of climate change policy}
+  \verb{url}
+  \verb http://www.ft.com/intl/cms/s/0/52f2709c-20f0-11e1-8a43-00144feabdc0.htm
+  \verb l
+  \endverb
+  \field{year}{2011}
+\endentry
+
+\entry{Stern2007}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Stern}{S.}%
+     {Nicholas}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Cambridge University Press}%
+  }
+  \strng{namehash}{SN1}
+  \strng{fullhash}{SN1}
+  \field{sortinit}{S}
+  \field{title}{The Economics of Climate Change: The Stern Review}
+  \verb{url}
+  \verb http://webarchive.nationalarchives.gov.uk/+/http:/www.hm-treasury.gov.u
+  \verb k/sternreview_index.htm
+  \endverb
+  \field{year}{2007}
+\endentry
+
+\entry{SullivanCromwell_2010}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Sullivan and Cromwell, LLP.}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S4}
+  \strng{fullhash}{S4}
+  \field{sortinit}{S}
+  \field{title}{Foreign Corrupt Practices Act – Recent Developments}
+  \verb{url}
+  \verb http://www.sullcrom.com/files/Publication/506e03de-55a2-461e-93dd-1dff8
+  \verb 0fc4a2d/Presentation/PublicationAttachment/eb3ca298-3c98-442b-bf24-1f69
+  \verb 3ea61ba5/SC_Publication_Foreign_Corrupt_Practices_Act_Recent_Developmen
+  \verb ts.pdf
+  \endverb
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{StanfordSenate}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Svoboda}{S.}%
+     {Lucy}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SL1}
+  \strng{fullhash}{SL1}
+  \field{sortinit}{S}
+  \field{title}{Senate passes fossil fuel divestment bill}
+  \verb{url}
+  \verb http://www.stanforddaily.com/2013/05/28/senate-passes-fossil-fuel-dives
+  \verb tment-bill/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BandWinsTreatyRights}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Tait}{T.}%
+     {Carrie}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cryderman}{C.}%
+     {Kelly}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TCCK1}
+  \strng{fullhash}{TCCK1}
+  \field{sortinit}{T}
+  \field{title}{Alberta First Nations band wins right to trial over oil sands'
+  effect on treaty rights}
+  \verb{url}
+  \verb http://www.theglobeandmail.com/report-on-business/industry-news/energy-
+  \verb and-resources/alberta-first-nations-band-wins-right-to-trial-over-oil-s
+  \verb ands-effect-on-treaty-rights/article12353571/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{ResilientNewYork}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The City of New York}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T1}
+  \strng{fullhash}{T1}
+  \field{sortinit}{T}
+  \field{title}{A Stronger, More Resilient New York}
+  \verb{url}
+  \verb http://nytelecom.vo.llnwd.net/o15/agencies/sirr/SIRR_singles_Lo_res.pdf
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{ScanCCToronto}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Clean Air Partnership}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T2}
+  \strng{fullhash}{T2}
+  \field{sortinit}{T}
+  \field{title}{A Scan of Climate Change Impacts on Toronto}
+  \verb{url}
+  \verb http://www.cleanairpartnership.org/pdf/climate_change_scan.pdf
+  \endverb
+  \field{year}{{2006}}
+\endentry
+
+\entry{CCAHealthEquity}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Clean Air Partnership}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T2}
+  \strng{fullhash}{T2}
+  \field{sortinit}{T}
+  \field{title}{Climate Change Adaptation and Health Equity: Background Report}
+  \verb{url}
+  \verb http://www.toronto.ca/health/hphe/air_quality/pdf/climate_change_health
+  \verb _equity.pdf
+  \endverb
+  \field{year}{{2009},}
+\endentry
+
+\entry{GreenFigleaf}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{A green figleaf}
+  \verb{url}
+  \verb http://www.economist.com/node/13528073/
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{MixedVerdict}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{A mixed verdict}
+  \verb{url}
+  \verb http://www.economist.com/blogs/baobab/2013/02/shell-and-nigeria
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BlownAway}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{Blown away}
+  \verb{url}
+  \verb http://www.economist.com/news/united-states/21579046-wind-power-doing-w
+  \verb ell-it-still-relies-irregular-and-short-term-subsidies-blown
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{BlackStuffBP}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{In the black stuff}
+  \verb{url}
+  \verb http://www.economist.com/node/16056805/
+  \endverb
+  \field{year}{{2010}}
+\endentry
+
+\entry{NotBeyondInRussia}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{Not beyond petroleum}
+  \verb{url}
+  \verb http://www.economist.com/node/1578190
+  \endverb
+  \field{year}{{2003}}
+\endentry
+
+\entry{OilSpoils}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{Oil spoils}
+  \verb{url}
+  \verb http://www.economist.com/node/21525963
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{IllusionCleanCoal}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{The illusion of clean coal}
+  \verb{url}
+  \verb http://www.economist.com/node/13235041
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{TroubleInStore}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{Trouble in store}
+  \verb{url}
+  \verb http://www.economist.com/node/13226661
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{EconomistUnburnable}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Economist}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T3}
+  \strng{fullhash}{T3}
+  \field{sortinit}{T}
+  \field{title}{Unburnable fuel}
+  \verb{url}
+  \verb http://www.economist.com/news/business/21577097-either-governments-are-
+  \verb not-serious-about-climate-change-or-fossil-fuel-firms-are
+  \endverb
+  \field{year}{2013}
+\endentry
+
+\entry{CopenhagenAccord}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Heads of State, Heads of Government, Ministers, and other heads of
+  delegation present at the United Nations Climate Change Conference 2009 in
+  Copenhagen}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T4}
+  \strng{fullhash}{T4}
+  \field{sortinit}{T}
+  \field{title}{Copenhagen Accord}
+  \verb{url}
+  \verb http://unfccc.int/resource/docs/2009/cop15/eng/l07.pdf
+  \endverb
+  \field{year}{2009}
+\endentry
+
+\entry{TellingWeatherStory}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Institute for Catastrophic Loss Reduction}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T5}
+  \strng{fullhash}{T5}
+  \field{sortinit}{T}
+  \field{title}{Telling the Weather Story}
+  \verb{url}
+  \verb http://www.ibc.ca/en/natural_disasters/documents/mcbean_report.pdf
+  \endverb
+\endentry
+
+\entry{BPArcticBillion}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The Wall Street Journal}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T6}
+  \strng{fullhash}{T6}
+  \field{sortinit}{T}
+  \field{title}{BP Plans $1 Billion in New Spending on Alaska}
+  \verb{url}
+  \verb http://online.wsj.com/article/SB100014241278873240633045785233022862974
+  \verb 78.html
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{WHcc2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The White House}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T7}
+  \strng{fullhash}{T7}
+  \field{sortinit}{T}
+  \field{title}{Climate Change}
+  \verb{url}
+  \verb http://www.whitehouse.gov/energy/climate-change
+  \endverb
+\endentry
+
+\entry{WHadaptation2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The White House}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T7}
+  \strng{fullhash}{T7}
+  \field{sortinit}{T}
+  \field{title}{Climate Change Adaptation Task Force}
+  \verb{url}
+  \verb http://www.whitehouse.gov/administration/eop/ceq/initiatives/adaptation
+  \endverb
+\endentry
+
+\entry{WHenergy}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The White House}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T7}
+  \strng{fullhash}{T7}
+  \field{sortinit}{T}
+  \field{title}{Develop and Secure America's Energy Resources}
+  \verb{url}
+  \verb http://www.whitehouse.gov/energy/securing-american-energy#clean%20energ
+  \verb y
+  \endverb
+\endentry
+
+\entry{WorldBankCarbonPricing}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The World Bank}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T8}
+  \strng{fullhash}{T8}
+  \field{sortinit}{T}
+  \field{title}{Mapping carbon pricing initiatives : developments and
+  prospects}
+  \verb{url}
+  \verb http://documents.worldbank.org/curated/en/2013/05/17751166/mapping-carb
+  \verb on-pricing-initiatives-developments-prospects
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{WorldBank4C}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{The World Bank}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T8}
+  \strng{fullhash}{T8}
+  \field{sortinit}{T}
+  \field{title}{Turn Down the Heat: Why a 4°C Warmer World Must be Avoided}
+  \verb{url}
+  \verb http://climatechange.worldbank.org/sites/default/files/Turn_Down_the_he
+  \verb at_Why_a_4_degree_centrigrade_warmer_world_must_be_avoided.pdf
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{HotBackyard}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{This American Life}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T9}
+  \strng{fullhash}{T9}
+  \field{sortinit}{T}
+  \field{title}{Hot In My Backyard}
+  \verb{url}
+  \verb http://www.thisamericanlife.org/radio-archives/episode/495/hot-in-my-ba
+  \verb ckyard
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{Tillerson}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Tillerson}{T.}%
+     {Rex~W.}{R.~W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TRW1}
+  \strng{fullhash}{TRW1}
+  \field{sortinit}{T}
+  \field{title}{The New North American Energy Paradigm: Reshaping the Future}
+  \verb{url}
+  \verb http://www.cfr.org/united-states/new-north-american-energy-paradigm-res
+  \verb haping-future/p28630
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{TorontoAheadStorm}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Toronto Environment Office}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T10}
+  \strng{fullhash}{T10}
+  \field{sortinit}{T}
+  \field{title}{Ahead of the Storm: Preparing Toronto for Climate Change}
+  \verb{url}
+  \verb http://www.toronto.ca/teo/pdf/ahead_of_the_storm.pdf
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{TorontoEnvOff2007}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Toronto Environment Office}}{T.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{T10}
+  \strng{fullhash}{T10}
+  \field{sortinit}{T}
+  \field{title}{Climate Change, Clean Air and Sustainable Energy Action Plan}
+  \verb{url}
+  \verb http://www.toronto.ca/changeisintheair/pdf/clean_air_action_plan.pdf
+  \endverb
+  \field{year}{2007}
+\endentry
+
+\entry{InstitutionalPurpose}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Toronto Governing~Council}{T.~G.~C.}%
+     {University}{U.}%
+     {of}{o.}%
+     {}{}}%
+  }
+  \strng{namehash}{TGCUo1}
+  \strng{fullhash}{TGCUo1}
+  \field{sortinit}{T}
+  \field{title}{Statement of Institutional Purpose}
+  \verb{url}
+  \verb http://www.governingcouncil.utoronto.ca/policies/mission.htm
+  \endverb
+  \field{year}{1992}
+\endentry
+
+\entry{StudentsClamoring}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Twomey}{T.}%
+     {Matt}{M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{TM1}
+  \strng{fullhash}{TM1}
+  \field{sortinit}{T}
+  \field{title}{Students Are Clamoring for Fossil Fuel Divestment}
+  \verb{url}
+  \verb http://www.cnbc.com/id/100788907
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{Ukala_2011}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Ukala}{U.}%
+     {Eferiekose}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{UE1}
+  \strng{fullhash}{UE1}
+  \field{sortinit}{U}
+  \field{pages}{98\bibrangedash 126}
+  \field{title}{Gas Flaring in Nigeria’s Niger Delta: Failed Promises and
+  Reviving Community Voices}
+  \verb{url}
+  \verb http://scholarlycommons.law.wlu.edu/jece/vol2/iss1/4/
+  \endverb
+  \field{journaltitle}{Journal of Energy, Climate and Environment}
+  \field{year}{2011}
+\endentry
+
+\entry{CSBenefitsRenewable}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Union of Concerned Scientists}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U1}
+  \strng{fullhash}{U1}
+  \field{sortinit}{U}
+  \field{title}{Benefits of Renewable Energy Use}
+  \verb{url}
+  \verb http://www.ucsusa.org/clean_energy/our-energy-choices/renewable-energy/
+  \verb public-benefits-of-renewable.html
+  \endverb
+\endentry
+
+\entry{ConcernedScientistsJobs}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Union of Concerned Scientists}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U1}
+  \strng{fullhash}{U1}
+  \field{sortinit}{U}
+  \field{title}{Clean Energy, Green Jobs}
+  \verb{url}
+  \verb http://www.ucsusa.org/clean_energy/smart-energy-solutions/increase-rene
+  \verb wables/clean-energy-green-jobs.html
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{UNHumanDev2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United Nations Development Programme}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U2}
+  \strng{fullhash}{U2}
+  \field{sortinit}{U}
+  \field{title}{Human Development Report 2013: The Rise of the South: Human
+  Progress in a Diverse World}
+  \verb{url}
+  \verb http://hdr.undp.org/hdr4press/press/report/index.html
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{UNEPFinanceInit}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United Nations Environment Programme}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U3}
+  \strng{fullhash}{U3}
+  \field{sortinit}{U}
+  \field{title}{A legal framework for the integration of environmental, social
+  and governance issues into institutional investment}
+  \verb{url}
+  \verb http://www.unepfi.org/fileadmin/documents/freshfields_legal_resp_200511
+  \verb 23.pdf
+  \endverb
+  \field{year}{2005}
+\endentry
+
+\entry{UNEP_2009}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United Nations Environment Programme}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U3}
+  \strng{fullhash}{U3}
+  \field{sortinit}{U}
+  \field{title}{Climate and Trade Policies in a Post-2012 World.}
+  \verb{url}
+  \verb http://www.unep.org/climatechange/Portals/5/documents/ClimateAndTradePo
+  \verb liciesPost2012_en.pdf
+  \endverb
+  \field{year}{2009}
+\endentry
+
+\entry{Ogoniland}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United Nations Environment Programme}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U3}
+  \strng{fullhash}{U3}
+  \field{sortinit}{U}
+  \field{title}{Environmental Assessment of Ogoniland}
+  \verb{url}
+  \verb http://postconflict.unep.ch/publications/OEA/UNEP_OEA.pdf
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{UNEPFI2007}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {{United Nations Environment Programme Finance Initiative}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mercer}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{UM1}
+  \strng{fullhash}{UM1}
+  \field{sortinit}{U}
+  \field{title}{Demystifying Responsible Investment Performance: A review of
+  key academic and broker research on ESG factors}
+  \verb{url}
+  \verb http://www.unepfi.org/fileadmin/documents/Demystifying_Responsible_Inve
+  \verb stment_Performance_01.pdf
+  \endverb
+  \verb{file}
+  \verb :Sources\\UNEP FI 2007 - Demystifying_Responsible_Investment_Performanc
+  \verb e_01.pdf:PDF
+  \endverb
+  \field{year}{2007}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{CivilAndPolitical}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United Nations General Assembly}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U4}
+  \strng{fullhash}{U4}
+  \field{sortinit}{U}
+  \field{title}{International Covenant on Civil and Political Rights, G.A. res.
+  2200A (XXI), 21 U.N. GAOR Supp. (No. 16) at 52, U.N. Doc. A/6316 (1966), 999
+  U.N.T.S. 171}
+  \verb{url}
+  \verb http://www1.umn.edu/humanrts/instree/b3ccpr.htm
+  \endverb
+  \field{year}{{1976}}
+\endentry
+
+\entry{CalculationsReferences}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Environmental Protection Agency}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U5}
+  \strng{fullhash}{U5}
+  \field{sortinit}{U}
+  \field{title}{Calculations and References}
+  \verb{url}
+  \verb http://www.epa.gov/cleanenergy/energy-resources/refs.html
+  \endverb
+\endentry
+
+\entry{MassVEPA}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Supreme Court}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U6}
+  \strng{fullhash}{U6}
+  \field{sortinit}{U}
+  \field{title}{Massachusetts et al. v. Environmental Protection Agency et al.}
+  \verb{url}
+  \verb http://www.supremecourt.gov/opinions/06pdf/05-1120.pdf
+  \endverb
+  \field{year}{2006}
+\endentry
+
+\entry{UCSB2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{University of California Santa Barbara Environmental Affairs
+  Board}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U7}
+  \strng{fullhash}{U7}
+  \field{sortinit}{U}
+  \field{title}{UCSB Faculty Senate Votes in Favor of Fossil Fuel Divestment}
+  \verb{url}
+  \verb http://eab.as.ucsb.edu/2013/06/03/ucsb-faculty-senate-votes-in-favor-of
+  \verb -fossil-fuel-divestment/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{UTAM_2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{University of Toronto Asset Management Corporation}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U8}
+  \strng{fullhash}{U8}
+  \field{sortinit}{U}
+  \field{title}{Canadian Equities Above \$1 Million As at March 31, 2012}
+  \verb{url}
+  \verb http://www.utam.utoronto.ca/Assets/UTAM+Digital+Assets/UTAM/UTAM+Digita
+  \verb l+Assets/reports/Canadian+Q1+2012.pdf
+  \endverb
+  \field{year}{2012}
+\endentry
+
+\entry{DistinguishedLecturer}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{University of Toronto Centre for Global Change Science}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U9}
+  \strng{fullhash}{U9}
+  \field{sortinit}{U}
+  \field{title}{Distinguished Lecturer Series (2012-13)}
+  \verb{url}
+  \verb http://www.cgcs.utoronto.ca/Series/Lecture_Series.htm
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{UTEnvProtectionPolicy}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{University of Toronto Governing Council}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U10}
+  \strng{fullhash}{U10}
+  \field{sortinit}{U}
+  \field{title}{University Environmental Protection Policy}
+  \verb{url}
+  \verb http://www.governingcouncil.utoronto.ca/policies/enviro.htm
+  \endverb
+  \field{year}{{2010}}
+\endentry
+
+\entry{20PercentBy2030}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{U.S. Department of Energy}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U11}
+  \strng{fullhash}{U11}
+  \field{sortinit}{U}
+  \field{title}{20\% Wind Energy by 2030: Increasing Wind Energy's Contribution
+  to U.S. Electricity Supply}
+  \verb{url}
+  \verb http://www.nrel.gov/docs/fy08osti/41869.pdf
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{Charney1979}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{U.S. National Academy of Sciences}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
+  \field{sortinit}{U}
+  \field{title}{Ad Hoc Study Group on Carbon Dioxide and Climate}
+  \verb{url}
+  \verb http://www.atmos.ucla.edu/~brianpm/download/charney_report.pdf
+  \endverb
+\endentry
+
+\entry{SleepingGiant}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{U.S. National Aeronautics and Space Administration}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U13}
+  \strng{fullhash}{U13}
+  \field{sortinit}{U}
+  \field{title}{Is a Sleeping Climate Giant Stirring in the Arctic?}
+  \verb{url}
+  \verb http://www.nasa.gov/topics/earth/features/earth20130610.html
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{Wadhams2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Vidal}{V.}%
+     {John}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{VJ1}
+  \strng{fullhash}{VJ1}
+  \field{sortinit}{V}
+  \field{title}{Arctic expert predicts final collapse of sea ice within four
+  years}
+  \verb{url}
+  \verb http://www.guardian.co.uk/environment/2012/sep/17/arctic-collapse-sea-i
+  \verb ce
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{ShellBribes_2010}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Voreacos}{V.}%
+     {David}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Calkins}{C.}%
+     {Laurel~Brubaker}{L.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{VDCLB1}
+  \strng{fullhash}{VDCLB1}
+  \field{sortinit}{V}
+  \field{title}{Shell Bribes Among `Culture of Corruption,' Panalpina Admits}
+  \verb{url}
+  \verb http://www.bloomberg.com/news/2010-11-05/shell-bribes-among-culture-of-
+  \verb corruption-panalpina-admits.html
+  \endverb
+  \field{year}{2010}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{HomelessnessWaterloo}{misc}{}
+  \name{author}{9}{}{%
+    {{}%
+     {Wandel}{W.}%
+     {Johanna}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Riemer}{R.}%
+     {Manuel}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gomez}{G.}%
+     {Wendy}{W.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Klein}{K.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schutter}{S.}%
+     {J.}{J.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Randall}{R.}%
+     {L.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morrison}{M.}%
+     {M.}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Poirer}{P.}%
+     {S.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Singleton}{S.}%
+     {C.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WJ+1}
+  \strng{fullhash}{WJRMGWdKKSJdRLMMPSSC1}
+  \field{sortinit}{W}
+  \field{title}{Homelessness and Global Climate Change in Waterloo Region: Are
+  We Ready?}
+  \verb{url}
+  \verb http://www.homelesshub.ca/library/homelessness-and-global-climate-chang
+  \verb e-in-waterloo-region-are-we-ready-53859.aspx
+  \endverb
+  \field{year}{{2010}}
+\endentry
+
+\entry{WarrenBiodiversity}{misc}{}
+  \name{author}{11}{}{%
+    {{}%
+     {Warren}{W.}%
+     {R.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {VanDerWal}{V.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Price}{P.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Welbergen}{W.}%
+     {J.~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Atkinson}{A.}%
+     {I.}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ramirez-Villegas}{R.-V.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Osborn}{O.}%
+     {T.~J.}{T.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jarvis}{J.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shoo}{S.}%
+     {L.~P.}{L.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Williams}{W.}%
+     {S.~E.}{S.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lowe}{L.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WR+1}
+  \strng{fullhash}{WRVJPJWJAAIRVJOTJJASLPWSELJ1}
+  \field{sortinit}{W}
+  \field{title}{Quantifying the benefit of early climate change mitigation in
+  avoiding biodiversity loss}
+  \verb{url}
+  \verb http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate1887.
+  \verb html
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{BPNoLongerBeyond}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Winkley}{W.}%
+     {Ben}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WB1}
+  \strng{fullhash}{WB1}
+  \field{sortinit}{W}
+  \field{title}{Energy Journal: BP No Longer Beyond Petroleum}
+  \verb{url}
+  \verb http://blogs.wsj.com/marketbeat/2013/04/03/energy-journal-bp-no-longer-
+  \verb beyond-petroleum/
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{WHOClimateHealth}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{World Health Organization}}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{sortinit}{W}
+  \field{title}{Climate and health: Fact sheet, July 2005}
+  \verb{url}
+  \verb http://www.who.int/globalchange/publications/factsheets/fsclimandhealth
+  \verb /en/index.html
+  \endverb
+  \field{year}{{2005}}
+\endentry
+
+\entry{WHOCCandHealth2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{World Health Organization}}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{sortinit}{W}
+  \field{title}{Climate change and health}
+  \verb{url}
+  \verb http://www.who.int/mediacentre/factsheets/fs266/en/
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{WHOSocialDeterm}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{World Health Organization}}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{sortinit}{W}
+  \field{title}{Closing the gap in a generation: Health equity through action
+  on the social determinants of health}
+  \verb{url}
+  \verb http://www.who.int/social_determinants/thecommission/finalreport/en/ind
+  \verb ex.html
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{WHOGlobalHealthRisks}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{World Health Organization}}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{sortinit}{W}
+  \field{title}{Global health risks: Mortality and Burden of Disease
+  Attributable to Selected Major Risks}
+  \verb{url}
+  \verb http://www.who.int/healthinfo/global_burden_disease/GlobalHealthRisks_r
+  \verb eport_full.pdf
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
+\entry{CCSEarthquake}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Zoback}{Z.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gorelick}{G.}%
+     {Steven}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ZMGS1}
+  \strng{fullhash}{ZMGS1}
+  \field{sortinit}{Z}
+  \field{title}{Earthquake triggering and large-scale geologic storage of
+  carbon dioxide}
+  \verb{url}
+  \verb http://www.pnas.org/content/early/2012/06/13/1202473109.abstract
+  \endverb
+  \field{journaltitle}{Proceedings of the National Academy of Sciences}
+  \field{year}{{2012}}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

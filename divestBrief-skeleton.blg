@@ -1,0 +1,192 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: divestBrief-skeleton.aux
+The style file: biblatex.bst
+A level-1 auxiliary file: s1-0-9-milan.aux
+A level-1 auxiliary file: s2-1-8-milan.aux
+A level-1 auxiliary file: s3-1-1-milan.aux
+A level-1 auxiliary file: s4-2-9-milan.aux
+A level-1 auxiliary file: s5-1-7-milan.aux
+A level-1 auxiliary file: s6-1-0-milan.aux
+A level-1 auxiliary file: s7-0-5-milan.aux
+A level-1 auxiliary file: s8-0-4-milan.aux
+A level-1 auxiliary file: s9-0-2-milan.aux
+A level-1 auxiliary file: s10-0-3-milan.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 41448 items from 5000.
+Database file #1: divestBrief-skeleton-blx.bib
+Database file #2: briefbib-2-1-milan.bib
+I was expecting a `,' or a `}'---line 46 of file briefbib-2-1-milan.bib
+ :  
+ :  URLYEAR = 1990,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 53 of file briefbib-2-1-milan.bib
+ :  
+ :  URLYEAR = 1995,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 60 of file briefbib-2-1-milan.bib
+ :  
+ :  URLYEAR = 2001,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 67 of file briefbib-2-1-milan.bib
+ :  
+ :  URLYEAR = 2007,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 141 of file briefbib-2-1-milan.bib
+ :  
+ :  TITLE = "Yukon Environmental and Socio-economic Assessment Act"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 149 of file briefbib-2-1-milan.bib
+ :  
+ :  URL = "http://www.justice.gov.nt.ca/PDF/ACTS/Environmental%20Rights.pdf",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1155 of file briefbib-2-1-milan.bib
+ :  url = "http://www.omafra.gov.on.ca/english/engineer/facts/climatechange.htm"
+ :                                                                              .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1256 of file briefbib-2-1-milan.bib
+ :  
+ :  year = "{2012}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "OntarioPledge" isn't style-file defined
+--line 1342 of file briefbib-2-1-milan.bib
+I was expecting a `,' or a `}'---line 2290 of file briefbib-2-1-milan.bib
+ :  
+ :  title = "Climate Change",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 1.7
+Warning--you've exceeded 250, the entry-string-size, for entry G8plusJointStatement
+while executing--line 2500 of file biblatex.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry OntarioPledge
+while executing--line 2500 of file biblatex.bst
+*Please notify the bibstyle designer*
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2500 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2500 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2500 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2500 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2500 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2504 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2510 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2514 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2514 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2518 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2524 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2524 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2528 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2528 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2528 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2528 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2582 of file biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 1 in "Greenpeace, Platform, and FairPensions" has a comma at the end for entry OutInTheCold_2012
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+You've used 268 entries,
+            6019 wiz_defined-function locations,
+            2496 strings with 64102 characters,
+and the built_in function-call counts, 749922 in all, are:
+= -- 26217
+> -- 25794
+< -- 6824
++ -- 6502
+- -- 9340
+* -- 51556
+:= -- 44478
+add.period$ -- 0
+call.type$ -- 268
+change.case$ -- 2794
+chr.to.int$ -- 58
+cite$ -- 534
+duplicate$ -- 88233
+empty$ -- 82942
+format.name$ -- 17093
+if$ -- 171219
+int.to.chr$ -- 0
+int.to.str$ -- 823
+missing$ -- 0
+newline$ -- 6351
+num.names$ -- 12204
+pop$ -- 85783
+preamble$ -- 1
+purify$ -- 3357
+quote$ -- 0
+skip$ -- 46535
+stack$ -- 0
+substring$ -- 6710
+swap$ -- 26203
+text.length$ -- 6683
+text.prefix$ -- 267
+top$ -- 1
+type$ -- 10171
+warning$ -- 0
+while$ -- 4899
+width$ -- 0
+write$ -- 6082
+(There were 42 error messages)
