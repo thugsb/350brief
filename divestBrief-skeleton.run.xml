@@ -41,7 +41,7 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
       <file>divestBrief-skeleton.aux</file>
@@ -83,7 +83,7 @@
       <file>divestBrief-skeleton-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>briefbib-2-4-milan.bib</file>
+      <file>briefbib-2-6-milan.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
