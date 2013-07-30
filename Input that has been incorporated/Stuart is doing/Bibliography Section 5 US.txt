@@ -1,0 +1,168 @@
+@misc{GHGReporting,
+	author = "{United States Environmental Protection Agency}",
+	title = "Greenhouse Gas Reporting Program",
+	url = "http://www.epa.gov/ghgreporting/basic-info/index.html",
+	urldate = "{2013}"
+}
+
+@misc{FedEmissionReduction2010,
+	author = "{Council on Environmental Quality}",
+	title = "Federal Leadership in Environmental, Energy and Economic Performance - Executive Order 13514",
+	url = "http://www.whitehouse.gov/administration/eop/ceq/sustainability",
+	urldate = "{2013}"
+}
+
+START*****DUPLICATE****
+
+@misc{CCATF,
+	author = "{Council on Environment Quality}",
+	title = "Climate Change Adaptation Task Force",
+	url = "http://www.whitehouse.gov/administration/eop/ceq/initiatives/adaptation",
+	urldate = "{2013}"
+}
+
+END*****DUPLICATE****
+
+@misc{USGCRP,
+	author = "{U.S. Global Change Research Program}",
+	title = "About",
+	url = "http://www.globalchange.gov/about",
+	urldate = "{2013}"
+}
+
+@misc{WHEnergyStrategy,
+	author = "{The White House}",
+	title = "Obama Administration Record on an All-of-the-Above Energy Strategy",
+	url = "http://www.whitehouse.gov/sites/default/files/docs/clean_energy_record_0.pdf",
+	urldate = "{2013}"
+}
+
+@misc{DOIWindPower,
+	author = "{U.S. Department of the Interior}",
+	title = "Salazar Authorizes Landmark Wyoming Wind Project Site",
+	url = "http://www.blm.gov/wo/st/en/info/newsroom/2012/october/NR_10_09_2012.html",
+	date = "{2012-10-09}"
+}
+
+@misc{GridModernization,
+	author = "{U.S. Department of Energy}",
+	title = "Obama Administration Announces Job-Creating Grid Modernization Pilot Projects",
+	url = "http://energy.gov/articles/obama-administration-announces-job-creating-grid-modernization-pilot-projects",
+	date = "{2011-10-05}"
+}
+
+@misc{GridModernization,
+	author = "{U.S. Department of Energy}",
+	title = "Obama Administration Announces Job-Creating Grid Modernization Pilot Projects",
+	url = "http://energy.gov/articles/obama-administration-announces-job-creating-grid-modernization-pilot-projects",
+	date = "{2011-10-05}"
+}
+
+@misc{GreenButton,
+	author = "{Office of Science and Technology Policy}",
+	title = "Green Button: A Smart Decision",
+	url = "http://www.whitehouse.gov/blog/2012/03/30/green-button-smart-decision",
+	urldate = "{2013}"
+}
+
+@article{ARPAE,
+	author = "Wurzelmann, Sam",
+	title = "Advanced Research Projects Agency - Energy (ARPA-E): Innovation Through the U.S. Department of Energy",
+	journal = "{Center for Climate and Energy Solutions}",
+	month = "April",
+	year = "{2012}",
+	url = "http://www.c2es.org/docUploads/arpa-e-brief.pdf",
+}
+
+@misc{ARPAEProjects,
+	author = "{Advanced Research Projects Agency}",
+	title = "Department of Energy Awards $156 Million for Groundbreaking Energy Research Projects",
+	url = "http://arpa-e.energy.gov/?q=arpa-e-news-item/department-energy-awards-156-million-groundbreaking-energy-research-projects"
+	date = "{2011-09-29}"
+}
+
+@misc{EnergyHubs,
+	author = "{U.S. Department of Energy}",
+	title = "Energy Innovation Hubs: Achieving Our Energy Goals with Science",
+	url = "http://energy.gov/articles/energy-innovation-hubs-achieving-our-energy-goals-science",
+	urldate = "{2013}"
+}
+
+@misc{Hubs,
+	author = "{U.S. Department of Energy}",
+	title = "Hubs",
+	url = "http://energy.gov/science-innovation/innovation/hubs",
+	urldate = "{2013}"
+}
+
+@misc{BetterBuildings,
+	author = "{U.S. Department of Energy}",
+	title = "Progress Update Spring 2013",
+	url = "http://www4.eere.energy.gov/challenge/sites/default/files/uploaded-files/may-recognition-fs-052013.pdf",
+	urldate = "{2013}"
+}
+
+@misc{EPAAirEnforcement,
+	author = "{United States Environmental Protection Agency}",
+	title = "Air Enforcement",
+	url = "http://www.epa.gov/enforcement/air/",
+	urldate = "{2013}"
+}
+
+@misc{EPAVolunteer,
+	author = "{United States Environmental Protection Agency}",
+	title = "EPA's Volunteer Monitoring Program",
+	url = "http://water.epa.gov/type/rsl/datait/waters/georef/epasvmp.cfm",
+	urldate = "{2013}"
+}
+
+@misc{EPAInternational,
+	author = "{United States Environmental Protection Agency}",
+	title = "About the Office of International and Tribal Affairs",
+	url = "http://www2.epa.gov/aboutepa/about-office-international-and-tribal-affairs-oita",
+	urldate = "{2013}"
+}
+
+@misc{EPARegulatoryInitiatives,
+	author = "{United States Environmental Protection Agency}",
+	title = "Regulatory Initiatives",
+	url = "http://www.epa.gov/climatechange/EPAactivities/regulatory-initiatives.html",
+	urldate = "{2013}"
+}
+
+@misc{Estuaries,
+	author = "{United States Environmental Protection Agency}",
+	title = "Climate Ready Estuaries",
+	url = "http://water.epa.gov/type/oceb/cre/index.cfm",
+	urldate = "{2013}"
+}
+
+@misc{CRWU,
+	author = "{United States Environmental Protection Agency}",
+	title = "Climate Ready Water Utilities (CRWU)",
+	url = "http://water.epa.gov/infrastructure/watersecurity/climate/",
+	urldate = "{2013}"
+}
+
+@misc{CMAQ,
+	author = "{U.S. Department of Transportation}",
+	title = "CMAQ and SAFETEA-LU",
+	url = "http://www.fhwa.dot.gov/environment/air_quality/cmaq/reference/safetea-lu/",
+	urldate = "{2013}"
+}
+
+@misc{CMAQProgram,
+	author = "{U.S. Department of Transportation}",
+	title = "Congestion Mitigation and Air Quality Improvement (CMAQ) Program",
+	url = "http://www.fhwa.dot.gov/environment/air_quality/cmaq/",
+	urldate = "{2013}"
+}
+
+@misc{EnergyUpgrade,
+	author = "{The White House}",
+	title = "Securing American Energy",
+	url = "http://www.whitehouse.gov/energy/securing-american-energy",
+	urldate = "{2013}"
+}
+
+

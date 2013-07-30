@@ -1,0 +1,49 @@
+	\subsubsection{United Kingdom}
+
+The Climate Change Act 2008 made the UK the first country in the world to have a legally binding long-term framework to cut carbon emissions.\footcite[][]{ClimateConvention2009}  It introduced a long-term framework for managing emissions through a system of national carbon budgets: caps on the total quantity of greenhouse gases permitted in the UK over a specified time.\footcite[][]{ClimateConvention2009} Each carbon budget covers a five year period, with the first three carbon budgets running from 2008 to 2012, 2013-2017 and 2018-2022.\footcite[][]{ClimateConvention2009} During these periods, emissions must be reduced (from 1990 levels) by 22\%, 28\% and 34\% respectively.\footcite[][]{ClimateConvention2009} 
+
+The Act also created a framework for building the UK’s ability to adapt to climate change, including:
+\begin{itemize}
+	\item a UK-wide Climate Change Risk Assessment that must take place every five years
+	\item a National Adaptation Programme which must be put in place and reviewed every five years to address the most pressing climate change risks to the UK
+	\item a mandate giving the government the power to require ‘bodies with functions of a public nature’ and ‘statutory undertakers’ (eg water and energy utilities) to report on what they are doing to address the risks posed by climate change to their work.\footcite[][]{ClimateConvention2009} 
+\end{itemize}
+
+
+The UK Department of Energy \& Climate Change has set the following national policies and strategies for combating climate change:
+\begin{itemize}
+	\item setting carbon budgets to limit the amount of greenhouse gases the UK is allowed to emit over a specified time
+	\item using statistics on greenhouse gas emissions and further evidence, analysis and research to inform energy and climate change policy
+	\item using the EU Emissions Trading Scheme (EU ETS) to meet over 50\% of the UK’s carbon emissions reduction target between now and 2020
+	\item using a set of values for carbon to make sure project and policy appraisals account for their climate change impacts
+	\item using the 2050 Calculator to let policy makers and the public explore the different options for meeting the 2050 emissions reduction targets.\footcite[][]{GHGPolicyUK} \footcite[][]{EUETS} 
+ 
+\end{itemize}
+
+
+
+The UK Department of Energy \& Climate Change is taking action to support businesses and the public to use energy more efficiently by:
+\begin{itemize}
+	\item reducing demand for energy with smart meters and other energy-efficient measures for industry, businesses and the public sector
+	\item reducing emissions by improving the energy efficiency of properties through the Green Deal
+	\item providing incentives for public and private sector organizations to take up more energy-efficient technologies and practices through the CRC Energy Efficiency Scheme 
+	\item reducing greenhouse gases and other emissions from transport
+	\item reducing greenhouse gas emissions from agriculture. \footcite[][]{GHGPolicyUK}
+\end{itemize}
+
+
+
+The UK Department of Energy \& Climate Change is investing in low-carbon technologies by:
+\begin{itemize}
+	\item taking action to increase the use of low-carbon technologies and creating an industry for carbon capture and storage
+	\item reducing emissions from the power sector and encouraging investment in low-carbon technologies by reforming the UK’s electricity market
+	\item providing over £200 million of funding for innovation in low-carbon technologies from 2011 to 2015.\footcite[][]{GHGPolicyUK}
+\end{itemize}
+
+
+
+The UK Department of Energy \& Climate Change is publicly reporting carbon emissions from businesses and the public sector by:
+\begin{itemize}
+	\item encouraging corporate reporting of greenhouse gas emissions
+	\item asking English local authorities to measure and report their greenhouse gas emissions. \footcite[][]{GHGPolicyUK}
+\end{itemize}

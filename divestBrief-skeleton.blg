@@ -2,17 +2,17 @@ This is BibTeX, Version 0.99d (TeX Live 2012)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: divestBrief-skeleton.aux
 The style file: biblatex.bst
-A level-1 auxiliary file: s1-1-2-milan.aux
-A level-1 auxiliary file: s2-2-1-milan.aux
-A level-1 auxiliary file: s3-1-3-milan.aux
-A level-1 auxiliary file: s4-3-2-milan.aux
-A level-1 auxiliary file: s5-2-0-stu.aux
-A level-1 auxiliary file: s6-1-2-milan.aux
-A level-1 auxiliary file: s7-0-7-milan.aux
-A level-1 auxiliary file: s8-0-6-milan.aux
-A level-1 auxiliary file: s9-0-4-milan.aux
-A level-1 auxiliary file: s10-0-5-milan.aux
-A level-1 auxiliary file: s11-0-3-milan.aux
+A level-1 auxiliary file: s1-1-3-milan.aux
+A level-1 auxiliary file: s2-2-2-milan.aux
+A level-1 auxiliary file: s3-1-4-milan.aux
+A level-1 auxiliary file: s4-3-3-milan.aux
+A level-1 auxiliary file: s5-2-2-milan.aux
+A level-1 auxiliary file: s6-1-3-milan.aux
+A level-1 auxiliary file: s7-0-8-milan.aux
+A level-1 auxiliary file: s8-0-7-milan.aux
+A level-1 auxiliary file: s9-0-5-milan.aux
+A level-1 auxiliary file: s10-0-6-milan.aux
+A level-1 auxiliary file: s11-0-4-milan.aux
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -24,54 +24,58 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 62392 items from 5000.
+Reallocated field_info (elt_size=4) to 68376 items from 5000.
 Database file #1: divestBrief-skeleton-blx.bib
-Database file #2: briefbib-2-6-milan.bib
-I was expecting a `,' or a `}'---line 46 of file briefbib-2-6-milan.bib
+Database file #2: briefbib-2-7-milan.bib
+I was expecting a `,' or a `}'---line 46 of file briefbib-2-7-milan.bib
  :  
  :  year = "{1990}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 53 of file briefbib-2-6-milan.bib
+I was expecting a `,' or a `}'---line 53 of file briefbib-2-7-milan.bib
  :  
  :  year = "{1995}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 67 of file briefbib-2-6-milan.bib
+I was expecting a `,' or a `}'---line 67 of file briefbib-2-7-milan.bib
  :  
  :  year = "{2007}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 141 of file briefbib-2-6-milan.bib
+I was expecting a `,' or a `}'---line 141 of file briefbib-2-7-milan.bib
  :  
  :  TITLE = "Yukon Environmental and Socio-economic Assessment Act"
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 149 of file briefbib-2-6-milan.bib
+I was expecting a `,' or a `}'---line 149 of file briefbib-2-7-milan.bib
  :  
  :  URL = "http://www.justice.gov.nt.ca/PDF/ACTS/Environmental%20Rights.pdf",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1177 of file briefbib-2-6-milan.bib
+I was expecting a `,' or a `}'---line 1177 of file briefbib-2-7-milan.bib
  :  url = "http://www.omafra.gov.on.ca/english/engineer/facts/climatechange.htm"
  :                                                                              .
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1278 of file briefbib-2-6-milan.bib
+I was expecting a `,' or a `}'---line 1278 of file briefbib-2-7-milan.bib
  :  
  :  year = "{2012}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--entry type for "OntarioPledge" isn't style-file defined
---line 1364 of file briefbib-2-6-milan.bib
-I was expecting a `,' or a `}'---line 2313 of file briefbib-2-6-milan.bib
+--line 1364 of file briefbib-2-7-milan.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+I was expecting a `,' or a `}'---line 2313 of file briefbib-2-7-milan.bib
  :  
  :  title = "Climate Change",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Repeated entry---line 3140 of file briefbib-2-6-milan.bib
+Repeated entry---line 3140 of file briefbib-2-7-milan.bib
  : @misc{UTSustOffice
  :                   ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3901 of file briefbib-2-7-milan.bib
+ :  url = "http://www.theglobeandmail.com/news/politics/keystone-pipeline-approval-complete-no-brainer-harper-says/article4203332/"
+ :                                                                                                                                 m
 I'm skipping whatever remains of this entry
 Biblatex version: 1.7
 Warning--you've exceeded 250, the entry-string-size, for entry G8plusJointStatement
@@ -109,45 +113,45 @@ Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, 
 while executing---line 2645 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2645 of file biblatex.bst
-You've used 422 entries,
+You've used 466 entries,
             6019 wiz_defined-function locations,
-            3250 strings with 93307 characters,
-and the built_in function-call counts, 1169282 in all, are:
-= -- 41000
-> -- 40241
-< -- 10628
-+ -- 9765
-- -- 14281
-* -- 78211
-:= -- 69372
+            3455 strings with 102246 characters,
+and the built_in function-call counts, 1284302 in all, are:
+= -- 44969
+> -- 44192
+< -- 11655
++ -- 10599
+- -- 15644
+* -- 85308
+:= -- 76160
 add.period$ -- 0
-call.type$ -- 422
-change.case$ -- 4266
+call.type$ -- 466
+change.case$ -- 4656
 chr.to.int$ -- 134
-cite$ -- 842
-duplicate$ -- 137535
-empty$ -- 130068
-format.name$ -- 26081
-if$ -- 267752
+cite$ -- 930
+duplicate$ -- 151048
+empty$ -- 143156
+format.name$ -- 28534
+if$ -- 294387
 int.to.chr$ -- 0
-int.to.str$ -- 1362
+int.to.str$ -- 1518
 missing$ -- 0
-newline$ -- 9552
-num.names$ -- 19319
-pop$ -- 135326
+newline$ -- 10415
+num.names$ -- 21327
+pop$ -- 149369
 preamble$ -- 1
-purify$ -- 5063
+purify$ -- 5509
 quote$ -- 0
-skip$ -- 72888
+skip$ -- 80217
 stack$ -- 0
-substring$ -- 10924
-swap$ -- 40365
-text.length$ -- 10432
-text.prefix$ -- 421
+substring$ -- 11649
+swap$ -- 44188
+text.length$ -- 11468
+text.prefix$ -- 465
 top$ -- 1
-type$ -- 16023
+type$ -- 17695
 warning$ -- 0
-while$ -- 7878
+while$ -- 8694
 width$ -- 0
-write$ -- 9129
-(There were 21 error messages)
+write$ -- 9948
+(There were 22 error messages)
