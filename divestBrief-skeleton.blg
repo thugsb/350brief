@@ -24,7 +24,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 68376 items from 5000.
+Reallocated field_info (elt_size=4) to 71504 items from 5000.
 Database file #1: divestBrief-skeleton-blx.bib
 Database file #2: briefbib-2-7-milan.bib
 I was expecting a `,' or a `}'---line 46 of file briefbib-2-7-milan.bib
@@ -84,20 +84,42 @@ while executing--line 2500 of file biblatex.bst
 Warning--you've exceeded 250, the entry-string-size, for entry OntarioPledge
 while executing--line 2500 of file biblatex.bst
 *Please notify the bibstyle designer*
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2500 of file biblatex.bst
 Warning--you've exceeded 250, the entry-string-size, for entry HagueDeclarationOnTheEnvironment
 while executing--line 2500 of file biblatex.bst
 *Please notify the bibstyle designer*
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2500 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2524 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2524 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2528 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2528 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2528 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2528 of file biblatex.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
 while executing---line 2645 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2645 of file biblatex.bst
@@ -113,45 +135,47 @@ Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, 
 while executing---line 2645 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2645 of file biblatex.bst
-You've used 466 entries,
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+You've used 489 entries,
             6019 wiz_defined-function locations,
-            3455 strings with 102246 characters,
-and the built_in function-call counts, 1284302 in all, are:
-= -- 44969
-> -- 44192
-< -- 11655
-+ -- 10599
-- -- 15644
-* -- 85308
-:= -- 76160
+            3560 strings with 106593 characters,
+and the built_in function-call counts, 1346953 in all, are:
+= -- 47107
+> -- 46389
+< -- 12192
++ -- 11098
+- -- 16425
+* -- 89519
+:= -- 79893
 add.period$ -- 0
-call.type$ -- 466
-change.case$ -- 4656
+call.type$ -- 489
+change.case$ -- 4860
 chr.to.int$ -- 134
-cite$ -- 930
-duplicate$ -- 151048
-empty$ -- 143156
-format.name$ -- 28534
-if$ -- 294387
+cite$ -- 976
+duplicate$ -- 158416
+empty$ -- 150160
+format.name$ -- 29977
+if$ -- 308770
 int.to.chr$ -- 0
-int.to.str$ -- 1518
+int.to.str$ -- 1600
 missing$ -- 0
-newline$ -- 10415
-num.names$ -- 21327
-pop$ -- 149369
+newline$ -- 10926
+num.names$ -- 22378
+pop$ -- 156767
 preamble$ -- 1
-purify$ -- 5509
+purify$ -- 5756
 quote$ -- 0
-skip$ -- 80217
+skip$ -- 84140
 stack$ -- 0
-substring$ -- 11649
-swap$ -- 44188
-text.length$ -- 11468
-text.prefix$ -- 465
+substring$ -- 12028
+swap$ -- 46315
+text.length$ -- 12022
+text.prefix$ -- 488
 top$ -- 1
-type$ -- 17695
+type$ -- 18569
 warning$ -- 0
-while$ -- 8694
+while$ -- 9121
 width$ -- 0
-write$ -- 9948
-(There were 22 error messages)
+write$ -- 10436
+(There were 34 error messages)
