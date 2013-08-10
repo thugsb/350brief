@@ -139,43 +139,43 @@ Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, 
 while executing---line 2645 of file biblatex.bst
 You've used 502 entries,
             6019 wiz_defined-function locations,
-            3629 strings with 109104 characters,
-and the built_in function-call counts, 1384338 in all, are:
+            3613 strings with 108970 characters,
+and the built_in function-call counts, 1386259 in all, are:
 = -- 48481
-> -- 47684
-< -- 12555
-+ -- 11357
-- -- 16815
-* -- 91716
-:= -- 82193
+> -- 47925
+< -- 12642
++ -- 11482
+- -- 16882
+* -- 91687
+:= -- 82405
 add.period$ -- 0
 call.type$ -- 502
 change.case$ -- 4967
-chr.to.int$ -- 184
+chr.to.int$ -- 329
 cite$ -- 1002
-duplicate$ -- 162841
-empty$ -- 154382
+duplicate$ -- 163073
+empty$ -- 154469
 format.name$ -- 30679
-if$ -- 317288
+if$ -- 317578
 int.to.chr$ -- 0
 int.to.str$ -- 1652
 missing$ -- 0
 newline$ -- 11173
 num.names$ -- 22989
-pop$ -- 161084
+pop$ -- 161026
 preamble$ -- 1
 purify$ -- 5876
 quote$ -- 0
-skip$ -- 86405
+skip$ -- 86521
 stack$ -- 0
-substring$ -- 12891
-swap$ -- 47567
-text.length$ -- 12373
+substring$ -- 13036
+swap$ -- 47654
+text.length$ -- 12431
 text.prefix$ -- 501
 top$ -- 1
 type$ -- 19063
 warning$ -- 0
-while$ -- 9446
+while$ -- 9562
 width$ -- 0
 write$ -- 10670
 (There were 34 error messages)

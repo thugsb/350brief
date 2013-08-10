@@ -292,8 +292,8 @@
   \verb http://www.pnas.org/content/early/2010/06/04/1003187107.abstract
   \endverb
   \field{journaltitle}{Proceedings of the National Academy of Sciences}
+  \field{month}{06}
   \field{year}{{2010}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{ACFNDisappointed}{misc}{}
@@ -1070,8 +1070,8 @@
   \verb http://www.c2es.org/international/key-country-policies/china/energy-cli
   \verb mate-goals-twelfth-five-year-plan
   \endverb
+  \field{month}{03}
   \field{year}{{2011}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{CCESinitiatives}{misc}{}
@@ -1662,8 +1662,8 @@
   \verb 0935-1/fulltext
   \endverb
   \field{journaltitle}{{The Lancet}}
+  \field{month}{05}
   \field{year}{{2009}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{COE2011decl}{misc}{}
@@ -1785,8 +1785,8 @@
   \verb{url}
   \verb http://www.daraint.org/wp-content/uploads/2012/10/CVM2-Low.pdf
   \endverb
+  \field{month}{09}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{BPNoMore}{misc}{}
@@ -1938,8 +1938,8 @@
   \verb http://www.pnas.org/content/early/2012/09/25/1208909109
   \endverb
   \field{journaltitle}{Proceedings of the National Academy of Sciences}
+  \field{month}{10}
   \field{year}{{2012}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{ClimateConvention2009}{book}{}
@@ -1983,8 +1983,8 @@
   \verb https://www.dbadvisors.com/content/_media/Sustainable_Investing_2012.pd
   \verb f
   \endverb
+  \field{month}{06}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{HarvardPetition}{misc}{}
@@ -2062,8 +2062,8 @@
   \endverb
   \field{volume}{28}
   \field{journaltitle}{{Natural Hazards}}
+  \field{month}{03}
   \field{year}{{2003}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{ReutersonWMO}{misc}{}
@@ -2494,8 +2494,8 @@
   \endverb
   \field{volume}{2}
   \field{journaltitle}{{Environmental Justice}}
+  \field{month}{12}
   \field{year}{{2009}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{CCLatinAmerica}{misc}{}
@@ -3093,8 +3093,8 @@
   \verb http://www.jamesford.ca/wp-content/uploads/2010/06/in-press-version.pdf
   \endverb
   \field{journaltitle}{{Global Environmental Change}}
+  \field{month}{05}
   \field{year}{{2010}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{CCInuitCommunities}{article}{}
@@ -3147,8 +3147,8 @@
   \endverb
   \field{volume}{174}
   \field{journaltitle}{{The Geographical Journal}}
+  \field{month}{03}
   \field{year}{{2008}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{RobbingCarbonBank}{misc}{}
@@ -3317,8 +3317,8 @@
   \verb{file}
   \verb :Sources\\aperio 2013 - building_a_carbon_free_portfolio.pdf:PDF
   \endverb
+  \field{month}{01}
   \field{year}{2013}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{ShellArcticOilRush}{misc}{}
@@ -3983,8 +3983,8 @@
   \verb http://www.greenpeace.de/fileadmin/gpd/user_upload/themen/oel/20120521-
   \verb Risiken-Oelbohrungen-Arktis-Investoren-englisch.pdf
   \endverb
+  \field{month}{05}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{ShiftToClimatePreparedness}{misc}{}
@@ -4564,8 +4564,8 @@
   \endverb
   \field{volume}{2}
   \field{journaltitle}{{Climate Policy}}
+  \field{month}{05}
   \field{year}{{2002}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{FossilFreeInvesting}{misc}{}
@@ -4604,8 +4604,8 @@
   \verb {http://www.ecofys.com/files/files/wwf_ecofys_2011_%20eu%20cpt_germany.
   \verb pdf}
   \endverb
+  \field{month}{11}
   \field{year}{{2011}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{GHGPollutionToronto}{misc}{}
@@ -5636,8 +5636,8 @@
   \verb{url}
   \verb http://www.eesi.org/issue-brief-china-s-actions-clean-power-15-oct-2012
   \endverb
+  \field{month}{10}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{MacKay2009}{book}{}
@@ -5741,8 +5741,8 @@
   \endverb
   \field{volume}{370}
   \field{journaltitle}{{The Lancet}}
+  \field{month}{09}
   \field{year}{{2007}}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{Mathiason_2005}{misc}{}
@@ -5761,8 +5761,8 @@
   \verb http://www.guardian.co.uk/business/2005/jun/19/oilandpetrol.observerbus
   \verb iness
   \endverb
+  \field{month}{06}
   \field{year}{2005}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{MayorsInnovationDivestGuide}{misc}{}
@@ -6289,8 +6289,8 @@
   \verb http://www.guardian.co.uk/sustainable-business/blog/drilling-oil-arctic
   \verb -risks-too-great-companies
   \endverb
+  \field{month}{10}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{NOAACoral}{misc}{}
@@ -6576,8 +6576,8 @@
   \verb{url}
   \verb http://www.scribd.com/doc/125689533/Oilsands-groundwater-contamination
   \endverb
+  \field{month}{06}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{ChinaTopEmission}{misc}{}
@@ -6615,8 +6615,8 @@
   \verb http://worldnews.nbcnews.com/_news/2012/09/26/14107150-environmental-ri
   \verb sk-of-drilling-in-arctic-too-high-ceo-of-oil-giant-total-says
   \endverb
+  \field{month}{09}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{SmartPlanetCCS}{misc}{}
@@ -7441,8 +7441,8 @@
   \endverb
   \field{volume}{28}
   \field{journaltitle}{International Legal Materials}
+  \field{month}{09}
   \field{year}{1989}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{EcuadorConstitution}{misc}{}
@@ -7537,8 +7537,8 @@
   \field{sortinit}{R}
   \field{title}{Socially Responsible Investment Law: Regulating the Unseen
   Polluters}
+  \field{month}{06}
   \field{year}{2008}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{NorwayPetition_2012}{misc}{}
@@ -7556,8 +7556,8 @@
   \verb{url}
   \verb http://www.rightlivelihood.org/petition_norway_shell.html
   \endverb
+  \field{month}{02}
   \field{year}{2012}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{RioTintoChartbook}{misc}{}
@@ -7846,8 +7846,8 @@
   \verb http://online.wsj.com/article/SB100014240527487036317045755524104202076
   \verb 30.html?mod=djem_jiewr_BE_domainid
   \endverb
+  \field{month}{10}
   \field{year}{2010}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{WoesReverse}{misc}{}
@@ -8211,8 +8211,8 @@
   \list{institution}{1}{%
     {HSBC Global Research}%
   }
+  \field{month}{01}
   \field{year}{2013}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{ChinaCarbonTax}{misc}{}
@@ -8544,8 +8544,8 @@
   \verb 3ea61ba5/SC_Publication_Foreign_Corrupt_Practices_Act_Recent_Developmen
   \verb ts.pdf
   \endverb
+  \field{month}{11}
   \field{year}{2010}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{Tsilhqotin}{misc}{}
@@ -9619,8 +9619,8 @@
   \verb :Sources\\UNEP FI 2007 - Demystifying_Responsible_Investment_Performanc
   \verb e_01.pdf:PDF
   \endverb
+  \field{month}{10}
   \field{year}{2007}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{UNFCCCCanada2010}{misc}{}
@@ -10166,8 +10166,8 @@
   \verb{url}
   \verb http://toronto350.org/files/TobaccoReport_2007.pdf
   \endverb
+  \field{month}{02}
   \field{year}{2007}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{UTAM_2012}{misc}{}
@@ -10712,8 +10712,8 @@
   \verb http://www.bloomberg.com/news/2010-11-05/shell-bribes-among-culture-of-
   \verb corruption-panalpina-admits.html
   \endverb
+  \field{month}{11}
   \field{year}{2010}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \entry{NewSocialCostEffort}{misc}{}
