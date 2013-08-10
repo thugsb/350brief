@@ -83,7 +83,7 @@
       <file>divestBrief-skeleton-blx.bib</file>
     </requires>
     <requires type="editable">
-      <file>briefbib-2-7-milan.bib</file>
+      <file>briefbib-2-8-stu.bib</file>
     </requires>
     <requires type="static">
       <file>biblatex.bst</file>
