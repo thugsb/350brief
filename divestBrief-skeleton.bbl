@@ -1687,6 +1687,25 @@
   \field{year}{{2011}}
 \endentry
 
+\entry{COERec1879}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Council of Europe Parliamentary Assembly}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C23}
+  \strng{fullhash}{C23}
+  \field{sortinit}{C}
+  \field{title}{Recommendation 1879: Renewable energies and the environment}
+  \verb{url}
+  \verb http://assembly.coe.int/Main.asp?link=/Documents/AdoptedText/ta09/EREC1
+  \verb 879.htm
+  \endverb
+  \field{year}{{2009}}
+\endentry
+
 \entry{FedEmissionReduction2010}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -1695,8 +1714,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C23}
-  \strng{fullhash}{C23}
+  \strng{namehash}{C24}
+  \strng{fullhash}{C24}
   \field{sortinit}{C}
   \field{title}{Federal Leadership in Environmental, Energy and Economic
   Performance - Executive Order 13514}
@@ -1733,8 +1752,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C24}
-  \strng{fullhash}{C24}
+  \strng{namehash}{C25}
+  \strng{fullhash}{C25}
   \field{sortinit}{C}
   \field{title}{First Nation sues Shell}
   \verb{url}
@@ -2625,25 +2644,6 @@
   \verb 9130
   \endverb
   \field{year}{{2013}}
-\endentry
-
-\entry{COERec1879}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Europe Parliamentary~Assembly}{E.~P.~A.}%
-     {Council}{C.}%
-     {of}{o.}%
-     {}{}}%
-  }
-  \strng{namehash}{EPACo1}
-  \strng{fullhash}{EPACo1}
-  \field{sortinit}{E}
-  \field{title}{Recommendation 1879: Renewable energies and the environment}
-  \verb{url}
-  \verb http://assembly.coe.int/Main.asp?link=/Documents/AdoptedText/ta09/EREC1
-  \verb 879.htm
-  \endverb
-  \field{year}{{2009}}
 \endentry
 
 \entry{KyotoTargetsGermany}{misc}{}
@@ -4590,7 +4590,7 @@
 \entry{GermanyTariff}{misc}{}
   \name{author}{1}{}{%
     {{}%
-     {{Höhne,Niklas and Geurts, Fieke and Teckenburg, Eva}}{H.}%
+     {{Höhne, Niklas and Geurts, Fieke and Teckenburg, Eva}}{H.}%
      {}{}%
      {}{}%
      {}{}}%
@@ -4598,7 +4598,6 @@
   \strng{namehash}{H3}
   \strng{fullhash}{H3}
   \field{sortinit}{H}
-  \field{howpublished}{{Electronic - WWF and Ecofys}}
   \field{title}{{Germany}}
   \verb{url}
   \verb {http://www.ecofys.com/files/files/wwf_ecofys_2011_%20eu%20cpt_germany.
