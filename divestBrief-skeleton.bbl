@@ -1353,6 +1353,25 @@
   \field{year}{{2012}}
 \endentry
 
+\entry{ONERC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Climate-Adapt}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C18}
+  \strng{fullhash}{C18}
+  \field{sortinit}{C}
+  \field{title}{ONERC (Observatoire National sur les Effets du RÃ©chauffement
+  Climatique)}
+  \verb{url}
+  \verb http://climate-adapt.eea.europa.eu/viewaceitem?aceitem_id=414
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
 \entry{RigFindings}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -1381,8 +1400,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C18}
-  \strng{fullhash}{C18}
+  \strng{namehash}{C19}
+  \strng{fullhash}{C19}
   \field{sortinit}{C}
   \field{title}{2011 December Report of the Commissioner of the Environment and
   Sustainable Development}
@@ -1401,8 +1420,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C19}
-  \strng{fullhash}{C19}
+  \strng{namehash}{C20}
+  \strng{fullhash}{C20}
   \field{sortinit}{C}
   \field{title}{The Human Rights Impact of Climate Change}
   \verb{url}
@@ -1419,8 +1438,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C20}
-  \strng{fullhash}{C20}
+  \strng{namehash}{C21}
+  \strng{fullhash}{C21}
   \field{sortinit}{C}
   \field{title}{Lake Victoria Commonwealth Climate Change Action Plan 2007}
   \verb{url}
@@ -1438,8 +1457,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C21}
-  \strng{fullhash}{C21}
+  \strng{namehash}{C22}
+  \strng{fullhash}{C22}
   \field{sortinit}{C}
   \field{title}{Climate Change Position}
   \verb{url}
@@ -1675,8 +1694,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C22}
-  \strng{fullhash}{C22}
+  \strng{namehash}{C23}
+  \strng{fullhash}{C23}
   \field{sortinit}{C}
   \field{title}{As the world's warmest year ends, time for climate change to be
   seen as a human rights issue}
@@ -1695,8 +1714,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C23}
-  \strng{fullhash}{C23}
+  \strng{namehash}{C24}
+  \strng{fullhash}{C24}
   \field{sortinit}{C}
   \field{title}{Recommendation 1879: Renewable energies and the environment}
   \verb{url}
@@ -1714,8 +1733,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C24}
-  \strng{fullhash}{C24}
+  \strng{namehash}{C25}
+  \strng{fullhash}{C25}
   \field{sortinit}{C}
   \field{title}{Federal Leadership in Environmental, Energy and Economic
   Performance - Executive Order 13514}
@@ -1752,8 +1771,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C25}
-  \strng{fullhash}{C25}
+  \strng{namehash}{C26}
+  \strng{fullhash}{C26}
   \field{sortinit}{C}
   \field{title}{First Nation sues Shell}
   \verb{url}
@@ -3244,6 +3263,67 @@
   \verb ocalyptic-externalities/
   \endverb
   \field{year}{{2012}}
+\endentry
+
+\entry{IntermediaryTargets}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{France Diplomatie}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F8}
+  \strng{fullhash}{F8}
+  \field{sortinit}{F}
+  \field{title}{Issues and reasons behind the French offer to host the 21st
+  Conference of the Parties on Climate Change 2015}
+  \verb{url}
+  \verb http://www.diplomatie.gouv.fr/en/french-foreign-policy-1/sustainable-de
+  \verb velopment-1097/climate-change/21st-conference-of-the-parties-on/article
+  \verb /issues-and-reasons-behind-the
+  \endverb
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
+\entry{Reduction2050}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{France in Canada}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F9}
+  \strng{fullhash}{F9}
+  \field{sortinit}{F}
+  \field{title}{Issues and reasons behind the French offer to host the 21st
+  Conference of the Parties on Climate Change 2015}
+  \verb{url}
+  \verb http://www.ambafrance-ca.org/France-and-the-fight-against
+  \endverb
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
+\entry{FranceEmission}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{France in the United States}}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F10}
+  \strng{fullhash}{F10}
+  \field{sortinit}{F}
+  \field{title}{France - rising to the international climate challenge}
+  \verb{url}
+  \verb http://www.franceintheus.org/greenfrance/spip.php?article4370
+  \endverb
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
 \endentry
 
 \entry{FriedWildfire}{article}{}
@@ -6155,6 +6235,26 @@
   \field{year}{{2011}}
 \endentry
 
+\entry{GrenellePolicies}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Ministry of Ecology, Energy, Sustainable Development and the Sea}}{M.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{M5}
+  \strng{fullhash}{M5}
+  \field{sortinit}{M}
+  \field{title}{French Climate Plan}
+  \verb{url}
+  \verb http://ec.europa.eu/environment/networks/greenspider/doc/climate_change
+  \verb _campaigns/ccc_france.pdf
+  \endverb
+  \field{year}{2009}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{CCPlanPoundsCoal}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -6219,8 +6319,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{M5}
-  \strng{fullhash}{M5}
+  \strng{namehash}{M6}
+  \strng{fullhash}{M6}
   \field{sortinit}{M}
   \field{title}{Responding to the Call for Fossil-fuel Free Portfolios}
   \verb{url}
@@ -6258,8 +6358,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{M6}
-  \strng{fullhash}{M6}
+  \strng{namehash}{M7}
+  \strng{fullhash}{M7}
   \field{sortinit}{M}
   \field{title}{Overall picture of natural catastrophes in 2010 â€“ Very severe
   earthquakes and many severe weather events}
@@ -6538,6 +6638,25 @@
   \field{year}{{2012}}
 \endentry
 
+\entry{SNAAC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{NationalObservatory on the Effects of Global Warming}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
+  \field{sortinit}{N}
+  \field{title}{National Strategy for Adaptation to Climate Change}
+  \verb{url}
+  \verb http://www.developpement-durable.gouv.fr/IMG/pdf/ONERC_The_French_Natio
+  \verb nal_Strategy_for_Adaptation_to_Climate_Change.pdf
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
 \entry{NRCANImpactsAdapt}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -6546,8 +6665,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N3}
-  \strng{fullhash}{N3}
+  \strng{namehash}{N4}
+  \strng{fullhash}{N4}
   \field{sortinit}{N}
   \field{title}{Climate Change Impacts and Adaptation: A Canadian Perspective}
   \verb{url}
@@ -6565,8 +6684,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N3}
-  \strng{fullhash}{N3}
+  \strng{namehash}{N4}
+  \strng{fullhash}{N4}
   \field{sortinit}{N}
   \field{title}{From Impacts to Adaptation: Canada in a Changing Climate 2007}
   \verb{url}
@@ -6584,8 +6703,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N3}
-  \strng{fullhash}{N3}
+  \strng{namehash}{N4}
+  \strng{fullhash}{N4}
   \field{sortinit}{N}
   \field{title}{Memorandum to the Minister: Pending Release by Natural
   Resources Canada of Reports on Natural vs. Human-Caused Contamination in the
@@ -6605,8 +6724,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N4}
-  \strng{fullhash}{N4}
+  \strng{namehash}{N5}
+  \strng{fullhash}{N5}
   \field{sortinit}{N}
   \field{title}{China tops CO2 emissions}
   \verb{url}
@@ -6623,8 +6742,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N5}
-  \strng{fullhash}{N5}
+  \strng{namehash}{N6}
+  \strng{fullhash}{N6}
   \field{sortinit}{N}
   \field{title}{Environmental risk of drilling in Arctic too high, CEO of oil
   giant Total says}
@@ -6841,8 +6960,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N6}
-  \strng{fullhash}{N6}
+  \strng{namehash}{N7}
+  \strng{fullhash}{N7}
   \field{sortinit}{N}
   \field{title}{Niger Delta Natural Resource Damage Assessment and Restoration
   Project â€“ Phase I Scoping Report}
@@ -10708,6 +10827,30 @@
   \field{year}{{2013}}
 \endentry
 
+\entry{GrenelleEnvironment}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Vieira, Ricardo Stanziola and BÃ©taille, Julien}}{V.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IUCN Environmental Law Centre}%
+  }
+  \strng{namehash}{V1}
+  \strng{fullhash}{V1}
+  \field{sortinit}{V}
+  \field{number}{70}
+  \field{title}{Grenelle de l'environnement: Is France Making Up for Lost
+  Time?}
+  \verb{url}
+  \verb http://data.iucn.org/dbtw-wpd/html/eplp-070/section23.html
+  \endverb
+  \field{journaltitle}{IUCN Enviornmental Policy and Law Paper}
+  \field{year}{2008}
+\endentry
+
 \entry{ShellBribes_2010}{misc}{}
   \name{author}{2}{}{%
     {{}%
@@ -11408,6 +11551,31 @@
   \endverb
   \field{journaltitle}{Proceedings of the National Academy of Sciences}
   \field{year}{{2012}}
+\endentry
+
+\entry{Reduction2020}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Ã‰gert, BalÃ¡zs}}{Ã.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {OECD Publishing}%
+  }
+  \strng{namehash}{Ã1}
+  \strng{fullhash}{Ã1}
+  \field{sortinit}{Ã}
+  \field{number}{859}
+  \field{title}{France's Environmental Policies: Internalising Global and Local
+  Externalities}
+  \verb{url}
+  \verb http://dx.doi.org/10.1787/5kgdpn0n9d8v-en
+  \endverb
+  \field{journaltitle}{OECD Economics Department Working Papers}
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \lossort
