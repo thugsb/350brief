@@ -118,13 +118,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{The Council of Europe}{100}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Indian Ocean Commission}{100}{section*.12}
+\contentsline {subsubsection}{Indian Ocean Commission}{101}{section*.12}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Committee}{101}{section*.12}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{United Nations High Commissioner for Human Rights}{101}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The World Bank}{102}{section*.12}
+\contentsline {subsubsection}{The World Bank}{103}{section*.12}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.7}These actions are not adequate to avoid dangerous climate change}{103}{subsection.5.7}
 \defcounter {refsection}{0}\relax 
