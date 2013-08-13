@@ -4194,6 +4194,24 @@
   \field{year}{{2013}}
 \endentry
 
+\entry{Harrison1996}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Harrison}{H.}%
+     {Kathryn}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {University of British Columbia Press}%
+  }
+  \strng{namehash}{HK1}
+  \strng{fullhash}{HK1}
+  \field{sortinit}{H}
+  \field{title}{Passing the Buck: Federalism and Canadian Environmental Policy}
+  \field{year}{{1996}}
+\endentry
+
 \entry{Harvey1999a}{book}{}
   \name{author}{1}{}{%
     {{}%

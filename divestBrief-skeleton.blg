@@ -24,7 +24,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 73272 items from 5000.
+Reallocated field_info (elt_size=4) to 73408 items from 5000.
 Database file #1: divestBrief-skeleton-blx.bib
 Database file #2: briefbib-2-9-milan.bib
 I was expecting a `,' or a `}'---line 46 of file briefbib-2-9-milan.bib
@@ -137,45 +137,45 @@ Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, 
 while executing---line 2645 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2645 of file biblatex.bst
-You've used 502 entries,
+You've used 503 entries,
             6019 wiz_defined-function locations,
-            3612 strings with 108946 characters,
-and the built_in function-call counts, 1386335 in all, are:
-= -- 48489
-> -- 47936
-< -- 12642
-+ -- 11486
-- -- 16884
-* -- 91674
-:= -- 82419
+            3618 strings with 109091 characters,
+and the built_in function-call counts, 1390072 in all, are:
+= -- 48718
+> -- 48051
+< -- 12701
++ -- 11537
+- -- 16908
+* -- 91832
+:= -- 82598
 add.period$ -- 0
-call.type$ -- 502
-change.case$ -- 4967
+call.type$ -- 503
+change.case$ -- 5013
 chr.to.int$ -- 329
-cite$ -- 1002
-duplicate$ -- 163076
-empty$ -- 154471
-format.name$ -- 30685
-if$ -- 317602
+cite$ -- 1004
+duplicate$ -- 163487
+empty$ -- 154835
+format.name$ -- 30734
+if$ -- 318506
 int.to.chr$ -- 0
-int.to.str$ -- 1654
+int.to.str$ -- 1657
 missing$ -- 0
-newline$ -- 11172
-num.names$ -- 22995
-pop$ -- 161034
+newline$ -- 11190
+num.names$ -- 23075
+pop$ -- 161349
 preamble$ -- 1
-purify$ -- 5876
+purify$ -- 5923
 quote$ -- 0
-skip$ -- 86530
+skip$ -- 86797
 stack$ -- 0
-substring$ -- 13036
-swap$ -- 47644
-text.length$ -- 12431
-text.prefix$ -- 501
+substring$ -- 13232
+swap$ -- 47767
+text.length$ -- 12454
+text.prefix$ -- 502
 top$ -- 1
-type$ -- 19063
+type$ -- 19101
 warning$ -- 0
-while$ -- 9564
+while$ -- 9581
 width$ -- 0
-write$ -- 10669
+write$ -- 10686
 (There were 34 error messages)
