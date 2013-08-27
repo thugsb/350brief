@@ -7380,6 +7380,26 @@
   \warn{\item Invalid format of field 'urldate'}
 \endentry
 
+\entry{OGorman2012}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {O'Gorman}{O.}%
+     {Paul~A.}{P.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{OPA1}
+  \strng{fullhash}{OPA1}
+  \field{sortinit}{O}
+  \field{title}{Sensitivity of tropical precipitation extremes to climate
+  change}
+  \verb{url}
+  \verb http://www.nature.com/ngeo/journal/v5/n10/full/ngeo1568.html
+  \endverb
+  \field{journaltitle}{Nature Geoscience}
+  \field{year}{2012}
+\endentry
+
 \entry{OLeary2013}{article}{}
   \name{author}{6}{}{%
     {{}%
@@ -8584,6 +8604,25 @@
   Aggressive Measures}
   \verb{url}
   \verb http://www.sciencedaily.com/releases/2012/12/121202164026.htm
+  \endverb
+  \field{year}{{2012}}
+\endentry
+
+\entry{ExtremeTropical2012}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{ScienceDaily}}{S.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{S1}
+  \strng{fullhash}{S1}
+  \field{sortinit}{S}
+  \field{title}{When It Rains, It Pours: Intensification of Extreme Tropical
+  Rainfall With Global Warming Modeled}
+  \verb{url}
+  \verb http://www.sciencedaily.com/releases/2012/09/120917124208.htm
   \endverb
   \field{year}{{2012}}
 \endentry
