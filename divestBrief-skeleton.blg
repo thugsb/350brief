@@ -6,7 +6,7 @@ A level-1 auxiliary file: s1-1-3-milan.aux
 A level-1 auxiliary file: s2-2-2-milan.aux
 A level-1 auxiliary file: s3-1-4-milan.aux
 A level-1 auxiliary file: s4-3-3-milan.aux
-A level-1 auxiliary file: s5-2-3-stu.aux
+A level-1 auxiliary file: s5-2-4-milan.aux
 A level-1 auxiliary file: s6-1-3-milan.aux
 A level-1 auxiliary file: s7-0-8-milan.aux
 A level-1 auxiliary file: s8-0-7-milan.aux
@@ -24,56 +24,56 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 74496 items from 5000.
+Reallocated field_info (elt_size=4) to 78848 items from 5000.
 Database file #1: divestBrief-skeleton-blx.bib
-Database file #2: briefbib-2-9-milan.bib
-I was expecting a `,' or a `}'---line 46 of file briefbib-2-9-milan.bib
+Database file #2: briefbib-3-0-milan.bib
+I was expecting a `,' or a `}'---line 46 of file briefbib-3-0-milan.bib
  :  
  :  year = "{1990}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 53 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 53 of file briefbib-3-0-milan.bib
  :  
  :  year = "{1995}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 67 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 67 of file briefbib-3-0-milan.bib
  :  
  :  year = "{2007}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 141 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 141 of file briefbib-3-0-milan.bib
  :  
  :  TITLE = "Yukon Environmental and Socio-economic Assessment Act"
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 149 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 149 of file briefbib-3-0-milan.bib
  :  
  :  URL = "http://www.justice.gov.nt.ca/PDF/ACTS/Environmental%20Rights.pdf",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1177 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 1177 of file briefbib-3-0-milan.bib
  :  url = "http://www.omafra.gov.on.ca/english/engineer/facts/climatechange.htm"
  :                                                                              .
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1278 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 1278 of file briefbib-3-0-milan.bib
  :  
  :  year = "{2012}",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--entry type for "OntarioPledge" isn't style-file defined
---line 1364 of file briefbib-2-9-milan.bib
+--line 1364 of file briefbib-3-0-milan.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-I was expecting a `,' or a `}'---line 2313 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 2313 of file briefbib-3-0-milan.bib
  :  
  :  title = "Climate Change",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 3140 of file briefbib-2-9-milan.bib
+Repeated entry---line 3140 of file briefbib-3-0-milan.bib
  : @misc{UTSustOffice
  :                   ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3901 of file briefbib-2-9-milan.bib
+I was expecting a `,' or a `}'---line 3901 of file briefbib-3-0-milan.bib
  :  url = "http://www.theglobeandmail.com/news/politics/keystone-pipeline-approval-complete-no-brainer-harper-says/article4203332/"
  :                                                                                                                                 m
 I'm skipping whatever remains of this entry
@@ -137,45 +137,45 @@ Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, 
 while executing---line 2645 of file biblatex.bst
 Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
 while executing---line 2645 of file biblatex.bst
-You've used 511 entries,
+You've used 543 entries,
             6019 wiz_defined-function locations,
-            3668 strings with 110857 characters,
-and the built_in function-call counts, 1415701 in all, are:
-= -- 49786
-> -- 48941
-< -- 12997
-+ -- 11749
-- -- 17148
-* -- 93285
-:= -- 84135
+            3831 strings with 117452 characters,
+and the built_in function-call counts, 1508651 in all, are:
+= -- 52933
+> -- 52209
+< -- 13779
++ -- 12598
+- -- 18379
+* -- 100263
+:= -- 89707
 add.period$ -- 0
-call.type$ -- 511
-change.case$ -- 5126
-chr.to.int$ -- 393
-cite$ -- 1020
-duplicate$ -- 166503
-empty$ -- 157627
-format.name$ -- 31156
-if$ -- 324340
+call.type$ -- 543
+change.case$ -- 5450
+chr.to.int$ -- 394
+cite$ -- 1084
+duplicate$ -- 177423
+empty$ -- 167792
+format.name$ -- 33413
+if$ -- 345412
 int.to.chr$ -- 0
-int.to.str$ -- 1687
+int.to.str$ -- 1788
 missing$ -- 0
-newline$ -- 11350
-num.names$ -- 23489
-pop$ -- 164006
+newline$ -- 12199
+num.names$ -- 24938
+pop$ -- 174295
 preamble$ -- 1
-purify$ -- 6044
+purify$ -- 6453
 quote$ -- 0
-skip$ -- 88329
+skip$ -- 93950
 stack$ -- 0
-substring$ -- 14189
-swap$ -- 48650
-text.length$ -- 12682
-text.prefix$ -- 510
+substring$ -- 14925
+swap$ -- 52033
+text.length$ -- 13482
+text.prefix$ -- 542
 top$ -- 1
-type$ -- 19405
+type$ -- 20621
 warning$ -- 0
-while$ -- 9803
+while$ -- 10389
 width$ -- 0
-write$ -- 10838
+write$ -- 11655
 (There were 34 error messages)
