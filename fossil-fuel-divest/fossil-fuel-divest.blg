@@ -1,0 +1,199 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: fossil-fuel-divest.aux
+The style file: biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 85648 items from 5000.
+Database file #1: fossil-fuel-divest-blx.bib
+Database file #2: fossil-fuel-divest.bib
+I was expecting a `,' or a `}'---line 46 of file fossil-fuel-divest.bib
+ :  
+ :  year = "{1990}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 53 of file fossil-fuel-divest.bib
+ :  
+ :  year = "{1995}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 67 of file fossil-fuel-divest.bib
+ :  
+ :  year = "{2007}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 141 of file fossil-fuel-divest.bib
+ :  
+ :  TITLE = "Yukon Environmental and Socio-economic Assessment Act"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 149 of file fossil-fuel-divest.bib
+ :  
+ :  URL = "http://www.justice.gov.nt.ca/PDF/ACTS/Environmental%20Rights.pdf",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1177 of file fossil-fuel-divest.bib
+ :  url = "http://www.omafra.gov.on.ca/english/engineer/facts/climatechange.htm"
+ :                                                                              .
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1278 of file fossil-fuel-divest.bib
+ :  
+ :  year = "{2012}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--entry type for "OntarioPledge" isn't style-file defined
+--line 1364 of file fossil-fuel-divest.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+I was expecting a `,' or a `}'---line 2313 of file fossil-fuel-divest.bib
+ :  
+ :  title = "Climate Change",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3140 of file fossil-fuel-divest.bib
+ : @misc{UTSustOffice
+ :                   ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 3901 of file fossil-fuel-divest.bib
+ :  url = "http://www.theglobeandmail.com/news/politics/keystone-pipeline-approval-complete-no-brainer-harper-says/article4203332/"
+ :                                                                                                                                 m
+I'm skipping whatever remains of this entry
+I was expecting an "="---line 4596 of file fossil-fuel-divest.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Biblatex version: 1.7
+Warning--you've exceeded 250, the entry-string-size, for entry G8plusJointStatement
+while executing--line 2500 of file biblatex.bst
+*Please notify the bibstyle designer*
+Warning--you've exceeded 250, the entry-string-size, for entry OntarioPledge
+while executing--line 2500 of file biblatex.bst
+*Please notify the bibstyle designer*
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2500 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2500 of file biblatex.bst
+Warning--you've exceeded 250, the entry-string-size, for entry HagueDeclarationOnTheEnvironment
+while executing--line 2500 of file biblatex.bst
+*Please notify the bibstyle designer*
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2500 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2524 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2524 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2524 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2528 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2528 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2528 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2528 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2528 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2528 of file biblatex.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Goldblatt, Colin and Robinson, Tyler D. and Zahnie, Kevin J., and Crisp, David" has a comma at the end for entry Goldblatt2013
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 3 in "Hansen, James and Sato, Makiko and Kharecha, Pushker , and Beerling, David and Masson-Delmotte, Valerie and Pagani, Mark and Raymo, Maureen and Royer, Dana L. and Zachos, James C." has a comma at the end for entry TargetAtmosphere
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
+while executing---line 2645 of file biblatex.bst
+You've used 593 entries,
+            6019 wiz_defined-function locations,
+            4062 strings with 127733 characters,
+and the built_in function-call counts, 1645113 in all, are:
+= -- 57584
+> -- 56850
+< -- 14965
++ -- 13692
+- -- 20056
+* -- 109611
+:= -- 97745
+add.period$ -- 0
+call.type$ -- 593
+change.case$ -- 5930
+chr.to.int$ -- 395
+cite$ -- 1184
+duplicate$ -- 193554
+empty$ -- 183110
+format.name$ -- 36483
+if$ -- 376634
+int.to.chr$ -- 0
+int.to.str$ -- 1941
+missing$ -- 0
+newline$ -- 13346
+num.names$ -- 27171
+pop$ -- 190274
+preamble$ -- 1
+purify$ -- 7027
+quote$ -- 0
+skip$ -- 102383
+stack$ -- 0
+substring$ -- 15903
+swap$ -- 56841
+text.length$ -- 14682
+text.prefix$ -- 592
+top$ -- 1
+type$ -- 22521
+warning$ -- 0
+while$ -- 11292
+width$ -- 0
+write$ -- 12752
+(There were 47 error messages)
