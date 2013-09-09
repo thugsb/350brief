@@ -36,164 +36,168 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Threats to First Nations groups and indigenous cultures}{46}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Threats to the infrastructure of cities, including Toronto}{46}{figure.caption.8}
+\contentsline {subsubsection}{Threats to the infrastructure of cities, including Toronto}{47}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Abrupt and non-linear adverse climate impacts}{50}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Security implications}{51}{figure.caption.8}
+\contentsline {subsubsection}{Security implications}{52}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3}The harm caused is inherent to the primary business of fossil fuel companies}{53}{subsection.3.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.4}The business activities of these companies frustrate the enforcement of the rules of domestic and international law intended to protect individuals against deprivation of health, safety, and basic freedoms}{54}{subsection.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Canadian domestic law}{54}{section*.9}
+\contentsline {subsubsection}{Canadian domestic law}{55}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{U.S. domestic law}{59}{Item.18}
+\contentsline {subsubsection}{U.S. domestic law}{61}{Item.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Domestic law in other jurisdictions}{61}{Item.18}
+\contentsline {subsubsection}{Domestic law in other jurisdictions}{63}{Item.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{International law}{62}{Item.18}
+\contentsline {subsubsection}{International law}{64}{Item.18}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5}Why fossil fuels are like tobacco}{64}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.5}Why fossil fuels are like tobacco}{66}{subsection.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Divestment is compatible with the university's fiduciary duties}{67}{section.4}
+\contentsline {section}{\numberline {4}Divestment is compatible with the university's fiduciary duties}{69}{section.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}From the U of T divestment policy}{67}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.1}From the U of T divestment policy}{69}{subsection.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Fossil fuel divestment is financially responsible}{67}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.2}Fossil fuel divestment is financially responsible}{69}{subsection.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}There is no evidence of a divestment penalty for investors}{69}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.3}There is no evidence of a divestment penalty for investors}{71}{subsection.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Market capitalization and value at risk}{71}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.4}Market capitalization and value at risk}{73}{subsection.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Stated policy objectives are incompatible with the current valuation of fossil fuel reserves}{72}{section*.11}
+\contentsline {subsection}{\numberline {4.5}Stated policy objectives are incompatible with the current valuation of fossil fuel reserves}{74}{subsection.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Regulatory risk is not adequately priced}{72}{section*.11}
+\contentsline {subsubsection}{Regulatory risk is not adequately priced}{74}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{There is a strong potential for malinvestment in capital-intensive, long-term projects}{73}{section*.11}
+\contentsline {subsubsection}{There is a strong potential for malinvestment in capital-intensive, long-term projects}{76}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Fossil fuel reserves as stranded assets}{75}{section*.11}
+\contentsline {subsubsection}{Fossil fuel reserves as stranded assets}{77}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Volatility of investor sentiment}{76}{section*.11}
+\contentsline {subsubsection}{Volatility of investor sentiment}{78}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5}Fossil fuels represent a risk to the university's other investments}{77}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Fossil fuels represent a risk to the university's other investments}{79}{subsection.4.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.6}Attractive substitutes exist for divested equities}{78}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Attractive substitutes exist for divested equities}{80}{subsection.4.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.7}Pensions and climate change}{79}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Pensions and climate change}{81}{subsection.4.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.8}The significance of the University of Toronto's investments}{81}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}The significance of the University of Toronto's investments}{83}{subsection.4.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.9}Towards divestment}{82}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}Toward divestment}{84}{subsection.4.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}Actions have been taken by the Canadian government and international bodies on this issue}{83}{section.5}
+\contentsline {section}{\numberline {5}Actions have been taken by the Canadian government and international bodies on this issue}{85}{section.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.1}From the U of T divestment policy}{83}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.1}From the U of T divestment policy}{85}{subsection.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2}Canadian federal government}{83}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.2}Canadian federal government}{85}{subsection.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3}Government of Ontario}{84}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.3}Government of Ontario}{86}{subsection.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4}City of Toronto}{85}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.4}City of Toronto}{87}{subsection.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5}Actions taken by other national bodies}{86}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.5}Actions taken by other national bodies}{88}{subsection.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{United States}{87}{section*.12}
+\contentsline {subsubsection}{United States}{89}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{United Kingdom}{92}{section*.12}
+\contentsline {subsubsection}{United Kingdom}{94}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Germany}{93}{section*.12}
+\contentsline {subsubsection}{Germany}{95}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{China}{96}{section*.12}
+\contentsline {subsubsection}{China}{98}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{India}{98}{section*.12}
+\contentsline {subsubsection}{India}{100}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{France}{98}{section*.12}
+\contentsline {subsubsection}{France}{100}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.6}Actions taken by international bodies}{102}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.6}Actions taken by international bodies}{104}{subsection.5.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{World Health Organization}{102}{section*.13}
+\contentsline {subsubsection}{World Health Organization}{104}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The Arctic Council}{103}{section*.13}
+\contentsline {subsubsection}{G8}{105}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Commonwealth of Nations}{103}{section*.13}
+\contentsline {subsubsection}{The Arctic Council}{105}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The Council of Europe}{104}{section*.13}
+\contentsline {subsubsection}{Commonwealth of Nations}{106}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Indian Ocean Commission}{104}{section*.13}
+\contentsline {subsubsection}{The Council of Europe}{106}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Committee}{104}{section*.13}
+\contentsline {subsubsection}{Indian Ocean Commission}{106}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{United Nations High Commissioner for Human Rights}{105}{section*.13}
+\contentsline {subsubsection}{U.N. Educational, Scientific and Cultural Organization (UNESCO) World Heritage Committee}{107}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{The World Bank}{106}{section*.13}
+\contentsline {subsubsection}{U.N. High Commissioner for Human Rights}{107}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.7}These actions are not adequate to avoid dangerous climate change}{106}{subsection.5.7}
+\contentsline {subsubsection}{The World Bank}{108}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Why start with Royal Dutch Shell?}{107}{section.6}
+\contentsline {subsubsection}{African Development Bank}{109}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}Shell's continuing history of social injury}{107}{subsection.6.1}
+\contentsline {subsection}{\numberline {5.7}These actions are not adequate to avoid dangerous climate change}{109}{subsection.5.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Legal offences in Nigeria}{108}{Item.23}
+\contentsline {section}{\numberline {6}Why start with Royal Dutch Shell?}{110}{section.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Infringements on governmental regulations and international health and environmental standards with respect to operations in Nigeria}{111}{Item.23}
+\contentsline {subsection}{\numberline {6.1}Shell's continuing history of social injury}{110}{subsection.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Legal offences in Alberta}{112}{Item.23}
+\contentsline {subsubsection}{Legal offences in Nigeria}{111}{Item.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Continued threats to human rights, environmental well-being and international law}{114}{Item.23}
+\contentsline {subsubsection}{Infringements on governmental regulations and international health and environmental standards with respect to operations in Nigeria}{114}{Item.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}Shell represents financial risk}{114}{subsection.6.2}
+\contentsline {subsubsection}{Legal offences in Alberta}{115}{Item.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Poor reputation for social responsibility lowers shareholder confidence}{115}{Item.27}
+\contentsline {subsubsection}{Continued threats to human rights, environmental well-being and international law}{117}{Item.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Fossil fuel extraction in the arctic represent particularly high-risk and unpredictable endeavours}{115}{Item.27}
+\contentsline {subsection}{\numberline {6.2}Shell represents financial risk}{117}{subsection.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}Divestment from Shell would not hurt the university financially}{118}{subsection.6.3}
+\contentsline {subsubsection}{Poor reputation for social responsibility lowers shareholder confidence}{118}{Item.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Short answers to common questions}{119}{section.7}
+\contentsline {subsubsection}{Fossil fuel extraction in the arctic represent particularly high-risk and unpredictable endeavours}{118}{Item.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1}Why should the university `take sides' in this matter? Is it appropriate for the university to take stances on social and political issues?}{119}{subsection.7.1}
+\contentsline {subsection}{\numberline {6.3}Divestment from Shell would not hurt the university financially}{121}{subsection.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2}Isn't shareholder activism a better option?}{120}{subsection.7.2}
+\contentsline {section}{\numberline {7}Short answers to common questions}{122}{section.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3}Other people will buy the stocks we sell, so how does this make a difference?}{121}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.1}Why should the university `take sides' in this matter? Is it appropriate for the university to take stances on social and political issues?}{122}{subsection.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4}What are the University of Toronto's peer schools doing?}{122}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.2}Isn't shareholder activism a better option?}{123}{subsection.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Questions about divestment raised at other schools}{123}{section*.15}
+\contentsline {subsection}{\numberline {7.3}Other people will buy the stocks we sell, so how does this make a difference?}{124}{subsection.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5}What are other large investors doing?}{125}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.4}What are the University of Toronto's peer schools doing?}{125}{subsection.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.6}But don't fossil fuel companies also invest in renewable energy?}{126}{subsection.7.6}
+\contentsline {subsubsection}{Questions about divestment raised at other schools}{126}{section*.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.7}In what cases have courts found that fossil fuel companies caused injury?}{128}{subsection.7.7}
+\contentsline {subsection}{\numberline {7.5}What are other large investors doing?}{128}{subsection.7.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.8}Isn't the energy sector, including oil and gas extraction, production and distribution, highly regulated by government at all levels?}{128}{subsection.7.8}
+\contentsline {subsection}{\numberline {7.6}But don't fossil fuel companies also invest in renewable energy?}{129}{subsection.7.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.9}Can humanity manage without fossil fuels?}{129}{subsection.7.9}
+\contentsline {subsection}{\numberline {7.7}In what cases have courts found that fossil fuel companies caused injury?}{130}{subsection.7.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.10}Won't divestment hurt the endowment, including U of T's ability to provide scholarships?}{130}{subsection.7.10}
+\contentsline {subsection}{\numberline {7.8}Isn't the energy sector, including oil and gas extraction, production and distribution, highly regulated by government at all levels?}{131}{subsection.7.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.11}Won't fossil fuel companies stop making donations to U of T?}{131}{subsection.7.11}
+\contentsline {subsection}{\numberline {7.9}Can humanity manage without fossil fuels?}{132}{subsection.7.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.12}Shouldn't U of T fight climate change through research and education?}{132}{subsection.7.12}
+\contentsline {subsection}{\numberline {7.10}Won't divestment hurt the endowment, including U of T's ability to provide scholarships?}{133}{subsection.7.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.13}Won't divestment hurt Canadian jobs and the economy?}{132}{subsection.7.13}
+\contentsline {subsection}{\numberline {7.11}Won't fossil fuel companies stop making donations to U of T?}{134}{subsection.7.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.14}Can't we just adapt to climate change?}{133}{subsection.7.14}
+\contentsline {subsection}{\numberline {7.12}Shouldn't U of T fight climate change through research and education?}{135}{subsection.7.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.15}Won't carbon capture and storage (CCS) save us?}{133}{subsection.7.15}
+\contentsline {subsection}{\numberline {7.13}Won't divestment hurt Canadian jobs and the economy?}{135}{subsection.7.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.16}Won't geoengineering save us?}{134}{subsection.7.16}
+\contentsline {subsection}{\numberline {7.14}Can't we just adapt to climate change?}{136}{subsection.7.14}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8}Sources cited}{136}{section.8}
+\contentsline {subsection}{\numberline {7.15}Won't carbon capture and storage (CCS) save us?}{136}{subsection.7.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9}Appendix I: Issues with respect to university divestment}{170}{section.9}
+\contentsline {subsection}{\numberline {7.16}Won't geoengineering save us?}{137}{subsection.7.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.1}Policy on Social and Political Issues With Respect to University Divestment}{170}{subsection.9.1}
+\contentsline {section}{\numberline {8}Sources cited}{139}{section.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2}Procedures for Responding to Social and Political Issues with Respect to University Divestment}{172}{subsection.9.2}
+\contentsline {section}{\numberline {9}Appendix I: Issues with respect to university divestment}{176}{section.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {10}Appendix II: The 200 companies with the largest fossil fuel reserves}{174}{section.10}
+\contentsline {subsection}{\numberline {9.1}Policy on Social and Political Issues With Respect to University Divestment}{176}{subsection.9.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11}Appendix III: Errata}{181}{section.11}
+\contentsline {subsection}{\numberline {9.2}Procedures for Responding to Social and Political Issues with Respect to University Divestment}{178}{subsection.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Appendix II: The 200 companies with the largest fossil fuel reserves}{180}{section.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}Appendix III: Errata}{187}{section.11}
