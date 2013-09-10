@@ -813,6 +813,27 @@
   \field{year}{{2013}}
 \endentry
 
+\entry{CESD2011Dec}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{British Columbia Commissioner of the Environment and Sustainable
+  Development}}{B.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{B6}
+  \strng{fullhash}{B6}
+  \field{sortinit}{B}
+  \field{title}{2011 December Report of the Commissioner of the Environment and
+  Sustainable Development}
+  \verb{url}
+  \verb http://www.oag-bvg.gc.ca/internet/English/parl_cesd_201112_01_e_36029.h
+  \verb tml#hd4b
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
 \entry{EnergyBreakdowns}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -879,8 +900,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{B6}
-  \strng{fullhash}{B6}
+  \strng{namehash}{B7}
+  \strng{fullhash}{B7}
   \field{sortinit}{B}
   \field{title}{Southeast Florida Regional Climate Change Compact}
   \verb{url}
@@ -1037,6 +1058,25 @@
   \field{year}{{2008}}
 \endentry
 
+\entry{CanadianBusinessSR2007}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Canadian Business for Social Responsibility}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C4}
+  \strng{fullhash}{C4}
+  \field{sortinit}{C}
+  \field{title}{The Climate Change Guide --- Corporate Canada: Responsible
+  Business Action on Climate Change}
+  \verb{url}
+  \verb http://www.cbsr.ca/sites/default/files/CBSR_ClimateChangeGuide.pdf
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
 \entry{JointReviewPanelJackpine}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -1045,8 +1085,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C4}
-  \strng{fullhash}{C4}
+  \strng{namehash}{C5}
+  \strng{fullhash}{C5}
   \field{sortinit}{C}
   \field{title}{Joint Review Panel Issues Report On Jackpine Mine Expansion
   Project}
@@ -1064,13 +1104,31 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C5}
-  \strng{fullhash}{C5}
+  \strng{namehash}{C6}
+  \strng{fullhash}{C6}
   \field{sortinit}{C}
   \field{title}{Carbon Tracker Initiative}
   \verb{url}
   \verb http://www.carbontracker.org
   \endverb
+\endentry
+
+\entry{CTI2013}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Carbon Tracker Initiative}}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C6}
+  \strng{fullhash}{C6}
+  \field{sortinit}{C}
+  \field{title}{Unburnable Carbon 2013: Wasted capital and stranded assets}
+  \verb{url}
+  \verb http://carbontracker.live.kiln.it/Unburnable-Carbon-2-Web-Version.pdf
+  \endverb
+  \field{year}{2013}
 \endentry
 
 \entry{CTI2012}{misc}{}
@@ -1081,8 +1139,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C5}
-  \strng{fullhash}{C5}
+  \strng{namehash}{C6}
+  \strng{fullhash}{C6}
   \field{sortinit}{C}
   \field{title}{Unburnable Carbon: Are the world's financial markets carrying a
   carbon bubble?}
@@ -1104,8 +1162,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C6}
-  \strng{fullhash}{C6}
+  \strng{namehash}{C7}
+  \strng{fullhash}{C7}
   \field{sortinit}{C}
   \field{title}{A Climate for Change: A Trustee’s Guide to Understanding and
   Addressing Climate Risk}
@@ -1124,8 +1182,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C7}
-  \strng{fullhash}{C7}
+  \strng{namehash}{C8}
+  \strng{fullhash}{C8}
   \field{sortinit}{C}
   \field{title}{Canada tagged as `Fossil of the Year'}
   \verb{url}
@@ -1142,8 +1200,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C8}
-  \strng{fullhash}{C8}
+  \strng{namehash}{C9}
+  \strng{fullhash}{C9}
   \field{sortinit}{C}
   \field{title}{National Environmental Policy Act Cases}
   \verb{url}
@@ -1160,8 +1218,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C8}
-  \strng{fullhash}{C8}
+  \strng{namehash}{C9}
+  \strng{fullhash}{C9}
   \field{sortinit}{C}
   \field{title}{Summary: India's National Action Plan on Climate Change}
   \verb{url}
@@ -1179,8 +1237,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C9}
-  \strng{fullhash}{C9}
+  \strng{namehash}{C10}
+  \strng{fullhash}{C10}
   \field{sortinit}{C}
   \field{title}{National Security and the Threat of Climate Change}
   \verb{url}
@@ -1199,8 +1257,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C10}
-  \strng{fullhash}{C10}
+  \strng{namehash}{C11}
+  \strng{fullhash}{C11}
   \field{sortinit}{C}
   \field{title}{The Age of Consequences: The Foreign Policy and National
   Security Implications of Global Climate Change}
@@ -1218,8 +1276,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C11}
-  \strng{fullhash}{C11}
+  \strng{namehash}{C12}
+  \strng{fullhash}{C12}
   \field{sortinit}{C}
   \field{title}{Energy and Climate Goals of China's 12th Five-Year Plan}
   \verb{url}
@@ -1238,8 +1296,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C11}
-  \strng{fullhash}{C11}
+  \strng{namehash}{C12}
+  \strng{fullhash}{C12}
   \field{sortinit}{C}
   \field{title}{Multi-State Climate Initiatives}
   \verb{url}
@@ -1255,8 +1313,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C12}
-  \strng{fullhash}{C12}
+  \strng{namehash}{C13}
+  \strng{fullhash}{C13}
   \field{sortinit}{C}
   \field{title}{Kiobel v. Royal Dutch Petroleum Co.}
   \verb{url}
@@ -1409,6 +1467,19 @@
   \field{year}{{2007}}
 \endentry
 
+\entry{ChevronClimateChange}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chevron}{C.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{C14}
+  \strng{fullhash}{C14}
+  \field{sortinit}{C}
+\endentry
+
 \entry{ChinaRestructuring}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -1417,8 +1488,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C13}
-  \strng{fullhash}{C13}
+  \strng{namehash}{C15}
+  \strng{fullhash}{C15}
   \field{sortinit}{C}
   \field{title}{China curbs \ce{CO2} emissions through industrial
   restructuring}
@@ -1437,8 +1508,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C13}
-  \strng{fullhash}{C13}
+  \strng{namehash}{C15}
+  \strng{fullhash}{C15}
   \field{sortinit}{C}
   \field{title}{Mitigating Climate Change}
   \verb{url}
@@ -1456,8 +1527,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C14}
-  \strng{fullhash}{C14}
+  \strng{namehash}{C16}
+  \strng{fullhash}{C16}
   \field{sortinit}{C}
   \field{title}{Summary of Toronto's 2011 Greenhouse Gas and Air Quality
   Pollutant Emissions Inventory}
@@ -1476,8 +1547,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C14}
-  \strng{fullhash}{C14}
+  \strng{namehash}{C16}
+  \strng{fullhash}{C16}
   \field{sortinit}{C}
   \field{title}{Toronto Atmospheric Fund - Emission reduction}
   \verb{url}
@@ -1494,8 +1565,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C15}
-  \strng{fullhash}{C15}
+  \strng{namehash}{C17}
+  \strng{fullhash}{C17}
   \field{sortinit}{C}
   \field{title}{Profile of Low Income in the City of Toronto}
   \verb{url}
@@ -1513,8 +1584,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C15}
-  \strng{fullhash}{C15}
+  \strng{namehash}{C17}
+  \strng{fullhash}{C17}
   \field{sortinit}{C}
   \field{title}{Toronto Seniors Demographic Snapshot 2006}
   \verb{url}
@@ -1565,8 +1636,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C16}
-  \strng{fullhash}{C16}
+  \strng{namehash}{C18}
+  \strng{fullhash}{C18}
   \field{sortinit}{C}
   \field{title}{Canada Wins Fossil of the Year Award in Durban}
   \verb{url}
@@ -1583,8 +1654,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C17}
-  \strng{fullhash}{C17}
+  \strng{namehash}{C19}
+  \strng{fullhash}{C19}
   \field{sortinit}{C}
   \field{title}{ONERC (Observatoire National sur les Effets du Réchauffement
   Climatique)}
@@ -1614,26 +1685,6 @@
   \field{year}{{2013}}
 \endentry
 
-\entry{CESD2011Dec}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{Commissioner of the Environment and Sustainable Development}}{C.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{C18}
-  \strng{fullhash}{C18}
-  \field{sortinit}{C}
-  \field{title}{2011 December Report of the Commissioner of the Environment and
-  Sustainable Development}
-  \verb{url}
-  \verb http://www.oag-bvg.gc.ca/internet/English/parl_cesd_201112_01_e_36029.h
-  \verb tml#hd4b
-  \endverb
-  \field{year}{{2011}}
-\endentry
-
 \entry{CFNHRIHumanRights}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -1642,8 +1693,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C19}
-  \strng{fullhash}{C19}
+  \strng{namehash}{C20}
+  \strng{fullhash}{C20}
   \field{sortinit}{C}
   \field{title}{The Human Rights Impact of Climate Change}
   \verb{url}
@@ -1660,8 +1711,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C20}
-  \strng{fullhash}{C20}
+  \strng{namehash}{C21}
+  \strng{fullhash}{C21}
   \field{sortinit}{C}
   \field{title}{Lake Victoria Commonwealth Climate Change Action Plan 2007}
   \verb{url}
@@ -1679,8 +1730,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C21}
-  \strng{fullhash}{C21}
+  \strng{namehash}{C22}
+  \strng{fullhash}{C22}
   \field{sortinit}{C}
   \field{title}{Climate Change Position}
   \verb{url}
@@ -1943,8 +1994,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C22}
-  \strng{fullhash}{C22}
+  \strng{namehash}{C23}
+  \strng{fullhash}{C23}
   \field{sortinit}{C}
   \field{title}{As the world's warmest year ends, time for climate change to be
   seen as a human rights issue}
@@ -1963,8 +2014,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C23}
-  \strng{fullhash}{C23}
+  \strng{namehash}{C24}
+  \strng{fullhash}{C24}
   \field{sortinit}{C}
   \field{title}{Recommendation 1879: Renewable energies and the environment}
   \verb{url}
@@ -1982,8 +2033,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C24}
-  \strng{fullhash}{C24}
+  \strng{namehash}{C25}
+  \strng{fullhash}{C25}
   \field{sortinit}{C}
   \field{title}{Federal Leadership in Environmental, Energy and Economic
   Performance - Executive Order 13514}
@@ -2020,8 +2071,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{C25}
-  \strng{fullhash}{C25}
+  \strng{namehash}{C26}
+  \strng{fullhash}{C26}
   \field{sortinit}{C}
   \field{title}{First Nation sues Shell}
   \verb{url}
@@ -2824,6 +2875,31 @@
   \field{year}{2009}
 \endentry
 
+\entry{Reduction2020}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Egert}{E.}%
+     {Balázs}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {OECD Publishing}%
+  }
+  \strng{namehash}{EB1}
+  \strng{fullhash}{EB1}
+  \field{sortinit}{E}
+  \field{number}{859}
+  \field{title}{France's Environmental Policies: Internalising Global and Local
+  Externalities}
+  \verb{url}
+  \verb http://dx.doi.org/10.1787/5kgdpn0n9d8v-en
+  \endverb
+  \field{journaltitle}{OECD Economics Department Working Papers}
+  \field{year}{2011}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
 \entry{FranceEmission}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -3297,25 +3373,6 @@
   \field{year}{2013}
 \endentry
 
-\entry{9thcircuitHighway}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Fletcher}{F.}%
-     {B.}{B.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{FB1}
-  \strng{fullhash}{FB1}
-  \field{sortinit}{F}
-  \field{title}{Center for Biological Diversity vs. National Highway Traffic
-  Safety Administration}
-  \verb{url}
-  \verb http://www.climatelaw.org/cases/country/us/case-documents/us/CBDvNHTSA
-  \endverb
-  \field{year}{{2007}}
-\endentry
-
 \entry{VulnerableSpecies}{article}{}
   \name{author}{19}{}{%
     {{}%
@@ -3752,6 +3809,52 @@
   \field{journaltitle}{Food Security}
   \field{year}{{2009}}
   \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{GardinerGeoeng}{incollection}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Gardiner}{G.}%
+     {Stephen~M.}{S.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \name{editor}{4}{}{%
+    {{}%
+     {Gardiner}{G.}%
+     {Stephen~M.}{S.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Caney}{C.}%
+     {Simon}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jamieson}{J.}%
+     {Dale}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shue}{S.}%
+     {Henry}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Oxford University Press}%
+  }
+  \strng{namehash}{GSM1}
+  \strng{fullhash}{GSM1}
+  \field{sortinit}{G}
+  \field{booktitle}{Climate Ethics: Essential Readings}
+  \field{title}{Is `Arming the Future' with Geoengineering Really the Lesser
+  Evil? Some Doubts about the Ethics of Intentionally Manipulating the Climate
+  System}
+  \list{location}{1}{%
+    {Oxford}%
+  }
+  \field{year}{{2010}}
 \endentry
 
 \entry{Aperio2013}{misc}{}
@@ -4365,6 +4468,24 @@
   \verb www.e-laws.gov.on.ca/Download/elaws_statutes_93e28_e.doc
   \endverb
   \field{year}{{1993}}
+\endentry
+
+\entry{OntarioEnvironmentalBillofRights}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{Government of Ontario}}{G.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{G15}
+  \strng{fullhash}{G15}
+  \field{sortinit}{G}
+  \field{title}{Ontario Environmental Bill of Rights}
+  \verb{url}
+  \verb http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_93e28_
+  \verb e.htm
+  \endverb
 \endentry
 
 \entry{EPACessation}{misc}{}
@@ -5229,6 +5350,7 @@
   \endverb
   \field{volume}{318}
   \field{journaltitle}{Science}
+  \field{year}{{2007}}
 \endentry
 
 \entry{ClimateCoverUp}{book}{}
@@ -5503,24 +5625,6 @@
   \endverb
 \endentry
 
-\entry{CTI2013}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Initiative}{I.}%
-     {Carbon~Tracker}{C.~T.}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{ICT1}
-  \strng{fullhash}{ICT1}
-  \field{sortinit}{I}
-  \field{title}{Unburnable Carbon 2013: Wasted capital and stranded assets}
-  \verb{url}
-  \verb http://carbontracker.live.kiln.it/Unburnable-Carbon-2-Web-Version.pdf
-  \endverb
-  \field{year}{2013}
-\endentry
-
 \entry{IPCCCO2proj}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -5586,7 +5690,7 @@
   \strng{namehash}{I6}
   \strng{fullhash}{I6}
   \field{sortinit}{I}
-  \field{title}{First Assessment Report}
+  \field{title}{First Assessment Report 1990}
   \verb{url}
   \verb https://www.ipcc.ch/ipccreports/1992%20IPCC%20Supplement/IPCC_1990_and_
   \verb 1992_Assessments/English/ipcc_90_92_assessments_far_overview.pdf
@@ -5978,6 +6082,24 @@
   \field{year}{{2013}}
 \endentry
 
+\entry{ChinaTopEmission}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Jones}{J.}%
+     {Nicola}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JN1}
+  \strng{fullhash}{JN1}
+  \field{sortinit}{J}
+  \field{title}{China tops \ce{CO2} emissions}
+  \verb{url}
+  \verb http://www.nature.com/news/2007/070618/full/news070618-9.html
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
 \entry{RSBigOilLies}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -6308,15 +6430,20 @@
 \endentry
 
 \entry{Guardian6Trillion}{misc}{}
-  \name{author}{1}{}{%
+  \name{author}{2}{}{%
     {{}%
-     {{Leggett, J. and McKibben, Bill}}{L.}%
+     {Leggett}{L.}%
+     {J.}{J.}%
      {}{}%
+     {}{}}%
+    {{}%
+     {McKibben}{M.}%
+     {Bill}{B.}%
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{L2}
-  \strng{fullhash}{L2}
+  \strng{namehash}{LJMB1}
+  \strng{fullhash}{LJMB1}
   \field{sortinit}{L}
   \field{title}{How your pension is being used in a \$6 trillion climate
   gamble}
@@ -6549,8 +6676,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{L3}
-  \strng{fullhash}{L3}
+  \strng{namehash}{L2}
+  \strng{fullhash}{L2}
   \field{sortinit}{L}
   \field{howpublished}{{Electronic - Environmental and Energy Study Institute}}
   \field{title}{Issue Brief: China’s Actions on Clean Power}
@@ -7294,6 +7421,25 @@
   \field{year}{2012}
 \endentry
 
+\entry{SNAAC}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{National Observatory on the Effects of Global Warming}}{N.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{N1}
+  \strng{fullhash}{N1}
+  \field{sortinit}{N}
+  \field{title}{National Strategy for Adaptation to Climate Change}
+  \verb{url}
+  \verb http://www.developpement-durable.gouv.fr/IMG/pdf/ONERC_The_French_Natio
+  \verb nal_Strategy_for_Adaptation_to_Climate_Change.pdf
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
 \entry{NOAACoral}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -7302,8 +7448,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N1}
-  \strng{fullhash}{N1}
+  \strng{namehash}{N2}
+  \strng{fullhash}{N2}
   \field{sortinit}{N}
   \field{title}{Heat Stress to Caribbean Corals in 2005 Worst on Record}
   \verb{url}
@@ -7320,8 +7466,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N1}
-  \strng{fullhash}{N1}
+  \strng{namehash}{N2}
+  \strng{fullhash}{N2}
   \field{sortinit}{N}
   \field{title}{NOAA Monthly Climate Teleconference: February 2013}
   \verb{url}
@@ -7339,8 +7485,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N1}
-  \strng{fullhash}{N1}
+  \strng{namehash}{N2}
+  \strng{fullhash}{N2}
   \field{sortinit}{N}
   \field{title}{Trends in Atmospheric Carbon Dioxide}
   \verb{url}
@@ -7356,8 +7502,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Achieving 2050: A Carbon Pricing Policy for Canada}
   \verb{url}
@@ -7375,8 +7521,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Degrees of Change: Climate Warming and the Stakes for Canada}
   \verb{url}
@@ -7394,8 +7540,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Facing the Elements: Building Business Resilience in a Changing
   Climate}
@@ -7414,8 +7560,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Framing the Future: Embracing the Low-Carbon Economy}
   \verb{url}
@@ -7433,8 +7579,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Leveraging investments in climate science and impacts and
   adaptation research to support business responses to climate change today}
@@ -7453,8 +7599,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Managing the business risks and opportunities of a changing
   climate: A primer for executives on adaptation to climate change}
@@ -7473,8 +7619,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Outreach Report - Achieving 2050: A Carbon Pricing Policy for
   Canada}
@@ -7492,8 +7638,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Paying the Price: The Economic Impacts of Climate Change for
   Canada}
@@ -7512,33 +7658,14 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N2}
-  \strng{fullhash}{N2}
+  \strng{namehash}{N3}
+  \strng{fullhash}{N3}
   \field{sortinit}{N}
   \field{title}{Reality check: The state of climate progress in Canada}
   \verb{url}
   \verb http://toronto350.org/NRTEE/RealityCheck2012.pdf
   \endverb
   \field{year}{{2012}}
-\endentry
-
-\entry{SNAAC}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{NationalObservatory on the Effects of Global Warming}}{N.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{N3}
-  \strng{fullhash}{N3}
-  \field{sortinit}{N}
-  \field{title}{National Strategy for Adaptation to Climate Change}
-  \verb{url}
-  \verb http://www.developpement-durable.gouv.fr/IMG/pdf/ONERC_The_French_Natio
-  \verb nal_Strategy_for_Adaptation_to_Climate_Change.pdf
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
 \endentry
 
 \entry{NRCANImpactsAdapt}{misc}{}
@@ -7600,24 +7727,6 @@
   \field{year}{2012}
 \endentry
 
-\entry{ChinaTopEmission}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{Nature International Weekly Journal of Science}}{N.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{N5}
-  \strng{fullhash}{N5}
-  \field{sortinit}{N}
-  \field{title}{China tops \ce{CO2} emissions}
-  \verb{url}
-  \verb http://www.nature.com/news/2007/070618/full/news070618-9.html
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
-\endentry
-
 \entry{NewsWire_2012}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -7626,8 +7735,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N6}
-  \strng{fullhash}{N6}
+  \strng{namehash}{N5}
+  \strng{fullhash}{N5}
   \field{sortinit}{N}
   \field{title}{Environmental risk of drilling in Arctic too high, CEO of oil
   giant Total says}
@@ -7906,8 +8015,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{N7}
-  \strng{fullhash}{N7}
+  \strng{namehash}{N6}
+  \strng{fullhash}{N6}
   \field{sortinit}{N}
   \field{title}{Niger Delta Natural Resource Damage Assessment and Restoration
   Project – Phase I Scoping Report}
@@ -9098,8 +9207,8 @@
   \strng{namehash}{SC1}
   \strng{fullhash}{SC1}
   \field{sortinit}{S}
-  \field{title}{Divestment may protect from 40-60% overvaluation of fossil fuel
-  stock}
+  \field{title}{Divestment may protect from 40-60\% overvaluation of fossil
+  fuel stock}
   \verb{url}
   \verb http://www.vancouverobserver.com/blogs/earthmatters/fossil-fuel-divestm
   \verb ent-cities-and-universities-moral-leadership-or-prudent
@@ -9684,25 +9793,6 @@
   \verb il_of_destruction_finally_coming_to_an_end.html
   \endverb
   \field{year}{{2013}}
-\endentry
-
-\entry{CanadianBusinessSR2007}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {Social~Responsibility}{S.~R.}%
-     {Canadian~Business}{C.~B.}%
-     {for}{f.}%
-     {}{}}%
-  }
-  \strng{namehash}{SRCBf1}
-  \strng{fullhash}{SRCBf1}
-  \field{sortinit}{S}
-  \field{title}{The Climate Change Guide --- Corporate Canada: Responsible
-  Business Action on Climate Change}
-  \verb{url}
-  \verb http://www.cbsr.ca/sites/default/files/CBSR_ClimateChangeGuide.pdf
-  \endverb
-  \field{year}{{2007}}
 \endentry
 
 \entry{Sosa_2011}{misc}{}
@@ -11632,6 +11722,159 @@
   \field{year}{{2009}}
 \endentry
 
+\entry{CorpsEngSeaLevel}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Army Corps of Engineers}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U10}
+  \strng{fullhash}{U10}
+  \field{sortinit}{U}
+  \field{title}{US Army Corps response to Sea Level Rise}
+  \verb{url}
+  \verb http://www.dep.state.fl.us/coastal/sites/gtm/pub/ctp/coastal_rivers/USA
+  \verb CE_Response.pdf
+  \endverb
+  \field{year}{{2011}}
+\endentry
+
+\entry{9thcircuitHighway}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Court of Appeals for the Ninth Circuit}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U11}
+  \strng{fullhash}{U11}
+  \field{sortinit}{U}
+  \field{title}{Center for Biological Diversity vs. National Highway Traffic
+  Safety Administration}
+  \verb{url}
+  \verb http://www.climatelaw.org/cases/country/us/case-documents/us/CBDvNHTSA
+  \endverb
+  \field{year}{{2007}}
+\endentry
+
+\entry{20PercentBy2030}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Energy}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
+  \field{sortinit}{U}
+  \field{title}{20\% Wind Energy by 2030: Increasing Wind Energy's Contribution
+  to U.S. Electricity Supply}
+  \verb{url}
+  \verb http://www.nrel.gov/docs/fy08osti/41869.pdf
+  \endverb
+  \field{year}{{2008}}
+\endentry
+
+\entry{USEffectsOnEnergy}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Energy}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
+  \field{sortinit}{U}
+  \field{title}{Climate Change: Effects on Our Energy}
+  \verb{url}
+  \verb http://energy.gov/articles/climate-change-effects-our-energy
+  \endverb
+  \field{year}{{2013}}
+\endentry
+
+\entry{Hubs}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Energy}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
+  \field{sortinit}{U}
+  \field{title}{Energy Innovation Hubs}
+  \verb{url}
+  \verb http://energy.gov/science-innovation/innovation/hubs
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{EnergyHubs}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Energy}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
+  \field{sortinit}{U}
+  \field{title}{Energy Innovation Hubs: Achieving Our Energy Goals with
+  Science}
+  \verb{url}
+  \verb http://energy.gov/articles/energy-innovation-hubs-achieving-our-energy-
+  \verb goals-science
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{GridModernization}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Energy}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
+  \field{sortinit}{U}
+  \field{title}{Obama Administration Announces Job-Creating Grid Modernization
+  Pilot Projects}
+  \verb{url}
+  \verb http://energy.gov/articles/obama-administration-announces-job-creating-
+  \verb grid-modernization-pilot-projects
+  \endverb
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
+\entry{BetterBuildings}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Energy}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
+  \field{sortinit}{U}
+  \field{title}{Progress Update Spring 2013}
+  \verb{url}
+  \verb http://www4.eere.energy.gov/challenge/sites/default/files/uploaded-file
+  \verb s/may-recognition-fs-052013.pdf
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
 \entry{EnergySectorVulnerabilities}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -11640,8 +11883,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U10}
-  \strng{fullhash}{U10}
+  \strng{namehash}{U12}
+  \strng{fullhash}{U12}
   \field{sortinit}{U}
   \field{title}{U.S. Energy Sector Vulnerabilities to Climate Change and
   Extreme Weather}
@@ -11652,6 +11895,26 @@
   \field{year}{{2013}}
 \endentry
 
+\entry{DOIWindPower}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of the Interior}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U13}
+  \strng{fullhash}{U13}
+  \field{sortinit}{U}
+  \field{title}{Salazar Authorizes Landmark Wyoming Wind Project Site}
+  \verb{url}
+  \verb http://www.blm.gov/wo/st/en/info/newsroom/2012/october/NR_10_09_2012.ht
+  \verb ml
+  \endverb
+  \warn{\item Invalid format of field 'date' \item Invalid format of field
+  'date'}
+\endentry
+
 \entry{USDTaction}{misc}{}
   \name{author}{1}{}{%
     {{}%
@@ -11660,13 +11923,51 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U11}
-  \strng{fullhash}{U11}
+  \strng{namehash}{U14}
+  \strng{fullhash}{U14}
   \field{sortinit}{U}
   \field{title}{Climate Action Plans}
   \verb{url}
   \verb http://climate.dot.gov/state-local/local-action-plans.html
   \endverb
+\endentry
+
+\entry{CMAQ}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Transportation}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U14}
+  \strng{fullhash}{U14}
+  \field{sortinit}{U}
+  \field{title}{CMAQ and SAFETEA-LU}
+  \verb{url}
+  \verb http://www.fhwa.dot.gov/environment/air_quality/cmaq/reference/safetea-
+  \verb lu/
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{CMAQProgram}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Department of Transportation}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U14}
+  \strng{fullhash}{U14}
+  \field{sortinit}{U}
+  \field{title}{Congestion Mitigation and Air Quality Improvement (CMAQ)
+  Program}
+  \verb{url}
+  \verb http://www.fhwa.dot.gov/environment/air_quality/cmaq/
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
 \endentry
 
 \entry{USDTinitiatives}{misc}{}
@@ -11677,13 +11978,32 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U11}
-  \strng{fullhash}{U11}
+  \strng{namehash}{U14}
+  \strng{fullhash}{U14}
   \field{sortinit}{U}
   \field{title}{State and Regional Initiatives}
   \verb{url}
   \verb http://climate.dot.gov/state-local/regional-initiatives.html
   \endverb
+\endentry
+
+\entry{EIAShaleOilGas}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Energy Information Administration}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U15}
+  \strng{fullhash}{U15}
+  \field{sortinit}{U}
+  \field{title}{Technically Recoverable Shale Oil and Shale Gas Resources: An
+  Assessment of 137 Shale Formations in 41 Countries Outside the United States}
+  \verb{url}
+  \verb http://www.eia.gov/analysis/studies/worldshalegas/
+  \endverb
+  \field{year}{{2013}}
 \endentry
 
 \entry{EPAInternational}{misc}{}
@@ -11694,8 +12014,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{About the Office of International and Tribal Affairs}
   \verb{url}
@@ -11713,8 +12033,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Agriculture and Food Supply Impacts \& Adaptation}
   \verb{url}
@@ -11730,8 +12050,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Air Enforcement}
   \verb{url}
@@ -11748,8 +12068,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Calculations and References}
   \verb{url}
@@ -11765,8 +12085,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Climate Ready Water Utilities (CRWU)}
   \verb{url}
@@ -11782,8 +12102,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Endangerment and Cause or Contribute Findings for Greenhouse
   Gases under Section 202(a) of the Clean Air Act}
@@ -11801,8 +12121,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{EPA's Volunteer Monitoring Program}
   \verb{url}
@@ -11819,8 +12139,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Greenhouse Gas Reporting Program}
   \verb{url}
@@ -11837,8 +12157,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Regulatory Initiatives}
   \verb{url}
@@ -11855,13 +12175,66 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U12}
-  \strng{fullhash}{U12}
+  \strng{namehash}{U16}
+  \strng{fullhash}{U16}
   \field{sortinit}{U}
   \field{title}{Water: Climate Ready Estuaries}
   \verb{url}
   \verb http://water.epa.gov/type/oceb/cre/index.cfm
   \endverb
+\endentry
+
+\entry{USGCRP}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States Global Change Research Program}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U17}
+  \strng{fullhash}{U17}
+  \field{sortinit}{U}
+  \field{title}{About}
+  \verb{url}
+  \verb http://www.globalchange.gov/about
+  \endverb
+  \warn{\item Invalid format of field 'urldate'}
+\endentry
+
+\entry{Charney1979}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States National Academy of Sciences}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U18}
+  \strng{fullhash}{U18}
+  \field{sortinit}{U}
+  \field{title}{Ad Hoc Study Group on Carbon Dioxide and Climate}
+  \verb{url}
+  \verb http://www.atmos.ucla.edu/~brianpm/download/charney_report.pdf
+  \endverb
+\endentry
+
+\entry{SleepingGiant}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {{United States National Aeronautics and Space Administration}}{U.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{U19}
+  \strng{fullhash}{U19}
+  \field{sortinit}{U}
+  \field{title}{Is a Sleeping Climate Giant Stirring in the Arctic?}
+  \verb{url}
+  \verb http://www.nasa.gov/topics/earth/features/earth20130610.html
+  \endverb
+  \field{year}{{2013}}
 \endentry
 
 \entry{MassVEPA}{misc}{}
@@ -11872,8 +12245,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U13}
-  \strng{fullhash}{U13}
+  \strng{namehash}{U20}
+  \strng{fullhash}{U20}
   \field{sortinit}{U}
   \field{title}{Massachusetts et al. v. Environmental Protection Agency et al.}
   \verb{url}
@@ -11891,8 +12264,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U14}
-  \strng{fullhash}{U14}
+  \strng{namehash}{U21}
+  \strng{fullhash}{U21}
   \field{sortinit}{U}
   \field{title}{UBC Adopts Responsible Investment Strategy}
   \verb{url}
@@ -11911,8 +12284,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U15}
-  \strng{fullhash}{U15}
+  \strng{namehash}{U22}
+  \strng{fullhash}{U22}
   \field{sortinit}{U}
   \field{title}{UCSB Faculty Senate Votes in Favor of Fossil Fuel Divestment}
   \verb{url}
@@ -11930,8 +12303,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U16}
-  \strng{fullhash}{U16}
+  \strng{namehash}{U23}
+  \strng{fullhash}{U23}
   \field{sortinit}{U}
   \field{title}{Abdallah Daar}
   \verb{url}
@@ -11947,8 +12320,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U16}
-  \strng{fullhash}{U16}
+  \strng{namehash}{U23}
+  \strng{fullhash}{U23}
   \field{sortinit}{U}
   \field{title}{Institute of Global Health Equity and Innovation}
   \verb{url}
@@ -11965,8 +12338,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U16}
-  \strng{fullhash}{U16}
+  \strng{namehash}{U23}
+  \strng{fullhash}{U23}
   \field{sortinit}{U}
   \field{title}{Richard Peltier}
   \verb{url}
@@ -11982,8 +12355,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U16}
-  \strng{fullhash}{U16}
+  \strng{namehash}{U23}
+  \strng{fullhash}{U23}
   \field{sortinit}{U}
   \field{title}{Ron Dembo}
   \verb{url}
@@ -11999,8 +12372,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U16}
-  \strng{fullhash}{U16}
+  \strng{namehash}{U23}
+  \strng{fullhash}{U23}
   \field{sortinit}{U}
   \field{title}{University of Toronto going greener this year}
   \verb{url}
@@ -12018,8 +12391,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U17}
-  \strng{fullhash}{U17}
+  \strng{namehash}{U24}
+  \strng{fullhash}{U24}
   \field{sortinit}{U}
   \field{title}{Report of the Advisory Board on Tobacco Investment}
   \verb{url}
@@ -12037,8 +12410,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U18}
-  \strng{fullhash}{U18}
+  \strng{namehash}{U25}
+  \strng{fullhash}{U25}
   \field{sortinit}{U}
   \field{title}{Canadian Equities Above \$1 Million As at March 31, 2012}
   \verb{url}
@@ -12056,8 +12429,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U18}
-  \strng{fullhash}{U18}
+  \strng{namehash}{U25}
+  \strng{fullhash}{U25}
   \field{sortinit}{U}
   \field{title}{International Equities Above \$1 Million As at March 31, 2012}
   \verb{url}
@@ -12075,8 +12448,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U19}
-  \strng{fullhash}{U19}
+  \strng{namehash}{U26}
+  \strng{fullhash}{U26}
   \field{sortinit}{U}
   \field{title}{Distinguished Lecturer Series (2012-13)}
   \verb{url}
@@ -12093,8 +12466,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U20}
-  \strng{fullhash}{U20}
+  \strng{namehash}{U27}
+  \strng{fullhash}{U27}
   \field{sortinit}{U}
   \field{title}{Statement of Institutional Purpose}
   \verb{url}
@@ -12111,8 +12484,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U20}
-  \strng{fullhash}{U20}
+  \strng{namehash}{U27}
+  \strng{fullhash}{U27}
   \field{sortinit}{U}
   \field{title}{University Environmental Protection Policy}
   \verb{url}
@@ -12129,8 +12502,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U21}
-  \strng{fullhash}{U21}
+  \strng{namehash}{U28}
+  \strng{fullhash}{U28}
   \field{sortinit}{U}
   \field{title}{Climate change, range expansion and evolution of flowering
   phenology}
@@ -12147,8 +12520,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U22}
-  \strng{fullhash}{U22}
+  \strng{namehash}{U29}
+  \strng{fullhash}{U29}
   \field{sortinit}{U}
   \field{title}{Grow Smart, Grow Green}
   \verb{url}
@@ -12164,8 +12537,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U23}
-  \strng{fullhash}{U23}
+  \strng{namehash}{U30}
+  \strng{fullhash}{U30}
   \field{sortinit}{U}
   \field{title}{Terms of Reference}
   \verb{url}
@@ -12183,8 +12556,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U24}
-  \strng{fullhash}{U24}
+  \strng{namehash}{U31}
+  \strng{fullhash}{U31}
   \field{sortinit}{U}
   \field{title}{Energy}
   \verb{url}
@@ -12200,8 +12573,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U24}
-  \strng{fullhash}{U24}
+  \strng{namehash}{U31}
+  \strng{fullhash}{U31}
   \field{sortinit}{U}
   \field{title}{Strategic Plan 2011}
   \verb{url}
@@ -12219,8 +12592,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U25}
-  \strng{fullhash}{U25}
+  \strng{namehash}{U32}
+  \strng{fullhash}{U32}
   \field{sortinit}{U}
   \field{title}{Environmental Research Database}
   \verb{url}
@@ -12236,8 +12609,8 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U26}
-  \strng{fullhash}{U26}
+  \strng{namehash}{U33}
+  \strng{fullhash}{U33}
   \field{sortinit}{U}
   \field{title}{2010 St. George Sustainability Office Report}
   \verb{url}
@@ -12254,277 +12627,13 @@
      {}{}%
      {}{}}%
   }
-  \strng{namehash}{U26}
-  \strng{fullhash}{U26}
+  \strng{namehash}{U33}
+  \strng{fullhash}{U33}
   \field{sortinit}{U}
   \field{title}{About us}
   \verb{url}
   \verb http://sustainability.utoronto.ca/about.htm
   \endverb
-\endentry
-
-\entry{CorpsEngSeaLevel}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Army Corps of Engineers}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U27}
-  \strng{fullhash}{U27}
-  \field{sortinit}{U}
-  \field{title}{US Army Corps response to Sea Level Rise}
-  \verb{url}
-  \verb http://www.dep.state.fl.us/coastal/sites/gtm/pub/ctp/coastal_rivers/USA
-  \verb CE_Response.pdf
-  \endverb
-  \field{year}{{2011}}
-\endentry
-
-\entry{20PercentBy2030}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Energy}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U28}
-  \strng{fullhash}{U28}
-  \field{sortinit}{U}
-  \field{title}{20\% Wind Energy by 2030: Increasing Wind Energy's Contribution
-  to U.S. Electricity Supply}
-  \verb{url}
-  \verb http://www.nrel.gov/docs/fy08osti/41869.pdf
-  \endverb
-  \field{year}{{2008}}
-\endentry
-
-\entry{USEffectsOnEnergy}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Energy}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U28}
-  \strng{fullhash}{U28}
-  \field{sortinit}{U}
-  \field{title}{Climate Change: Effects on Our Energy}
-  \verb{url}
-  \verb http://energy.gov/articles/climate-change-effects-our-energy
-  \endverb
-  \field{year}{{2013}}
-\endentry
-
-\entry{Hubs}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Energy}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U28}
-  \strng{fullhash}{U28}
-  \field{sortinit}{U}
-  \field{title}{Energy Innovation Hubs}
-  \verb{url}
-  \verb http://energy.gov/science-innovation/innovation/hubs
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
-\endentry
-
-\entry{EnergyHubs}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Energy}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U28}
-  \strng{fullhash}{U28}
-  \field{sortinit}{U}
-  \field{title}{Energy Innovation Hubs: Achieving Our Energy Goals with
-  Science}
-  \verb{url}
-  \verb http://energy.gov/articles/energy-innovation-hubs-achieving-our-energy-
-  \verb goals-science
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
-\endentry
-
-\entry{GridModernization}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Energy}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U28}
-  \strng{fullhash}{U28}
-  \field{sortinit}{U}
-  \field{title}{Obama Administration Announces Job-Creating Grid Modernization
-  Pilot Projects}
-  \verb{url}
-  \verb http://energy.gov/articles/obama-administration-announces-job-creating-
-  \verb grid-modernization-pilot-projects
-  \endverb
-  \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
-\endentry
-
-\entry{BetterBuildings}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Energy}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U28}
-  \strng{fullhash}{U28}
-  \field{sortinit}{U}
-  \field{title}{Progress Update Spring 2013}
-  \verb{url}
-  \verb http://www4.eere.energy.gov/challenge/sites/default/files/uploaded-file
-  \verb s/may-recognition-fs-052013.pdf
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
-\endentry
-
-\entry{DOIWindPower}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of the Interior}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U29}
-  \strng{fullhash}{U29}
-  \field{sortinit}{U}
-  \field{title}{Salazar Authorizes Landmark Wyoming Wind Project Site}
-  \verb{url}
-  \verb http://www.blm.gov/wo/st/en/info/newsroom/2012/october/NR_10_09_2012.ht
-  \verb ml
-  \endverb
-  \warn{\item Invalid format of field 'date' \item Invalid format of field
-  'date'}
-\endentry
-
-\entry{CMAQ}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Transportation}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U30}
-  \strng{fullhash}{U30}
-  \field{sortinit}{U}
-  \field{title}{CMAQ and SAFETEA-LU}
-  \verb{url}
-  \verb http://www.fhwa.dot.gov/environment/air_quality/cmaq/reference/safetea-
-  \verb lu/
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
-\endentry
-
-\entry{CMAQProgram}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Department of Transportation}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U30}
-  \strng{fullhash}{U30}
-  \field{sortinit}{U}
-  \field{title}{Congestion Mitigation and Air Quality Improvement (CMAQ)
-  Program}
-  \verb{url}
-  \verb http://www.fhwa.dot.gov/environment/air_quality/cmaq/
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
-\endentry
-
-\entry{EIAShaleOilGas}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Energy Information Administration}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U31}
-  \strng{fullhash}{U31}
-  \field{sortinit}{U}
-  \field{title}{Technically Recoverable Shale Oil and Shale Gas Resources: An
-  Assessment of 137 Shale Formations in 41 Countries Outside the United States}
-  \verb{url}
-  \verb http://www.eia.gov/analysis/studies/worldshalegas/
-  \endverb
-  \field{year}{{2013}}
-\endentry
-
-\entry{USGCRP}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. Global Change Research Program}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U32}
-  \strng{fullhash}{U32}
-  \field{sortinit}{U}
-  \field{title}{About}
-  \verb{url}
-  \verb http://www.globalchange.gov/about
-  \endverb
-  \warn{\item Invalid format of field 'urldate'}
-\endentry
-
-\entry{Charney1979}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. National Academy of Sciences}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U33}
-  \strng{fullhash}{U33}
-  \field{sortinit}{U}
-  \field{title}{Ad Hoc Study Group on Carbon Dioxide and Climate}
-  \verb{url}
-  \verb http://www.atmos.ucla.edu/~brianpm/download/charney_report.pdf
-  \endverb
-\endentry
-
-\entry{SleepingGiant}{misc}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{U.S. National Aeronautics and Space Administration}}{U.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \strng{namehash}{U34}
-  \strng{fullhash}{U34}
-  \field{sortinit}{U}
-  \field{title}{Is a Sleeping Climate Giant Stirring in the Arctic?}
-  \verb{url}
-  \verb http://www.nasa.gov/topics/earth/features/earth20130610.html
-  \endverb
-  \field{year}{{2013}}
 \endentry
 
 \entry{Vaks2013}{article}{}
@@ -12648,18 +12757,23 @@
 \endentry
 
 \entry{GrenelleEnvironment}{misc}{}
-  \name{author}{1}{}{%
+  \name{author}{2}{}{%
     {{}%
-     {{Vieira, Ricardo Stanziola and Bétaille, Julien}}{V.}%
+     {Vieira}{V.}%
+     {Ricardo~Stanziola}{R.~S.}%
      {}{}%
+     {}{}}%
+    {{}%
+     {Bétaille}{B.}%
+     {Julien}{J.}%
      {}{}%
      {}{}}%
   }
   \list{publisher}{1}{%
     {IUCN Environmental Law Centre}%
   }
-  \strng{namehash}{V2}
-  \strng{fullhash}{V2}
+  \strng{namehash}{VRSBJ1}
+  \strng{fullhash}{VRSBJ1}
   \field{sortinit}{V}
   \field{number}{70}
   \field{title}{Grenelle de l'environnement: Is France Making Up for Lost
@@ -13592,31 +13706,6 @@
   \endverb
   \field{journaltitle}{Proceedings of the National Academy of Sciences}
   \field{year}{{2012}}
-\endentry
-
-\entry{Reduction2020}{article}{}
-  \name{author}{1}{}{%
-    {{}%
-     {{Égert, Balázs}}{�.}%
-     {}{}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {OECD Publishing}%
-  }
-  \strng{namehash}{�1}
-  \strng{fullhash}{�1}
-  \field{sortinit}{�}
-  \field{number}{859}
-  \field{title}{France's Environmental Policies: Internalising Global and Local
-  Externalities}
-  \verb{url}
-  \verb http://dx.doi.org/10.1787/5kgdpn0n9d8v-en
-  \endverb
-  \field{journaltitle}{OECD Economics Department Working Papers}
-  \field{year}{2011}
-  \warn{\item Invalid format of field 'month'}
 \endentry
 
 \lossort

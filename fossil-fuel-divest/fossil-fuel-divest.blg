@@ -13,7 +13,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 85648 items from 5000.
+Reallocated field_info (elt_size=4) to 86056 items from 5000.
 Database file #1: fossil-fuel-divest-blx.bib
 Database file #2: fossil-fuel-divest.bib
 I was expecting a `,' or a `}'---line 46 of file fossil-fuel-divest.bib
@@ -58,15 +58,15 @@ I was expecting a `,' or a `}'---line 2313 of file fossil-fuel-divest.bib
  :  title = "Climate Change",
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 3140 of file fossil-fuel-divest.bib
+Repeated entry---line 3141 of file fossil-fuel-divest.bib
  : @misc{UTSustOffice
  :                   ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3901 of file fossil-fuel-divest.bib
+I was expecting a `,' or a `}'---line 3902 of file fossil-fuel-divest.bib
  :  url = "http://www.theglobeandmail.com/news/politics/keystone-pipeline-approval-complete-no-brainer-harper-says/article4203332/"
  :                                                                                                                                 m
 I'm skipping whatever remains of this entry
-I was expecting an "="---line 4596 of file fossil-fuel-divest.bib
+I was expecting an "="---line 4597 of file fossil-fuel-divest.bib
  : 
  : }
 (Error may have been on previous line)
@@ -155,45 +155,45 @@ Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canade
 while executing---line 2645 of file biblatex.bst
 Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
 while executing---line 2645 of file biblatex.bst
-You've used 593 entries,
+You've used 596 entries,
             6019 wiz_defined-function locations,
-            4062 strings with 127733 characters,
-and the built_in function-call counts, 1645113 in all, are:
-= -- 57584
-> -- 56850
-< -- 14965
-+ -- 13692
-- -- 20056
-* -- 109611
-:= -- 97745
+            4074 strings with 128278 characters,
+and the built_in function-call counts, 1655144 in all, are:
+= -- 58000
+> -- 57204
+< -- 15073
++ -- 13798
+- -- 20178
+* -- 110340
+:= -- 98311
 add.period$ -- 0
-call.type$ -- 593
-change.case$ -- 5930
+call.type$ -- 596
+change.case$ -- 5986
 chr.to.int$ -- 395
-cite$ -- 1184
-duplicate$ -- 193554
-empty$ -- 183110
-format.name$ -- 36483
-if$ -- 376634
+cite$ -- 1190
+duplicate$ -- 194711
+empty$ -- 184131
+format.name$ -- 36716
+if$ -- 378935
 int.to.chr$ -- 0
-int.to.str$ -- 1941
+int.to.str$ -- 1954
 missing$ -- 0
-newline$ -- 13346
-num.names$ -- 27171
-pop$ -- 190274
+newline$ -- 13432
+num.names$ -- 27343
+pop$ -- 191255
 preamble$ -- 1
-purify$ -- 7027
+purify$ -- 7090
 quote$ -- 0
-skip$ -- 102383
+skip$ -- 103035
 stack$ -- 0
-substring$ -- 15903
-swap$ -- 56841
-text.length$ -- 14682
-text.prefix$ -- 592
+substring$ -- 16100
+swap$ -- 57189
+text.length$ -- 14767
+text.prefix$ -- 595
 top$ -- 1
-type$ -- 22521
+type$ -- 22635
 warning$ -- 0
-while$ -- 11292
+while$ -- 11348
 width$ -- 0
-write$ -- 12752
+write$ -- 12835
 (There were 47 error messages)
