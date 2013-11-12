@@ -1,0 +1,45 @@
+Although adaptation strategies may provide certain methods for dealing with select risks to agricultural production that are directly associated with climate change, climate change mitigation through reducing GHG emissions is essential to the long-term health and prosperity of the agricultural sector in Canada.
+
+
+
+
+
+
+
+
+
+% BEGIN APPENDIX III - MILAN
+% Last updated by Milan Ilnyckyj 2013-11-12
+
+
+
+\clearpage
+
+
+
+		\singlespacing
+		\section{Appendix III: Errata}
+		\label{sec:Errata}
+		\doublespacing
+
+
+
+According to the University of Toronto's \nameref{PolicySocialPolitical}: ``When the brief has been fully prepared, the initiators of the request must secure evidence of support for their cause through the collection of at least 300 signatures endorsing the brief... Each signatory must attest that he/she has read and agrees with the entire content of the brief.''
+
+
+
+This appendix includes any corrections that have been made to the brief since it was officially opened for signature on September 9th 2013.
+
+
+
+\textbf{October 1st 2013:} In \nameref{sec:200Companies}, the sentence: ``Toronto350.org is asking the University of Toronto to divest from direct stock holdings the following 200 companies'' was corrected to ``Toronto350.org is asking the University of Toronto to divest from direct stock holdings in the following 200 companies''.
+
+
+
+\textbf{October 11th 2013:} In \nameref{subsec-Nigerialegal}, the original link to a photograph of the first two pages of Ken Saro-Wiwa's letter to his son at \url{http://www.flickr.com/photos/sindark/7947170092/in/set-72157631444407428} was replaced with a link to photographs of the entire letter at: \url{http://www.flickr.com/photos/sindark/sets/72157636446975176/}. The explanatory footnote ``Photographs of the letter and chair can be accessed at'' was also added.
+
+\textbf{November 12th 2013:} In \nameref{sec:PricingSocialCost}, the phrase: ``climate change mitigation thorough reducing GHG emissions is essential to the long-term health and prosperity of the agricultural sector in Canada'' was replaced with the phrase: ``climate change mitigation through reducing GHG emissions is essential to the long-term health and prosperity of the agricultural sector in Canada''. The phrase: ``these fish serve add to the discussion of threats to Canadian coastal environments described above'' was replaced with the phrase: ``these fish add to the discussion of threats to Canadian coastal environments described above''. In \nameref{NoDivestPenalty}, the phrase: ``As the injury caused by climate change has more obvious'' was replaced with the phrase: ``As the injury caused by climate change has become more obvious''. In \nameref{PeerSchools}, the phrase: ``and was rejected on by the Board of Governors on May 23rd 2013'' was replaced with the phrase: ``and was rejected by the Board of Governors on May 23rd 2013''.
+
+
+
+% END APPENDIX III - MILAN
