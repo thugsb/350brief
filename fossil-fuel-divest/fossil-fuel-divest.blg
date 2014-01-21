@@ -13,7 +13,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 86056 items from 5000.
+Reallocated field_info (elt_size=4) to 86192 items from 5000.
 Database file #1: fossil-fuel-divest-blx.bib
 Database file #2: fossil-fuel-divest.bib
 I was expecting a `,' or a `}'---line 46 of file fossil-fuel-divest.bib
@@ -155,45 +155,45 @@ Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canade
 while executing---line 2645 of file biblatex.bst
 Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canadell, Josep G. and Piao, Shilong, and Sitch, Stephen and White, Michael A. and Hashimoto, Hirofumi and Milesi, Cristina and Myneni, Ranga B." has a comma at the end for entry Wang2013
 while executing---line 2645 of file biblatex.bst
-You've used 596 entries,
+You've used 597 entries,
             6019 wiz_defined-function locations,
-            4074 strings with 128278 characters,
-and the built_in function-call counts, 1655144 in all, are:
-= -- 58000
-> -- 57204
-< -- 15073
-+ -- 13798
-- -- 20178
-* -- 110340
-:= -- 98311
+            4078 strings with 128467 characters,
+and the built_in function-call counts, 1657736 in all, are:
+= -- 58091
+> -- 57293
+< -- 15096
++ -- 13815
+- -- 20208
+* -- 110492
+:= -- 98463
 add.period$ -- 0
-call.type$ -- 596
-change.case$ -- 5986
+call.type$ -- 597
+change.case$ -- 5995
 chr.to.int$ -- 395
-cite$ -- 1190
-duplicate$ -- 194711
-empty$ -- 184131
-format.name$ -- 36716
-if$ -- 378935
+cite$ -- 1192
+duplicate$ -- 195015
+empty$ -- 184428
+format.name$ -- 36770
+if$ -- 379538
 int.to.chr$ -- 0
-int.to.str$ -- 1954
+int.to.str$ -- 1958
 missing$ -- 0
-newline$ -- 13432
-num.names$ -- 27343
-pop$ -- 191255
+newline$ -- 13451
+num.names$ -- 27390
+pop$ -- 191574
 preamble$ -- 1
-purify$ -- 7090
+purify$ -- 7100
 quote$ -- 0
-skip$ -- 103035
+skip$ -- 103203
 stack$ -- 0
-substring$ -- 16100
-swap$ -- 57189
-text.length$ -- 14767
-text.prefix$ -- 595
+substring$ -- 16117
+swap$ -- 57274
+text.length$ -- 14790
+text.prefix$ -- 596
 top$ -- 1
-type$ -- 22635
+type$ -- 22673
 warning$ -- 0
-while$ -- 11348
+while$ -- 11367
 width$ -- 0
-write$ -- 12835
+write$ -- 12853
 (There were 47 error messages)
