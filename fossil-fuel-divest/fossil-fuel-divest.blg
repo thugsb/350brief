@@ -16,60 +16,12 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated field_info (elt_size=4) to 86192 items from 5000.
 Database file #1: fossil-fuel-divest-blx.bib
 Database file #2: fossil-fuel-divest.bib
-I was expecting a `,' or a `}'---line 46 of file fossil-fuel-divest.bib
- :  
- :  year = "{1990}",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 53 of file fossil-fuel-divest.bib
- :  
- :  year = "{1995}",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 67 of file fossil-fuel-divest.bib
- :  
- :  year = "{2007}",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 141 of file fossil-fuel-divest.bib
- :  
- :  TITLE = "Yukon Environmental and Socio-economic Assessment Act"
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 149 of file fossil-fuel-divest.bib
- :  
- :  URL = "http://www.justice.gov.nt.ca/PDF/ACTS/Environmental%20Rights.pdf",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1177 of file fossil-fuel-divest.bib
- :  url = "http://www.omafra.gov.on.ca/english/engineer/facts/climatechange.htm"
- :                                                                              .
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1278 of file fossil-fuel-divest.bib
- :  
- :  year = "{2012}",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--entry type for "OntarioPledge" isn't style-file defined
 --line 1364 of file fossil-fuel-divest.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-I was expecting a `,' or a `}'---line 2313 of file fossil-fuel-divest.bib
- :  
- :  title = "Climate Change",
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Repeated entry---line 3141 of file fossil-fuel-divest.bib
  : @misc{UTSustOffice
  :                   ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3902 of file fossil-fuel-divest.bib
- :  url = "http://www.theglobeandmail.com/news/politics/keystone-pipeline-approval-complete-no-brainer-harper-says/article4203332/"
- :                                                                                                                                 m
-I'm skipping whatever remains of this entry
-I was expecting an "="---line 4597 of file fossil-fuel-divest.bib
- : 
- : }
-(Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Biblatex version: 1.7
 Warning--you've exceeded 250, the entry-string-size, for entry G8plusJointStatement
@@ -157,43 +109,43 @@ Name 5 in "Wang, Weile and Ciais, Philippe and Nemani, Ramakrishna R. and Canade
 while executing---line 2645 of file biblatex.bst
 You've used 597 entries,
             6019 wiz_defined-function locations,
-            4078 strings with 128467 characters,
-and the built_in function-call counts, 1657736 in all, are:
+            4081 strings with 128529 characters,
+and the built_in function-call counts, 1657958 in all, are:
 = -- 58091
 > -- 57293
 < -- 15096
 + -- 13815
-- -- 20208
-* -- 110492
-:= -- 98463
+- -- 20210
+* -- 110541
+:= -- 98470
 add.period$ -- 0
 call.type$ -- 597
-change.case$ -- 5995
+change.case$ -- 6001
 chr.to.int$ -- 395
 cite$ -- 1192
-duplicate$ -- 195015
-empty$ -- 184428
+duplicate$ -- 195044
+empty$ -- 184459
 format.name$ -- 36770
-if$ -- 379538
+if$ -- 379581
 int.to.chr$ -- 0
 int.to.str$ -- 1958
 missing$ -- 0
-newline$ -- 13451
+newline$ -- 13460
 num.names$ -- 27390
-pop$ -- 191574
+pop$ -- 191553
 preamble$ -- 1
-purify$ -- 7100
+purify$ -- 7106
 quote$ -- 0
-skip$ -- 103203
+skip$ -- 103204
 stack$ -- 0
-substring$ -- 16117
-swap$ -- 57274
+substring$ -- 16126
+swap$ -- 57315
 text.length$ -- 14790
 text.prefix$ -- 596
 top$ -- 1
 type$ -- 22673
 warning$ -- 0
-while$ -- 11367
+while$ -- 11368
 width$ -- 0
-write$ -- 12853
-(There were 47 error messages)
+write$ -- 12862
+(There were 37 error messages)

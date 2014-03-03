@@ -1478,6 +1478,10 @@
   \strng{namehash}{C14}
   \strng{fullhash}{C14}
   \field{sortinit}{C}
+  \field{title}{Climate Change}
+  \verb{url}
+  \verb http://www.chevron.com/globalissues/climatechange/
+  \endverb
 \endentry
 
 \entry{ChinaRestructuring}{misc}{}
@@ -5695,6 +5699,7 @@
   \verb https://www.ipcc.ch/ipccreports/1992%20IPCC%20Supplement/IPCC_1990_and_
   \verb 1992_Assessments/English/ipcc_90_92_assessments_far_overview.pdf
   \endverb
+  \field{year}{{1990}}
 \endentry
 
 \entry{IPCC2007}{misc}{}
@@ -5712,6 +5717,7 @@
   \verb{url}
   \verb https://www.ipcc.ch/publications_and_data/ar4/syr/en/contents.html
   \endverb
+  \field{year}{{2007}}
 \endentry
 
 \entry{IPCCHurricane}{misc}{}
@@ -5771,6 +5777,7 @@
   \verb https://www.ipcc.ch/pdf/climate-changes-1995/ipcc-2nd-assessment/2nd-as
   \verb sessment-en.pdf
   \endverb
+  \field{year}{{1995}}
 \endentry
 
 \entry{IPCCThermohaline}{misc}{}
@@ -6924,6 +6931,7 @@
   \verb http://www.theglobeandmail.com/news/politics/keystone-pipeline-approval
   \verb -complete-no-brainer-harper-says/article4203332/
   \endverb
+  \field{year}{{2011}}
 \endentry
 
 \entry{McGillRejection}{misc}{}
@@ -10875,6 +10883,7 @@
   \verb{url}
   \verb http://www.ibc.ca/en/natural_disasters/documents/mcbean_report.pdf
   \endverb
+  \field{year}{{2012}}
 \endentry
 
 \entry{RoyalSocEnvHealth}{misc}{}
